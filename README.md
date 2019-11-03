@@ -1,7 +1,9 @@
 # Warrior
 A short walk in time.
 
-Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, or Success, Bodybuilding will ensue from pursuit of things that are just out of your reach. [Viktor E. Frankl](https://youtu.be/LlC2OdnhIiQ) wrote:
+Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, or Success, Bodybuilding will ensue from pursuit of things that are just out of your reach. [Viktor E. Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl) wrote:
+
+[![Ayn Rand First Interview 1959 (Full)](http://img.youtube.com/vi/LlC2OdnhIiQ/0.jpg)](http://www.youtube.com/watch?v=LlC2OdnhIiQ)
 
 *Don't aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long-run—in the long-run, I say! — success will follow you precisely because you had forgotten to think about it*
 
@@ -136,6 +138,8 @@ And - which is more - you'll be a Man, my son!*<br>
 
 ## The Intellectual
 
-The Greatest minds of our generation, looked back learned and brought the waining wisdom back. The most magnificent being to go back and learn, and rise, and triumph is Ayn Rand.
+The Greatest minds of our generation, looked back learned and brought the waining wisdom back. The most magnificent being to go back and learn, and rise, and triumph is Ayn Rand. I will let her speak for her self:
 
 [![Ayn Rand First Interview 1959 (Full)](http://img.youtube.com/vi/1ooKsv_SX4Y/0.jpg)](http://www.youtube.com/watch?v=1ooKsv_SX4Y)
+
+## The Ultra
