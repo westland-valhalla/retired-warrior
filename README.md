@@ -97,7 +97,11 @@ I think that one is [Rudyard Kipling](https://en.wikipedia.org/wiki/Rudyard_Kipl
 
 His poem "If" is a magnificent reminder that growing up is not optional.
 
-*_IF_ you can keep your head when all about you<br>
+Here is Sir Michael Caine reciting his poem.
+
+[![IF, Rudyard Kipling's poem, recited by Sir Michael Caine](http://img.youtube.com/vi/EEFMVIfl2UY/0.jpg)](http://www.youtube.com/watch?v=EEFMVIfl2UY)
+
+*IF you can keep your head when all about you<br>
 Are losing theirs and blaming it on you,<br>
 If you can trust yourself when all men doubt you,<br>
 But make allowance for their doubting too;<br>
