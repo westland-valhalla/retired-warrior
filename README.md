@@ -133,3 +133,9 @@ If you can fill the unforgiving minute<br>
 With sixty seconds' worth of distance run,<br>
 Yours is the Earth and everything that's in it,<br>
 And - which is more - you'll be a Man, my son!*<br>
+
+## The Intellectual
+
+The Greatest minds of our generation, looked back learned and brought the waining wisdom back. The most magnificent being to go back and learn, and rise, and triumph is Ayn Rand.
+
+[![Ayn Rand First Interview 1959 (Full)](http://img.youtube.com/vi/1ooKsv_SX4Y/0.jpg)](http://www.youtube.com/watch?v=1ooKsv_SX4Y)
