@@ -71,3 +71,22 @@ And a code of conduct that aimed to revolve around Authenticity was born:
 
 *The right can never die, If one man still recalls, The words are not forgot, If one voice speaks them clear, The code forever shines, If one heart holds it bright:
 *The knight is sworn to valor, His heart knows only virtue, His blade defends the helpless, His might upholds the weak, His words speak only truth, His wrath undoes the wicked.*
+
+
+## The Lady and The Gentleman
+
+It has been said: *A King may make a Nobleman but he cannot make Gentleman.*
+
+There is no force in the universe that can help a person grow up.
+
+![](images/gentleman.jpg)
+
+Gentlemen emerged from Knights, inheriting the philosophies of Knightly Virtues. I am sure every fool, wealthy or poor, tried to call him self a gentlemen, but I think back then people paid attention to such claims. I think the lies that we accept from people of authority would be treated much more harshly, the virtues mattered.
+
+## The Officer
+
+![](images/honor-code.jpg)
+
+Here, we come to today, the modern times. In the battle between the Gentleman and The Officer. The Gentleman was lost. The honor code is no longer aimed at Men, it is now aimed at cadets, aimed away from the public. It almost seems like growing up is optional, and things get very strange in deed:
+
+[![West Point Pillow Fight Turns Violent](http://img.youtube.com/vi/85dhw7nulb4/0.jpg)](http://www.youtube.com/watch?v=85dhw7nulb4)
