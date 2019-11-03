@@ -90,3 +90,42 @@ Gentlemen emerged from Knights, inheriting the philosophies of Knightly Virtues.
 Here, we come to today, the modern times. In the battle between the Gentleman and The Officer. The Gentleman was lost. The honor code is no longer aimed at Men, it is now aimed at cadets, aimed away from the public. It almost seems like growing up is optional, and things get very strange in deed:
 
 [![West Point Pillow Fight Turns Violent](http://img.youtube.com/vi/85dhw7nulb4/0.jpg)](http://www.youtube.com/watch?v=85dhw7nulb4)
+
+At times like these, where our greatest lessons are forgotten we must look back at where things got lost. At times like these the Knigtly Virtues ring again. As the poem says *The right can never die, If one man still recalls, The words are not forgot, If one voice speaks them clear, The code forever shines, If one heart holds it bright*
+
+I think that one is [Rudyard Kipling](https://en.wikipedia.org/wiki/Rudyard_Kipling) I find it delightful that he chose not to be Knighted, he did not need to look back. Some call him the finest example of a Gentleman.
+
+His poem "If" is a magnificent reminder that growing up is not optional.
+
+*_IF_ you can keep your head when all about you<br>
+Are losing theirs and blaming it on you,<br>
+If you can trust yourself when all men doubt you,<br>
+But make allowance for their doubting too;<br>
+If you can wait and not be tired by waiting,<br>
+Or being lied about, don't deal in lies,<br>
+Or being hated, don't give way to hating,<br>
+And yet don't look too good, nor talk too wise:<br>
+If you can dream - and not make dreams your master;<br>
+If you can think - and not make thoughts your aim;<br>
+If you can meet with Triumph and Disaster<br>
+And treat those two impostors just the same;<br>
+If you can bear to hear the truth you've spoken<br>
+Twisted by knaves to make a trap for fools,<br>
+Or watch the things you gave your life to, broken,<br>
+And stoop and build 'em up with worn-out tools:<br>
+If you can make one heap of all your winnings<br>
+And risk it on one turn of pitch-and-toss,<br>
+And lose, and start again at your beginnings<br>
+And never breathe a word about your loss;<br>
+If you can force your heart and nerve and sinew<br>
+To serve your turn long after they are gone,<br>
+And so hold on when there is nothing in you<br>
+Except the Will which says to them: 'Hold on!'<br>
+If you can talk with crowds and keep your virtue,<br>
+Or walk with Kings - nor lose the common touch,<br>
+if neither foes nor loving friends can hurt you,<br>
+If all men count with you, but none too much;<br>
+If you can fill the unforgiving minute<br>
+With sixty seconds' worth of distance run,<br>
+Yours is the Earth and everything that's in it,<br>
+And - which is more - you'll be a Man, my son!*<br>
