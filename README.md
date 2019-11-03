@@ -1,7 +1,11 @@
 # Warrior
 A short walk in time.
 
-Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, or Success, Bodybuilding will ensue from pursuit of things that are just out of your reach. People who have been hurt, or disadvantaged, or treated unfairly will find rising beyond themselves, to be an instinct. Yellow bellied buttercups like us, need a different approach, need an aim. That aim, without further ado, is becoming a Warrior.
+Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, or Success, Bodybuilding will ensue from pursuit of things that are just out of your reach. [Viktor E. Frankl](https://youtu.be/LlC2OdnhIiQ) wrote:
+
+> Don't aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long-run—in the long-run, I say! — success will follow you precisely because you had forgotten to think about it.
+
+People who have been hurt, or disadvantaged, or treated unfairly will find rising beyond themselves, to be a kind of an instinct. Yellow bellied buttercups like us, need a different approach, need an aim. That aim, without further ado, is becoming a Warrior.
 
 Warrior is the oldest name for it. Since out time in Green Africa we have progressed forward, and the word has changed, several times. But at each stage there are strong lessons to be learned, so let us step through the evolution of the warrior.
 
@@ -25,8 +29,22 @@ Just from this overview alone, you get the picture of who we are, of where we co
 - We are part of Nature, part of Planet Earth, we depend on it for our health and [Survival](https://youtu.be/TMrtLsQbaok)
 - We did not store fat, we were lean, and we knew hunger well.
 
-## The Warrior
+## The Warrior - A capacious mind
 
 ![](images/tomoe-gozen.jpg)
 
 [Tomoe](https://en.wikipedia.org/wiki/Tomoe_Gozen) (c. 1157 – 1247) was especially beautiful, with white skin, long hair, and charming features. She was also a remarkably strong archer, and as a swordswoman she was a warrior worth a thousand, ready to confront a demon or a god, mounted or on foot. She handled unbroken horses with superb skill; she rode unscathed down perilous descents. Whenever a battle was imminent, Yoshinaka sent her out as his first captain, equipped with strong armor, an oversized sword, and a mighty bow; and she performed more deeds of valor than any of his other warriors.
+
+Where a Hunter had to be a hunter of perish, becoming a warrior was almost optional. A warrior needed Training, Skill and Wisdom to survive into retirement. In my private opinion, a warrior also needed a tribe. Again, as not to live in isolation.
+
+It is in the wisdom of warriors that we find great inspiration and strength. [Nitobe Inazō](https://en.wikipedia.org/wiki/Nitobe_Inaz%C5%8D) wrote:
+
+A truly brave man is ever serene; he is never taken by surprise; nothing ruffles the equanimity of his spirit.
+
+In the heat of battle he remains cool; in the midst of catastrophes he keeps level his mind.
+
+Earthquakes do not shake him, he laughs at storms.
+
+We admire him as truly great, who, in the menacing presence of danger or death, retains his self-possession; who, for instance, can compose a poem under impending peril or hum a strain in the face of death.
+
+Such indulgence betraying no tremor in the writing or in the voice, is taken as an infallible index of a large nature - of what we call a capacious mind, which, far from being pressed or crowded, has always room for something more.
