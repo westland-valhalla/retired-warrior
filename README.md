@@ -58,3 +58,16 @@ In Eight virtues of Bushido we are reminded of the following:
 - *Duty and Loyalty*: Warriors are responsible for everything that they have done and everything that they have said, and all of the consequences that follow. They are immensely loyal to all of those in their care. To everyone that they are responsible for, they remain fiercely true.
 
 - *Self-Control*: Warriors feel more than others. This calmness of behavior and composure of mind is rooted in the choice of endurance without a groan, wisdom over ignorance, understanding over confrontation, love over anger, and unbreakability in the face of suffering and loneliness.
+
+## The Knight - Where might upholds the young
+
+![](images/galahad.jpg)
+
+As we grew so did our grasp on the Human Condition, from bloody and warring clans of respect, honor, duty and loyalty a new kind class emerged: The Knights of Virtue.
+
+Superheroes like [Galahad](https://en.wikipedia.org/wiki/Sir_Galahad_(poem)): *My good blade carves the casques of men, / My tough lance thrusteth sure, / My strength is as the strength of ten, / Because my heart is pure.*
+
+And a code of conduct that aimed to revolve around Authenticity was born:
+
+*The right can never die, If one man still recalls, The words are not forgot, If one voice speaks them clear, The code forever shines, If one heart holds it bright:
+*The knight is sworn to valor, His heart knows only virtue, His blade defends the helpless, His might upholds the weak, His words speak only truth, His wrath undoes the wicked.*
