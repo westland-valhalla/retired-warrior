@@ -155,17 +155,9 @@ The Greatest minds of our generation, looked back learned and brought the wainin
 
 ## The Athlete - ...and all of the above.
 
-While the athlete does not seem connected to the greatest minds of generations. There is a connection, it is just that we are in this era, and I believe, it is hard to see.
-
-I don't need to talk about shortcuts. I know, that you can infer from the above that there are no shortcuts to becoming Great Beings.
-
-Here is Ayn's favorite song:
-
 [![Winners](http://img.youtube.com/vi/paOvrIKH2Os/0.jpg)](http://www.youtube.com/watch?v=paOvrIKH2Os)
 
 (Click image to watch video)
-
-Here I will mention that, childhood, and teenage-hood obesity with a hard workout to recover from in in ones 30s or 40s will grand a person a hue musculature. It is easy to see how wearing a 100 - 200 lb. weight west for 30 or 40 years would have that effect. But considering human biology, it is healthier to be an endurance athlete rather than a show bodybuilder.
 
 [Human Hearts Evolved to Need Regular Activity](https://www.insidescience.org/news/human-hearts-evolved-need-regular-activity)
 
