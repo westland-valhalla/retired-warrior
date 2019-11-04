@@ -157,9 +157,7 @@ The Greatest minds of our generation, looked back learned and brought the wainin
 
 While the athlete does not seem connected to the greatest minds of generations. There is a connection, it is just that we are in this era, and I believe, it is hard to see.
 
-I don't need to talk about shortcuts. I know, that you can infer from the above, that taking the easy way, is a dead end.
-
-![](images/winners-dont-use-drugs.jpg)
+I don't need to talk about shortcuts. I know, that you can infer from the above that there are no shortcuts to becoming Great Beings.
 
 Here is Ayn's favorite song:
 
