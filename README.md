@@ -170,8 +170,26 @@ Life is not random, it is not an accident, you are an emergent plateau in an inf
 
 [![Murray Gell-Mann On Emergence](http://img.youtube.com/vi/ONiWmzrmfuY/0.jpg)](http://www.youtube.com/watch?v=ONiWmzrmfuY)
 
-Break away from the Circles
+Humanity must break away from the circles. The [Universal Declaration of Human Rights](https://librivox.org/the-universal-declaration-of-human-rights-by-the-united-nations/) needs work, each generation needs to update it and extend it beyond what it is today, grant it new voices - and there are new voices to be heard.
 
 [![Mad world - the voice of china](http://img.youtube.com/vi/z2tmRpm4iK8/0.jpg)](http://www.youtube.com/watch?v=z2tmRpm4iK8)
 
-The declaration needs work, each generation needs to update it, and grant it new voices: https://librivox.org/the-universal-declaration-of-human-rights-by-the-united-nations/ and there are new voices to be heard. Be it a workout, or erasing the religious or political borders we put in, it is always the longest possible way there, and it is always on the shoulders of giants, my friends.
+Be it a workout, or erasing the religious or political borders we put in, it is always the longest possible way there, and it is always on the shoulders of giants, my friends.
+
+## The Ultra - The New Generation
+
+[![Bruce Lee](http://img.youtube.com/vi/-U5zA7gNPKo/0.jpg)](http://www.youtube.com/watch?v=-U5zA7gNPKo)
+
+*I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.*
+
+Bruce Lee, was the first Ultra that I have heard of. Ultras are folks like you and I that train to jump a little seedling of corn. Day by day, GRADUALLY, the little corn grows a little bit taller, and the little ultra strives to jump a little bit higher.
+
+In modern times the C25K comes to mind, I invite you all to meet The Fierce Carly: http://carlifierce.com/10-k-downloads/ Just from plain experience with jogging we can guesstimate that by GRADUALLY increasing the length of distance, we will gain the endurance to run hundreds of miles.
+
+[![Dean Karnazes](http://img.youtube.com/vi/Mtp65SWoyWc/0.jpg)](http://www.youtube.com/watch?v=Mtp65SWoyWc)
+
+“The human body has limitations. The human spirit is boundless.”, “The finish line, is a pine box.”
+
+Dean Karnazes, mentions Lactic Acid build up. I think of it as mostly nonsense, where does the lactic acid go when your performance increases from long distance running? Your first mile the first time you run will burn, but the 10,000th time you will feel elation. So Dean’s claim that he is superhuman is false, in my opinion. It is your responsibility to find and discard the lies in what you are being taught.
+
+Pain, is just a chemical signal, it is a squirt of goo – pain my dear friends, does not hurt.
