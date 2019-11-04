@@ -275,7 +275,7 @@ Dan Millman, teaches us to take out the trash, to erase doubt, negativity, fear,
 
 [![Peaceful Warrior Quotes](http://img.youtube.com/vi/31lUwuhE8pc/0.jpg)](http://www.youtube.com/watch?v=31lUwuhE8pc)
 
-You are each to become a Great Being. Be it for erasing borders, or just preventing Anthropocene from becoming an extinction event https://en.wikipedia.org/wiki/Holocene_extinction it will take a Great Being to be heard, Greta Thunberg comes to mind today.
+You are each to become a Great Being. Be it for erasing borders, or just preventing Anthropocene from becoming an [extinction event](https://en.wikipedia.org/wiki/Holocene_extinction) it will take a Great Being to be heard, Greta Thunberg comes to mind today.
 
 [![Greta Thunberg](http://img.youtube.com/vi/TMrtLsQbaok/0.jpg)](http://www.youtube.com/watch?v=TMrtLsQbaok)
 
