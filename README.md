@@ -211,7 +211,9 @@ In modern times the C25K comes to mind, I invite you all to meet The Fierce Carl
 
 “The human body has limitations. The human spirit is boundless.”, “The finish line, is a pine box.”
 
-Dean Karnazes, mentions Lactic Acid build up. I think of it as mostly nonsense, where does the lactic acid go when your performance increases from long distance running? Your first mile the first time you run will burn, but the 10,000th time you will feel elation. So Dean’s claim that he is superhuman is false, in my opinion. It is your responsibility to find and discard the lies in what you are being taught.
+Dean Karnazes, mentions Lactic Acid build up. I think of it as mostly nonsense, where does the lactic acid go when your performance increases from long distance running? Your first mile the first time you run will burn, but the 10,000th time you will feel elation.
+
+Here is Dean’s book, it is a good read: [Ultramarathon Man](https://www.audible.com/pd/Ultramarathon-Man-Audiobook/B002VA3GIU)
 
 Pain, is just a chemical signal, it is a squirt of goo – pain my dear friends, does not hurt.
 
@@ -254,3 +256,13 @@ Keep lowering that rest period until no rest is needed in your routine.
 Significant Injuries are more likely if you lift heavy. If you lift heavy a few times, your muscles will not be in a flexible enough state to handle it. Eventually you will pull a muscle, hurt yourself. If you lift 5lb 10,000 times, the chanced of getting hurt are much lower. Back pain is still likely to occur, you will need a proper bed, I use the inexpensive [PragmaBed](http://pragmabed.com/)
 
 ![](images/bed.jpg)
+
+## Superheroes
+
+Dan Millman, wrote a book in which he featured him self as a character, next to the imaginary wise man Socrates, Soc for short. Dan is someone who quite literally pulled him self up by his own shoe laces.
+
+[![Dan's Ted Talk](http://img.youtube.com/vi/MDL85fzdc1g/0.jpg)](http://www.youtube.com/watch?v=MDL85fzdc1g)
+
+You can find his lovely book on Audible [Way of the Peaceful Warrior](https://www.audible.com/pd/Way-of-the-Peaceful-Warrior-Audiobook/B002UZKKSU) and it was also made into a movie:
+
+[![Way of the Peaceful Warrior Trailer](http://img.youtube.com/vi/gegNMYvY_yg/0.jpg)](http://www.youtube.com/watch?v=gegNMYvY_yg)
