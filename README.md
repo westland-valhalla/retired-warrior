@@ -278,3 +278,13 @@ Dan Millman, teaches us to take out the trash, to erase doubt, negativity, fear,
 You are each to become a Great Being. Be it for erasing borders, or just preventing Anthropocene from becoming an extinction event https://en.wikipedia.org/wiki/Holocene_extinction it will take a Great Being to be heard, Greta Thunberg comes to mind today.
 
 [![Greta Thunberg](http://img.youtube.com/vi/TMrtLsQbaok/0.jpg)](http://www.youtube.com/watch?v=TMrtLsQbaok)
+
+Mind is a Reflex Organ, Soc says, and he is right. We must be in charge of ourselves. We have to take out the trash. At night, when everything comes at you and wakes you up at 3:13am when you are not ready to fight back, you can always turn on an Audiobook by Bill Bryson, Carl Sagan, or the lovely Sarah Vowell.
+
+[A Short History of Nearly Everything](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW)<br>
+[A Walk in the Woods, Rediscovering America on the Appalachian Trail](https://www.audible.com/pd/A-Walk-in-the-Woods-Audiobook/B0091J9AQQ)<br>
+[I'm a Stranger Here Myself, Notes on Returning to America After 20 Years Away](https://www.audible.com/pd/Im-a-Stranger-Here-Myself-Audiobook/B002V5BQJQ)<br>
+[The Demon-Haunted World, Science as a Candle in the Dark](https://www.audible.com/pd/The-Demon-Haunted-World-Audiobook/B06XTZZLZ8)<br>
+[Assassination Vacation](https://www.audible.com/pd/Assassination-Vacation-Audiobook/B002V8N0VK)<br>
+
+But never give up, whatever your calling, never retreat, never surrender.
