@@ -211,3 +211,19 @@ Pain, is just a chemical signal, it is a squirt of goo – pain my dear friends,
 [![Imagine Dragons - Believer](http://img.youtube.com/vi/7wtfhZwyrcc/0.jpg)](http://www.youtube.com/watch?v=7wtfhZwyrcc)
 
 (Click image to watch video)
+
+It is when you stop, and all time scrolls by you, that really hurts. This is why I write to the youngest of you, one of the greatest Storytellers of all generations once discovered a great wish that we all wish for eventually:
+
+[![Make me young again](http://img.youtube.com/vi/wxmRulRQsLc/0.jpg)](http://www.youtube.com/watch?v=wxmRulRQsLc)
+
+(Click image to watch video)
+
+"Make me young again" - but you are young now, you can make most of it, no wax, because it is all ahead of you. Go, close your eyes and connect with your 80 year old self, and make the wish Killgore Trout did: “Make Me Young Again”, and open your eyes, and be young but wiser for it. There in you will discover the nature of the Ultra. While we live our only life, poetically we live as it was countless lives already. By wiggling forward and back we can see where we are headed, and end up where we always wished to be.
+
+[![Nietzsche's Eternal Recurrence](http://img.youtube.com/vi/EknD3KRtgDk/0.jpg)](http://www.youtube.com/watch?v=EknD3KRtgDk)
+
+(Click image to watch video)
+
+The workout is powered by the soul, of a very old warrior, who lived many a lifetime in stories, books, and poems. There is no pain, it is just a signal.
+
+On the Mind part, focus on gaining wisdom by all means. On the body part, keep extending your endurance, the pain is too primitive to catch up with an ultra.
