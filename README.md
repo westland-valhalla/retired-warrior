@@ -3,11 +3,11 @@ A short walk in time.
 
 Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, or Success, Bodybuilding will ensue from pursuit of things that are just out of your reach. [Viktor E. Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl) wrote:
 
-[![Ayn Rand First Interview 1959 (Full)](http://img.youtube.com/vi/LlC2OdnhIiQ/0.jpg)](http://www.youtube.com/watch?v=LlC2OdnhIiQ)
-
 *Don't aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long-run—in the long-run, I say! — success will follow you precisely because you had forgotten to think about it*
 
-People who have been hurt, or disadvantaged, or treated unfairly will find rising beyond themselves, to be a kind of an instinct. Yellow bellied buttercups like us, need a different approach, need an aim. That aim, without further ado, is becoming a Warrior.
+[![Viktor Frankl](http://img.youtube.com/vi/LlC2OdnhIiQ/0.jpg)](http://www.youtube.com/watch?v=LlC2OdnhIiQ)
+
+(Click image to watch video)
 
 Warrior is the oldest name for it. Since out time in Green Africa we have progressed forward, and the word has changed, several times. But at each stage there are strong lessons to be learned, so let us step through the evolution of the warrior.
 
@@ -93,13 +93,15 @@ Here, we come to today, the modern times. In the battle between the Gentleman an
 
 [![West Point Pillow Fight Turns Violent](http://img.youtube.com/vi/85dhw7nulb4/0.jpg)](http://www.youtube.com/watch?v=85dhw7nulb4)
 
+(Click image to watch video)
+
 At times like these, where our greatest lessons are forgotten we must look back at where things got lost. At times like these the Knigtly Virtues ring again. As the poem says *The right can never die, If one man still recalls, The words are not forgot, If one voice speaks them clear, The code forever shines, If one heart holds it bright*
 
 I think that one is [Rudyard Kipling](https://en.wikipedia.org/wiki/Rudyard_Kipling) I find it delightful that he chose not to be Knighted, he did not need to look back. Some call him the finest example of a Gentleman.
 
 His poem "If" is a magnificent reminder that growing up is not optional.
 
-Here is Sir Michael Caine reciting his poem.
+Here is Sir Michael Caine reciting his poem (Click image to watch video).
 
 [![IF, Rudyard Kipling's poem, recited by Sir Michael Caine](http://img.youtube.com/vi/EEFMVIfl2UY/0.jpg)](http://www.youtube.com/watch?v=EEFMVIfl2UY)
 
@@ -142,6 +144,8 @@ The Greatest minds of our generation, looked back learned and brought the wainin
 
 [![Ayn Rand First Interview 1959 (Full)](http://img.youtube.com/vi/1ooKsv_SX4Y/0.jpg)](http://www.youtube.com/watch?v=1ooKsv_SX4Y)
 
+(Click image to watch video)
+
 ## The Athlete - ...and all of the above.
 
 While the athlete does not seem connected to the greatest minds of generations. There is a connection, it is just that we are in this era, and I believe, it is hard to see.
@@ -152,7 +156,9 @@ I don't need to talk about shortcuts. I know, that you can infer from the above,
 
 Here is Ayn's favorite song:
 
-[![Ayn Rand First Interview 1959 (Full)](http://img.youtube.com/vi/paOvrIKH2Os/0.jpg)](http://www.youtube.com/watch?v=paOvrIKH2Os)
+[![Winners](http://img.youtube.com/vi/paOvrIKH2Os/0.jpg)](http://www.youtube.com/watch?v=paOvrIKH2Os)
+
+(Click image to watch video)
 
 Here I will mention that, childhood, and teenage-hood obesity with a hard workout to recover from in in ones 30s or 40s will grand a person a hue musculature. It is easy to see how wearing a 100 - 200 lb. weight west for 30 or 40 years would have that effect. But considering human biology, it is healthier to be an endurance athlete rather than a show bodybuilder.
 
@@ -170,15 +176,21 @@ Life is not random, it is not an accident, you are an emergent plateau in an inf
 
 [![Murray Gell-Mann On Emergence](http://img.youtube.com/vi/ONiWmzrmfuY/0.jpg)](http://www.youtube.com/watch?v=ONiWmzrmfuY)
 
+(Click image to watch video)
+
 Humanity must break away from the circles. The [Universal Declaration of Human Rights](https://librivox.org/the-universal-declaration-of-human-rights-by-the-united-nations/) needs work, each generation needs to update it and extend it beyond what it is today, grant it new voices - and there are new voices to be heard.
 
 [![Mad world - the voice of china](http://img.youtube.com/vi/z2tmRpm4iK8/0.jpg)](http://www.youtube.com/watch?v=z2tmRpm4iK8)
+
+(Click image to watch video)
 
 Be it a workout, or erasing the religious or political borders we put in, it is always the longest possible way there, and it is always on the shoulders of giants, my friends.
 
 ## The Ultra - The New Generation
 
 [![Bruce Lee](http://img.youtube.com/vi/-U5zA7gNPKo/0.jpg)](http://www.youtube.com/watch?v=-U5zA7gNPKo)
+
+(Click image to watch video)
 
 *I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.*
 
@@ -187,6 +199,8 @@ Bruce Lee, was the first Ultra that I have heard of. Ultras are folks like you a
 In modern times the C25K comes to mind, I invite you all to meet The Fierce Carly: http://carlifierce.com/10-k-downloads/ Just from plain experience with jogging we can guesstimate that by GRADUALLY increasing the length of distance, we will gain the endurance to run hundreds of miles.
 
 [![Dean Karnazes](http://img.youtube.com/vi/Mtp65SWoyWc/0.jpg)](http://www.youtube.com/watch?v=Mtp65SWoyWc)
+
+(Click image to watch video)
 
 “The human body has limitations. The human spirit is boundless.”, “The finish line, is a pine box.”
 
