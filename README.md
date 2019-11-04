@@ -37,7 +37,7 @@ Just from this overview alone, you get the picture of who we are, of where we co
 
 *[Tomoe](https://en.wikipedia.org/wiki/Tomoe_Gozen) (c. 1157 – 1247) was especially beautiful, with white skin, long hair, and charming features. She was also a remarkably strong archer, and as a swordswoman she was a warrior worth a thousand, ready to confront a demon or a god, mounted or on foot. She handled unbroken horses with superb skill; she rode unscathed down perilous descents. Whenever a battle was imminent, Yoshinaka sent her out as his first captain, equipped with strong armor, an oversized sword, and a mighty bow; and she performed more deeds of valor than any of his other warriors.*
 
-Where a Hunter had to be a hunter of perish, becoming a warrior was almost optional. A warrior needed Training, Skill and Wisdom to survive into retirement. In my private opinion, a warrior also needed a tribe. Again, as not to live in isolation.
+Where a Hunter had to be a hunter or perish, becoming a warrior was almost optional. A warrior needed Training, Skill and Wisdom to survive into retirement. In my private opinion, a warrior also needed a tribe. Again, as not to live in isolation.
 
 It is in the wisdom of warriors that we find great inspiration and strength. [Nitobe Inazō](https://en.wikipedia.org/wiki/Nitobe_Inaz%C5%8D) wrote:
 
@@ -207,3 +207,7 @@ In modern times the C25K comes to mind, I invite you all to meet The Fierce Carl
 Dean Karnazes, mentions Lactic Acid build up. I think of it as mostly nonsense, where does the lactic acid go when your performance increases from long distance running? Your first mile the first time you run will burn, but the 10,000th time you will feel elation. So Dean’s claim that he is superhuman is false, in my opinion. It is your responsibility to find and discard the lies in what you are being taught.
 
 Pain, is just a chemical signal, it is a squirt of goo – pain my dear friends, does not hurt.
+
+[![Imagine Dragons - Believer](http://img.youtube.com/vi/7wtfhZwyrcc/0.jpg)](http://www.youtube.com/watch?v=7wtfhZwyrcc)
+
+(Click image to watch video)
