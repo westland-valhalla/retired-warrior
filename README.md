@@ -142,4 +142,36 @@ The Greatest minds of our generation, looked back learned and brought the wainin
 
 [![Ayn Rand First Interview 1959 (Full)](http://img.youtube.com/vi/1ooKsv_SX4Y/0.jpg)](http://www.youtube.com/watch?v=1ooKsv_SX4Y)
 
-## The Ultra
+## The Athlete - ...and all of the above.
+
+While the athlete does not seem connected to the greatest minds of generations. There is a connection, it is just that we are in this era, and I believe, it is hard to see.
+
+I don't need to talk about shortcuts. I know, that you can infer from the above, that taking the easy way, is a dead end.
+
+![](images/winners-dont-use-drugs.jpg)
+
+Here is Ayn's favorite song:
+
+[![Ayn Rand First Interview 1959 (Full)](http://img.youtube.com/vi/paOvrIKH2Os/0.jpg)](http://www.youtube.com/watch?v=paOvrIKH2Os)
+
+Here I will mention that, childhood, and teenage-hood obesity with a hard workout to recover from in in ones 30s or 40s will grand a person a hue musculature. It is easy to see how wearing a 100 - 200 lb. weight west for 30 or 40 years would have that effect. But considering human biology, it is healthier to be an endurance athlete rather than a show bodybuilder.
+
+[Human Hearts Evolved to Need Regular Activity](https://www.insidescience.org/news/human-hearts-evolved-need-regular-activity)
+
+I think the best way to explain the hardest part of a workout is this: Never half ass two things, whole ass one thing.
+
+Either work out every day, or take a day-off every day, don’t half ass. Don’t tell yourself you need to rest on Sunday, either. There are no days off, there is no zebra striping, nothing. There is no magic pill, as Schwarzenegger is fond of saying, and there are no shortcuts – except for one. The only shortcut, the one and only workout hack, the whey of the ghym is this:
+
+*THE ONLY WAY, AND THE RIGHT WAY, IS THE LONGEST POSSIBLE WAY THERE*
+
+I beg the youngest of you, to arrange your life in such a way so that each challenge before you, is the hardest thing you have ever done. To paraphrase Thoreau: I beg you to live and grow up deliberately, to front only the essential facts of life, to see what love of wisdom has to teach, and not, when it comes to die, discover that you, my dear friend, had. not. yet. lived.
+
+Life is not random, it is not an accident, you are an emergent plateau in an infinity of time ahead. You are needed, and your lasting contributions are necessary.
+
+[![Murray Gell-Mann On Emergence](http://img.youtube.com/vi/ONiWmzrmfuY/0.jpg)](http://www.youtube.com/watch?v=ONiWmzrmfuY)
+
+Break away from the Circles
+
+[!Mad world - the voice of china](http://img.youtube.com/vi/z2tmRpm4iK8/0.jpg)](http://www.youtube.com/watch?v=z2tmRpm4iK8)
+
+The declaration needs work, each generation needs to update it, and grant it new voices: https://librivox.org/the-universal-declaration-of-human-rights-by-the-united-nations/ and there are new voices to be heard. Be it a workout, or erasing the religious or political borders we put in, it is always the longest possible way there, and it is always on the shoulders of giants, my friends.
