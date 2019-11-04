@@ -13,7 +13,7 @@ Warrior is the oldest name for it. Since out time in Green Africa we have progre
 
 ## The Hunter
 
-This artwork has been with me for as long as I can remember, I found it a book entitled “Wszechświat życie człowiek” (Universe, Life, Human) and one of my favorite writers Bill Bryson wrote something just as good [A Short History of Nearly Everything](https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything) you can find it on [Audible](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW) he gently talks about learning about universe, and even learning how to humbly learn.
+This artwork has been with me for as long as I can remember, I found it in a book entitled “Wszechświat życie człowiek” (Universe, Life, Human) and one of my favorite writers Bill Bryson wrote something just as good [A Short History of Nearly Everything](https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything) you can find it on [Audible](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW) he gently talks about learning about universe, and even learning how to humbly learn.
 
 ![](images/bears.jpg)
 
@@ -23,13 +23,20 @@ It is worth mentioning that before big rocks, and spears, we would chase animals
 
 Just from this overview alone, you get the picture of who we are, of where we come from, how we learned to survive. How capable we are, how magnificent.
 
-- We belong in communities, not to live in isolation.
-- We are hunters, not for sport, but for survival.
-- We have superior cooling, superior intelligence, and we did well hunting without spears.
-- We ate fruit, vegetable, meat; that's out optimal diet, the nutrients that we evolved to require for our optimal health.
-- We grew up protecting each other, casting out the wrong doers, looking after the little ones so that they may grow to become big hunters.
-- We are part of Nature, part of Planet Earth, we depend on it for our health and [Survival](https://youtu.be/TMrtLsQbaok)
-- We did not store fat, we were lean, and we knew hunger well.
+We belong in communities, not to live in isolation.
+
+We are hunters, not for sport, but for survival.
+
+We have superior cooling, superior intelligence, and we did well hunting without spears.
+
+We ate fruit, vegetable, meat; that's out optimal diet, the nutrients that we evolved to require for our optimal health.
+
+We grew up protecting each other, casting out the wrong doers, looking after the little ones so that they may grow to become big hunters.
+
+We are part of Nature, part of Planet Earth, we depend on it for our health and [Survival](https://youtu.be/TMrtLsQbaok)
+
+We did not store fat, we were lean, and we knew hunger well.
+
 
 ## The Warrior - A capacious mind
 
@@ -227,3 +234,9 @@ It is when you stop, and all time scrolls by you, that really hurts. This is why
 The workout is powered by the soul, of a very old warrior, who lived many a lifetime in stories, books, and poems. There is no pain, it is just a signal.
 
 On the Mind part, focus on gaining wisdom by all means. On the body part, keep extending your endurance, the pain is too primitive to catch up with an ultra.
+
+In weight lifting there maybe difficult discomfort 5 – 10 lifts into some routine, then you switch to some other exercise, you don’t stop to rest: IF YOU NEED TO STOP THEN YOUR WEIGHTS ARE TOO HEAVY, and your workout is not working out.
+
+Start in the beginning, come to the end, and then stop.
+
+There is no struggle because of music, the parts of your brain that are telling you to stop are weak. They are weaker than the beat of drums, they are weaker than a pretty song.
