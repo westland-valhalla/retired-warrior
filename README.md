@@ -266,3 +266,7 @@ Dan Millman, wrote a book in which he featured him self as a character, next to 
 You can find his lovely book on Audible [Way of the Peaceful Warrior](https://www.audible.com/pd/Way-of-the-Peaceful-Warrior-Audiobook/B002UZKKSU) and it was also made into a movie:
 
 [![Way of the Peaceful Warrior Trailer](http://img.youtube.com/vi/gegNMYvY_yg/0.jpg)](http://www.youtube.com/watch?v=gegNMYvY_yg)
+
+We have to keep going forward, up, up, and away, and all the way up, until we become the beings that we once thought the adults already were. Reaching out for wisdom, standing in relentless pursuit of excellence is not optional. Without growing up we just face those circles again.
+
+[![Another Mad World](http://img.youtube.com/vi/-YFbxFq6Zr8/0.jpg)](http://www.youtube.com/watch?v=-YFbxFq6Zr8)
