@@ -285,4 +285,4 @@ Combined with dancing, which in this context is a form of stretching that double
 
 Good examples of fine workout songs are [Blade’s Blood Rave](https://youtu.be/F6VJQZxeWNY) for fast cardio and [Blanco Brown's The Git Up](https://www.youtube.com/watch?v=Q7U6AoZ27yE) for rest and some stretching.
 
-I find it really helpful to add sugar to my workout water, but I am sure candy works just as well. Sweetened water (sometimes V8 tomato juice) and good music are the two things that I find most helpful.
+I find it really helpful to add sugar to my workout water, but I am sure candy works just as well. Sweetened water (sometimes V8 tomato juice) and good music are the two things that I find most helpful during my routine.
