@@ -172,6 +172,6 @@ Life is not random, it is not an accident, you are an emergent plateau in an inf
 
 Break away from the Circles
 
-[!Mad world - the voice of china](http://img.youtube.com/vi/z2tmRpm4iK8/0.jpg)](http://www.youtube.com/watch?v=z2tmRpm4iK8)
+[![Mad world - the voice of china](http://img.youtube.com/vi/z2tmRpm4iK8/0.jpg)](http://www.youtube.com/watch?v=z2tmRpm4iK8)
 
 The declaration needs work, each generation needs to update it, and grant it new voices: https://librivox.org/the-universal-declaration-of-human-rights-by-the-united-nations/ and there are new voices to be heard. Be it a workout, or erasing the religious or political borders we put in, it is always the longest possible way there, and it is always on the shoulders of giants, my friends.
