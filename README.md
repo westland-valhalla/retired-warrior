@@ -153,19 +153,13 @@ The Greatest minds of our generation, looked back learned and brought the wainin
 
 (Click image to watch video)
 
-## The Athlete - ...and all of the above.
+## The Athlete
 
 [![Winners](http://img.youtube.com/vi/paOvrIKH2Os/0.jpg)](http://www.youtube.com/watch?v=paOvrIKH2Os)
 
 (Click image to watch video)
 
 [Human Hearts Evolved to Need Regular Activity](https://www.insidescience.org/news/human-hearts-evolved-need-regular-activity)
-
-I think the best way to explain the hardest part of a workout is this: Never half ass two things, whole ass one thing.
-
-Either work out every day, or take a day-off every day, don’t half ass. Don’t tell yourself you need to rest on Sunday, either. There are no days off, there is no zebra striping, nothing. There is no magic pill, as Schwarzenegger is fond of saying, and there are no shortcuts – except for one. The only shortcut, the one and only workout hack, the whey of the ghym is this:
-
-*THE ONLY WAY, AND THE RIGHT WAY, IS THE LONGEST POSSIBLE WAY THERE*
 
 I beg the youngest of you, to arrange your life in such a way so that each challenge before you, is the hardest thing you have ever done. To paraphrase Thoreau: I beg you to live and grow up deliberately, to front only the essential facts of life, to see what love of wisdom has to teach, and not, when it comes to die, discover that you, my dear friend, had. not. yet. lived.
 
