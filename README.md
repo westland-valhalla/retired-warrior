@@ -1,8 +1,6 @@
 # Warrior
 A short walk in time.
 
-(This page is frequently updates, click [here](https://github.com/westland-valhalla/warrior/commits/master) to review the change log.)
-
 Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, or Success, Bodybuilding will ensue from pursuit of things that are just out of your reach. [Viktor E. Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl) wrote:
 
 *Don't aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long-run—in the long-run, I say! — success will follow you precisely because you had forgotten to think about it*
@@ -290,3 +288,15 @@ Mind is a Reflex Organ, Soc says, and he is right. We must be in charge of ourse
 [Assassination Vacation](https://www.audible.com/pd/Assassination-Vacation-Audiobook/B002V8N0VK)<br>
 
 But never give up, whatever your calling, never retreat, never surrender.
+
+## In Closing
+
+My workout consists of three complementary exercises arranged in a way that I don't have to stop.
+
+1. [Dumbbell Lateral Raise](https://youtu.be/FeJP4E4Z-PY?t=121)
+2. [Standing Dumbbell Curls](https://youtu.be/av7-8igSXTs)
+3. [Overhead Shoulder Press](https://youtu.be/Gu1t7X2yq4M?t=153)
+
+Combined with dancing, which in this context is a form of stretching that doubles as a cardio workout.
+
+Good examples of fine workout songs are [Blade’s Blood Rave](https://youtu.be/F6VJQZxeWNY) for fast cardio and [Blanco Brown's The Git Up](https://www.youtube.com/watch?v=Q7U6AoZ27yE) for rest and some stretching.
