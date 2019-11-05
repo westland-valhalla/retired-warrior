@@ -196,7 +196,78 @@ One magnificent being to go back and learn, and rise, and triumph is Ayn Rand. I
 
 (Click image to watch video)
 
+[Max Ehrmann](https://en.wikipedia.org/wiki/Max_Ehrmann) wrote:
+
+Go placidly amid the noise and haste,<br>
+and remember what peace there may be in silence.<br>
+As far as possible without surrender<br>
+be on good terms with all persons.<br>
+Speak your truth quietly and clearly;<br>
+and listen to others,<br>
+even the dull and the ignorant;<br>
+they too have their story.<br>
+Avoid loud and aggressive persons,<br>
+they are vexations to the spirit.<br>
+If you compare yourself with others,<br>
+you may become vain and bitter;<br>
+for always there will be greater and lesser persons than yourself.<br>
+Enjoy your achievements as well as your plans.<br>
+Keep interested in your own career, however humble;<br>
+it is a real possession in the changing fortunes of time.<br>
+Exercise caution in your business affairs;<br>
+for the world is full of trickery.<br>
+But let this not blind you to what virtue there is;<br>
+many persons strive for high ideals;<br>
+and everywhere life is full of heroism.<br>
+Be yourself.<br>
+Especially, do not feign affection.<br>
+Neither be cynical about love;<br>
+for in the face of all aridity and disenchantment<br>
+it is as perennial as the grass.<br>
+Take kindly the counsel of the years,<br>
+gracefully surrendering the things of youth.<br>
+Nurture strength of spirit to shield you in sudden misfortune.<br>
+But do not distress yourself with dark imaginings.<br>
+Many fears are born of fatigue and loneliness.<br>
+Beyond a wholesome discipline,<br>
+be gentle with yourself.<br>
+You are a child of the universe,<br>
+no less than the trees and the stars;<br>
+you have a right to be here.<br>
+And whether or not it is clear to you,<br>
+no doubt the universe is unfolding as it should.<br>
+Therefore be at peace with God,<br>
+whatever you conceive Him to be,<br>
+and whatever your labors and aspirations,<br>
+in the noisy confusion of life keep peace with your soul.<br>
+With all its sham, drudgery, and broken dreams,<br>
+it is still a beautiful world.<br>
+Be cheerful.<br>
+Strive to be happy.<br>
+
 ## The Athlete
+
+[William Ernest Henley](https://en.wikipedia.org/wiki/William_Ernest_Henley) wrote:
+
+Out of the night that covers me,
+Black as the Pit from pole to pole,
+I thank whatever gods may be
+For my unconquerable soul.
+
+In the fell clutch of circumstance
+I have not winced nor cried aloud.
+Under the bludgeonings of chance
+My head is bloody, but unbowed.
+
+Beyond this place of wrath and tears
+Looms but the Horror of the shade,
+And yet the menace of the years
+Finds, and shall find, me unafraid.
+
+It matters not how strait the gate,
+How charged with punishments the scroll.
+I am the master of my fate:
+I am the captain of my soul.
 
 [![Winners](http://img.youtube.com/vi/paOvrIKH2Os/0.jpg)](http://www.youtube.com/watch?v=paOvrIKH2Os)
 
