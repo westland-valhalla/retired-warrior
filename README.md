@@ -1,25 +1,30 @@
 # Warrior
 A short walk in time.
 
-Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, or Success, Bodybuilding will ensue from pursuit of things that are just out of your reach. [Viktor E. Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl) wrote:
+Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, or Success, Bodybuilding will ensue from pursuit of things that are just out of your reach.
 
+[Viktor E. Frankl](https://en.wikipedia.org/wiki/Viktor_Frankl) wrote:
 *Don't aim at success. The more you aim at it and make it a target, the more you are going to miss it. For success, like happiness, cannot be pursued; it must ensue, and it only does so as the unintended side effect of one's personal dedication to a cause greater than oneself or as the by-product of one's surrender to a person other than oneself. Happiness must happen, and the same holds for success: you have to let it happen by not caring about it. I want you to listen to what your conscience commands you to do and go on to carry it out to the best of your knowledge. Then you will live to see that in the long-run—in the long-run, I say! — success will follow you precisely because you had forgotten to think about it*
 
 [![Viktor Frankl](http://img.youtube.com/vi/LlC2OdnhIiQ/0.jpg)](http://www.youtube.com/watch?v=LlC2OdnhIiQ)
 
 (Click image to watch video)
 
-Warrior is the oldest name for it. Since out time in Green Africa we have progressed forward, and the word has changed, several times. But at each stage there are strong lessons to be learned, so let us step through the evolution of the warrior.
+Warrior is the oldest name for it. Since our time in Green Africa we have progressed forward, and the word has changed, several times. But at each stage there are strong lessons to be learned, so let us step through the evolution of the warrior.
 
 ## The Hunter
 
-This artwork has been with me for as long as I can remember, I found it in a book entitled “Wszechświat życie człowiek” (Universe, Life, Human) and one of my favorite writers Bill Bryson wrote something just as good [A Short History of Nearly Everything](https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything) you can find it on [Audible](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW) he gently talks about learning about universe, and even learning how to humbly learn.
-
 ![](images/bears.jpg)
+
+This artwork has been with me for as long as I can remember, I found it in a book entitled “Wszechświat życie człowiek” (Universe, Life, Human) and one of my favorite writers Bill Bryson wrote something just as good [A Short History of Nearly Everything](https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything) you can find it on [Audible](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW) he gently talks about learning about universe, and even learning how to humbly learn.
 
 From this simple image we can infer some really important facts about who we are, where we belong, the diet we evolved alongside with.
 
 It is worth mentioning that before big rocks, and spears, we would chase animals to death in an act called [Endurance Hunting](https://en.wikipedia.org/wiki/Persistence_hunting)
+
+[![Viktor Frankl](http://img.youtube.com/vi/826HMLoiE_o/0.jpg)](http://www.youtube.com/watch?v=826HMLoiE_o)
+
+(Click image to watch video)
 
 Just from this overview alone, you get the picture of who we are, of where we come from, how we learned to survive. How capable we are, how magnificent.
 
