@@ -176,6 +176,10 @@ And - which is more - you'll be a Man, my son!*<br>
 
 The Greatest minds of our generation, looked back learned and brought the waning wisdom back.
 
+[![for the bullied and beautiful](http://img.youtube.com/vi/sa1iS1MqUy4/0.jpg)](http://www.youtube.com/watch?v=sa1iS1MqUy4)
+
+(Click image to watch video)
+
 Excerpt from [John Galt](https://en.wikipedia.org/wiki/John_Galt)'s Speech:
 
 *To those of you who retain some remnant of dignity and the will to live your lives for yourselves, you have the chance to make the same choice. Examine your values and understand that you must choose one side or the other. Any compromise between good and evil only hurts the good and helps the evil.*
@@ -244,6 +248,12 @@ With all its sham, drudgery, and broken dreams,<br>
 it is still a beautiful world.<br>
 Be cheerful.<br>
 Strive to be happy.<br>
+
+Learning is Unavoidable. Here is [Sir Ken Robinson](https://www.youtube.com/results?search_query=Sir+Ken+Robinson) warning you that things are not as they should be.
+
+[![Do schools kill creativity?](http://img.youtube.com/vi/iG9CE55wbtY/0.jpg)](http://www.youtube.com/watch?v=iG9CE55wbtY)
+
+(Click image to watch video)
 
 ## The Athlete
 
@@ -394,6 +404,13 @@ Dan Millman, teaches us to take out the trash, to erase doubt, negativity, fear,
 [![Peaceful Warrior Quotes](http://img.youtube.com/vi/31lUwuhE8pc/0.jpg)](http://www.youtube.com/watch?v=31lUwuhE8pc)
 
 (Click image to watch video)
+
+The power of vulnerability by Brené Brown
+
+[![The power of vulnerability](http://img.youtube.com/vi/iCvmsMzlF7o/0.jpg)](http://www.youtube.com/watch?v=iCvmsMzlF7o)
+
+(Click image to watch video)
+
 
 There is a similar theme in "No retreat No surrender", where the boy calls upon Sensei Lee.
 
