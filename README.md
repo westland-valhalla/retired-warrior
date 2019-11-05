@@ -26,7 +26,7 @@ It is worth mentioning that before big rocks, and spears, we would chase animals
 
 (Click image to watch video)
 
-Just from this overview alone, you get the picture of who we are, of where we come from, how we learned to survive. How capable we are, how magnificent.
+Just from this overview alone, you get the picture of how capable we are, how noble, how unbreakable, how magnificent.
 
 We belong in communities, not to live in isolation.
 
@@ -51,27 +51,28 @@ We did not store fat, we were lean, and we knew hunger well.
 
 Where a Hunter had to be a hunter or perish, becoming a warrior was almost optional. A warrior needed Training, Skill and Wisdom to survive into retirement. In my private opinion, a warrior also needed a tribe. Again, as not to live in isolation.
 
-It is in the wisdom of warriors that we find great inspiration and strength. [Nitobe Inazō](https://en.wikipedia.org/wiki/Nitobe_Inaz%C5%8D) wrote:
+It is in the wisdom of warriors that we find great inspiration and strength.
 
+[Nitobe Inazō](https://en.wikipedia.org/wiki/Nitobe_Inaz%C5%8D) wrote:
 *A truly brave man is ever serene; he is never taken by surprise; nothing ruffles the equanimity of his spirit. In the heat of battle he remains cool; in the midst of catastrophes he keeps level his mind. Earthquakes do not shake him, he laughs at storms. We admire him as truly great, who, in the menacing presence of danger or death, retains his self-possession; who, for instance, can compose a poem under impending peril or hum a strain in the face of death. Such indulgence betraying no tremor in the writing or in the voice, is taken as an infallible index of a large nature - of what we call a capacious mind, which, far from being pressed or crowded, has always room for something more.*
 
 In Eight virtues of Bushido we are reminded of the following:
 
-- *Righteousness*: Be acutely honest throughout your dealings with all people. Believe in justice, not from other people, but from yourself. To the true warrior, all points of view are deeply considered regarding honesty, justice and integrity. Warriors make a full commitment to their decisions.
+*Righteousness*: Be acutely honest throughout your dealings with all people. Believe in justice, not from other people, but from yourself. To the true warrior, all points of view are deeply considered regarding honesty, justice and integrity. Warriors make a full commitment to their decisions.
 
-- *Heroic Courage*: Hiding like a turtle in a shell is not living at all. A true warrior must have heroic courage. It is absolutely risky. It is living life completely, fully and wonderfully. Heroic courage is not blind. It is intelligent and strong.
+*Heroic Courage*: Hiding like a turtle in a shell is not living at all. A true warrior must have heroic courage. It is absolutely risky. It is living life completely, fully and wonderfully. Heroic courage is not blind. It is intelligent and strong.
 
-- *Benevolence, Compassion*: Through intense training and hard work the true warrior becomes quick and strong. They are not as most people. They develop a power that must be used for good. They have compassion. They help their fellow men at every opportunity. If an opportunity does not arise, they go out of their way to find one.
+*Benevolence, Compassion*: Through intense training and hard work the true warrior becomes quick and strong. They are not as most people. They develop a power that must be used for good. They have compassion. They help their fellow men at every opportunity. If an opportunity does not arise, they go out of their way to find one.
 
-- *Respect*: True warriors have no reason to be cruel. They do not need to prove their strength. Warriors are not only respected for their strength in battle, but also by their dealings with others. The true strength of a warrior becomes apparent during difficult times.
+*Respect*: True warriors have no reason to be cruel. They do not need to prove their strength. Warriors are not only respected for their strength in battle, but also by their dealings with others. The true strength of a warrior becomes apparent during difficult times.
 
-- *Integrity*: When warriors say that they will perform an action, it is as good as done. Nothing will stop them from completing what they say they will do. They do not have to 'give their word'. They do not have to 'promise'. Speaking and doing are the same action.
+*Integrity*: When warriors say that they will perform an action, it is as good as done. Nothing will stop them from completing what they say they will do. They do not have to 'give their word'. They do not have to 'promise'. Speaking and doing are the same action.
 
-- *Honour*: Warriors have only one judge of honor and character, and this is themselves. Decisions they make and how these decisions are carried out are a reflection of whom they truly are. You cannot hide from yourself.
+*Honour*: Warriors have only one judge of honor and character, and this is themselves. Decisions they make and how these decisions are carried out are a reflection of whom they truly are. You cannot hide from yourself.
 
-- *Duty and Loyalty*: Warriors are responsible for everything that they have done and everything that they have said, and all of the consequences that follow. They are immensely loyal to all of those in their care. To everyone that they are responsible for, they remain fiercely true.
+*Duty and Loyalty*: Warriors are responsible for everything that they have done and everything that they have said, and all of the consequences that follow. They are immensely loyal to all of those in their care. To everyone that they are responsible for, they remain fiercely true.
 
-- *Self-Control*: Warriors feel more than others. This calmness of behavior and composure of mind is rooted in the choice of endurance without a groan, wisdom over ignorance, understanding over confrontation, love over anger, and unbreakability in the face of suffering and loneliness.
+*Self-Control*: Warriors feel more than others. This calmness of behavior and composure of mind is rooted in the choice of endurance without a groan, wisdom over ignorance, understanding over confrontation, love over anger, and unbreakability in the face of suffering and loneliness.
 
 ## The Knight - Where might upholds the young
 
@@ -83,8 +84,7 @@ Superheroes like [Galahad](https://en.wikipedia.org/wiki/Sir_Galahad_(poem)): *M
 
 And a code of conduct that aimed to revolve around Authenticity was born:
 
-*The right can never die, If one man still recalls, The words are not forgot, If one voice speaks them clear, The code forever shines, If one heart holds it bright:
-*The knight is sworn to valor, His heart knows only virtue, His blade defends the helpless, His might upholds the weak, His words speak only truth, His wrath undoes the wicked.*
+*The right can never die, If one man still recalls, The words are not forgot, If one voice speaks them clear, The code forever shines, If one heart holds it bright: The knight is sworn to valor, His heart knows only virtue, His blade defends the helpless, His might upholds the weak, His words speak only truth, His wrath undoes the wicked.*
 
 
 ## The Lady and The Gentleman
@@ -222,13 +222,23 @@ It is when you stop, and all time scrolls by you, that really hurts. This is why
 
 (Click image to watch video)
 
-The workout is powered by the soul, of a very old warrior, who lived many a lifetime in stories, books, and poems. There is no pain, it is just a signal.
+[Friedrich Nietzsche](https://en.wikipedia.org/wiki/Friedrich_Nietzsche) is asking you to review your decisions, treat them with more gravity, "Would you be willing to relive your life again, and again, and again? Or would you prefer to stay dead and if so, then you need to review your decision making.":
+
+*The heaviest burden: What, if some day or night, a demon were to steal after you into your loneliest loneliness and say to you:*
+
+*This life, as you now live it and have lived it, you will have to live once more and innumerable times more; and there will be nothing new in it, but every pain and every joy and every thought and sigh… must return to you—all in the same succession and sequence—even this spider and this moonlight between the trees and even this moment and I myself. The eternal hourglass of existence is turned over again and again—and you with it, speck of dust!*
+
+*Would you not throw yourself down and gnash your teeth and curse the demon who spoke thus? Or have you once experienced a tremendous moment when you would have answered him: "You are a god, and never have I heard anything more divine!"*
+
+*If this thought were to gain possession of you, it would change you as you are, or perhaps crush you. The question in each and every thing, "do you want this once more and innumerable times more?" would lie upon your actions as the greatest weight.*
+
+Make no mistakes, my friends. The workout is powered by the soul, of a very old warrior, who lived many a lifetime in daydreams, stories, books, and poems. There is no pain, it is just a signal.
 
 On the Mind part, focus on gaining wisdom by all means. On the body part, keep extending your endurance, the pain is too primitive to catch up with an ultra.
 
-In weight lifting there maybe difficult discomfort 5 – 10 lifts into some routine, then you switch to some other exercise, you don’t stop to rest: IF YOU NEED TO STOP THEN YOUR WEIGHTS ARE TOO HEAVY, and your workout is not working out.
+In weight lifting there maybe difficult discomfort 5 – 10 lifts into some routine, then you switch to some other exercise (for example from [Standing Dumbbell Curls](https://youtu.be/av7-8igSXTs) to [Overhead Shoulder Press](https://youtu.be/Gu1t7X2yq4M?t=153) where your biceps rest while you perform the shoulder press), you never sit, you never lie, you use both arms, both legs, you don’t stop to rest. __If you need to stop then your weights are too heavy__, and your workout is not working out.
 
-Start in the beginning, come to the end, and then stop.
+Start in the beginning, come to the end, and then stop. Start with 3.5lb per hand, even if out of humility, even if just to remind yourself that you always start in the beginning, and you always finish what you start.
 
 There is no struggle because of music, the parts of your brain that are telling you to stop are weak. They are weaker than the beat of drums, they are weaker than a pretty song.
 
@@ -242,9 +252,11 @@ If you need precision use [this tool](https://www.all8.com/tools/bpm.htm) to get
 
 Keep lowering that rest period until no rest is needed in your routine.
 
-Significant Injuries are more likely if you lift heavy. If you lift heavy a few times, your muscles will not be in a flexible enough state to handle it. Eventually you will pull a muscle, hurt yourself. If you lift 5lb 10,000 times, the chanced of getting hurt are much lower. Back pain is still likely to occur, you will need a proper bed, I use the inexpensive [PragmaBed](http://pragmabed.com/)
+Significant Injuries are more likely if you lift heavy. If you lift heavy a few times, your muscles will not be in a flexible enough state to handle it. Eventually you will pull a muscle, hurt yourself. If you lift 5lb 10,000 times, the chances of getting hurt are much lower. Back pain is still likely to occur, you will need a proper bed, I use the inexpensive [PragmaBed](http://pragmabed.com/)
 
 ![](images/bed.jpg)
+
+While our cooling is superior, we do lose electrolytes while we sweat, you need to put them back in. V8 vegetable juice which contains both sodium and potassium is one way to do so, but always with wisdom and in moderation.
 
 ## Superheroes
 
@@ -263,6 +275,13 @@ We have to keep going forward, up, up, and away, and all the way up, until we be
 Dan Millman, teaches us to take out the trash, to erase doubt, negativity, fear, keep moving forward and become warriors.
 
 [![Peaceful Warrior Quotes](http://img.youtube.com/vi/31lUwuhE8pc/0.jpg)](http://www.youtube.com/watch?v=31lUwuhE8pc)
+
+There is a similar theme in "No retreat No surrender", where the boy calls upon Sensei Lee.
+
+[![No retreat No surrender](http://img.youtube.com/vi/Op4g9McS3EY/0.jpg)](http://www.youtube.com/watch?v=Op4g9McS3EY)
+
+
+
 
 You are each to become a Great Being. Be it for erasing borders, or just preventing Anthropocene from becoming an [extinction event](https://en.wikipedia.org/wiki/Holocene_extinction) it will take a Great Being to be heard, Greta Thunberg comes to mind today.
 
