@@ -101,6 +101,28 @@ Gentlemen emerged from Knights, inheriting the philosophies of Knightly Virtues.
 
 ![](images/honor-code.jpg)
 
+We the warriors in pursuits of excellence, band together in sincerity and truth.
+
+May our philosophy be filled with power and may we connect in authenticity.
+
+May we strengthen and increase our admiration for honest dealing and clear thinking, and may our hatered of hypocrisy and pretence never diminish.
+
+May we inspire each other in our endeavor to live above the common levels of life.
+
+May we strengthen each other to choose the harder right instead of the easier wrong, and never to be content with a half truth even if the whole can't be won.
+
+May we endow each other with courage that is born of loyalty to all that is noble and worthy, that scorns to compromise with vice and injustice and knows no fear when truth and right are in jeopardy.
+
+May we guard each other against flippancy and irreverence in the sacred things of life.
+
+May we grant each other new ties of friendship and new opportunities for leadership or service.
+
+May we kindle our hearts in fellowship with those of a cheerful countenance, and soften our hearts with sympathy for those who sorrow and suffer.
+
+May we help each other to maintain Honor untarnished and unsullied and to show forth in our lives the ideals we learned in doing our duty.
+
+All of which we ask in the names of those before us, of those who stand today, and those who are yet to rise.
+
 Here, we come to today, the modern times. In the battle between the Gentleman and The Officer. The Gentleman was lost. The honor code is no longer aimed at Men, it is now aimed at cadets, aimed away from the public. It almost seems like growing up is optional, and things get very strange in deed:
 
 [![West Point Pillow Fight Turns Violent](http://img.youtube.com/vi/85dhw7nulb4/0.jpg)](http://www.youtube.com/watch?v=85dhw7nulb4)
@@ -152,7 +174,23 @@ And - which is more - you'll be a Man, my son!*<br>
 
 ## The Intellectual
 
-The Greatest minds of our generation, looked back learned and brought the waining wisdom back. The most magnificent being to go back and learn, and rise, and triumph is Ayn Rand. I will let her speak for her self:
+The Greatest minds of our generation, looked back learned and brought the waning wisdom back.
+
+Excerpt from [John Galt](https://en.wikipedia.org/wiki/John_Galt)'s Speech:
+
+*To those of you who retain some remnant of dignity and the will to live your lives for yourselves, you have the chance to make the same choice. Examine your values and understand that you must choose one side or the other. Any compromise between good and evil only hurts the good and helps the evil.*
+
+*If you've understood what I've said, stop supporting your destroyers.*
+
+*Don't accept their philosophy.*
+
+*Your destroyers hold you by means of your endurance, your generosity, your innocence, and your love.*
+
+*Don't exhaust yourself to help build the kind of world that you see around you now.*
+
+*In the name of the best within you, don't sacrifice the world to those who will take away your happiness for it.*
+
+One magnificent being to go back and learn, and rise, and triumph is Ayn Rand. I will let her speak for her self:
 
 [![Ayn Rand First Interview 1959 (Full)](http://img.youtube.com/vi/1ooKsv_SX4Y/0.jpg)](http://www.youtube.com/watch?v=1ooKsv_SX4Y)
 
@@ -307,6 +345,32 @@ Mind is a Reflex Organ, Soc says, and he is right. We must be in charge of ourse
 [Assassination Vacation](https://www.audible.com/pd/Assassination-Vacation-Audiobook/B002V8N0VK)<br>
 
 But never give up, whatever your calling, never retreat, never surrender.
+
+[Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) wrote:
+
+*It is not the critic who counts;
+not the man who points out how the strong man stumbles,
+or where the doer of deeds could have done them better.
+The credit belongs to the man who is actually in the arena,
+whose face is marred by dust and sweat and blood;
+who strives valiantly; who errs,
+who comes short again and again,
+because there is no effort without error and shortcoming;
+but who does actually strive to do the deeds;
+who knows great enthusiasms,
+the great devotions;
+who spends himself in a worthy cause;
+who at the best knows in the end the triumph of high achievement,
+and who at the worst,
+if he fails,
+at least fails while daring greatly,
+so that his place shall never be with those cold and timid souls who neither know victory nor defeat.*
+
+Come morning it does not matter how old you are, because the rest of your life is always ahead of you. __Make the rest of your life, the best of your life.__
+
+[![Make the rest of your life, the best of your life.](http://img.youtube.com/vi/FhzNSPiqO0M/0.jpg)](http://www.youtube.com/watch?v=FhzNSPiqO0M)
+
+(Click image to watch video)
 
 ## In Closing
 
