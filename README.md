@@ -258,6 +258,8 @@ Significant Injuries are more likely if you lift heavy. If you lift heavy a few 
 
 While our cooling is superior, we do lose electrolytes while we sweat, you need to put them back in. V8 vegetable juice which contains both sodium and potassium is one way to do so, but always with wisdom and in moderation.
 
+Finally we arrive to the point where I explain why you can’t take days off. Think of your body as a good horse to your mind. Take two horses with muscle atrophy, one walks ten steps three times, every other day weekends off, the other trots for eight and half hours every day for many years, no day off. Which horse would you bet on, which horse would have more muscle, which horse would live healthier?
+
 ## Superheroes
 
 Dan Millman, wrote a book in which he featured him self as a character, next to the imaginary wise man Socrates, Soc for short. Dan is someone who quite literally pulled him self up by his own shoe laces.
@@ -279,9 +281,6 @@ Dan Millman, teaches us to take out the trash, to erase doubt, negativity, fear,
 There is a similar theme in "No retreat No surrender", where the boy calls upon Sensei Lee.
 
 [![No retreat No surrender](http://img.youtube.com/vi/Op4g9McS3EY/0.jpg)](http://www.youtube.com/watch?v=Op4g9McS3EY)
-
-
-
 
 You are each to become a Great Being. Be it for erasing borders, or just preventing Anthropocene from becoming an [extinction event](https://en.wikipedia.org/wiki/Holocene_extinction) it will take a Great Being to be heard, Greta Thunberg comes to mind today.
 
