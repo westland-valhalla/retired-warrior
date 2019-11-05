@@ -266,25 +266,37 @@ Dan Millman, wrote a book in which he featured him self as a character, next to 
 
 [![Dan's Ted Talk](http://img.youtube.com/vi/MDL85fzdc1g/0.jpg)](http://www.youtube.com/watch?v=MDL85fzdc1g)
 
+(Click image to watch video)
+
 You can find his lovely book on Audible [Way of the Peaceful Warrior](https://www.audible.com/pd/Way-of-the-Peaceful-Warrior-Audiobook/B002UZKKSU) and it was also made into a movie:
 
 [![Way of the Peaceful Warrior Trailer](http://img.youtube.com/vi/gegNMYvY_yg/0.jpg)](http://www.youtube.com/watch?v=gegNMYvY_yg)
+
+(Click image to watch video)
 
 We have to keep going forward, up, up, and away, and all the way up, until we become the beings that we once thought the adults already were. Reaching out for wisdom, standing in relentless pursuit of excellence is not optional. Without growing up we just face those circles again.
 
 [![Another Mad World](http://img.youtube.com/vi/-YFbxFq6Zr8/0.jpg)](http://www.youtube.com/watch?v=-YFbxFq6Zr8)
 
+(Click image to watch video)
+
 Dan Millman, teaches us to take out the trash, to erase doubt, negativity, fear, keep moving forward and become warriors.
 
 [![Peaceful Warrior Quotes](http://img.youtube.com/vi/31lUwuhE8pc/0.jpg)](http://www.youtube.com/watch?v=31lUwuhE8pc)
+
+(Click image to watch video)
 
 There is a similar theme in "No retreat No surrender", where the boy calls upon Sensei Lee.
 
 [![No retreat No surrender](http://img.youtube.com/vi/Op4g9McS3EY/0.jpg)](http://www.youtube.com/watch?v=Op4g9McS3EY)
 
+(Click image to watch video)
+
 You are each to become a Great Being. Be it for erasing borders, or just preventing Anthropocene from becoming an [extinction event](https://en.wikipedia.org/wiki/Holocene_extinction) it will take a Great Being to be heard, Greta Thunberg comes to mind today.
 
 [![Greta Thunberg](http://img.youtube.com/vi/TMrtLsQbaok/0.jpg)](http://www.youtube.com/watch?v=TMrtLsQbaok)
+
+(Click image to watch video)
 
 Mind is a Reflex Organ, Soc says, and he is right. We must be in charge of ourselves. We have to take out the trash. At night, when everything comes at you and wakes you up at 3:13am when you are not ready to fight back, you can always turn on an Audiobook by Bill Bryson, Carl Sagan, or the lovely Sarah Vowell.
 
