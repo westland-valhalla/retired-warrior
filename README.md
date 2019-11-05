@@ -192,7 +192,7 @@ Be it a workout, or erasing the religious or political borders we put in, it is 
 
 Bruce Lee, was the first Ultra that I have heard of. Ultras are folks like you and I that train to jump a little seedling of corn. Day by day, GRADUALLY, the little corn grows a little bit taller, and the little ultra strives to jump a little bit higher.
 
-In modern times the C25K comes to mind, I invite you all to meet The Fierce Carly: http://carlifierce.com/10-k-downloads/ Just from plain experience with jogging we can guesstimate that by GRADUALLY increasing the length of distance, we will gain the endurance to run hundreds of miles.
+In modern times the [C25K](https://en.wikipedia.org/wiki/C25K) comes to mind, I invite you all to meet The [Fierce Carly](http://carlifierce.com/10-k-downloads/) Just from plain experience with jogging we can guesstimate that by GRADUALLY increasing the length of distance, we will gain the endurance to run hundreds of miles.
 
 [![Dean Karnazes](http://img.youtube.com/vi/Mtp65SWoyWc/0.jpg)](http://www.youtube.com/watch?v=Mtp65SWoyWc)
 
