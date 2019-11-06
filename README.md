@@ -400,51 +400,40 @@ You can find his lovely book on Audible [Way of the Peaceful Warrior](https://ww
 
 (Click image to watch video)
 
-We have to keep going forward, up, up, and away, and all the way up, until we become the beings that we once thought the adults already were. Reaching out for wisdom, standing in relentless pursuit of excellence is not optional. Without growing up we just face those circles again.
-
-[![Another Mad World](http://img.youtube.com/vi/-YFbxFq6Zr8/0.jpg)](http://www.youtube.com/watch?v=-YFbxFq6Zr8)
-
-(Click image to watch video)
-
-Dan Millman, teaches us to take out the trash, to erase doubt, negativity, fear, keep moving forward and become warriors.
-
-[![Peaceful Warrior Quotes](http://img.youtube.com/vi/31lUwuhE8pc/0.jpg)](http://www.youtube.com/watch?v=31lUwuhE8pc)
-
-(Click image to watch video)
-
-The power of vulnerability by Brené Brown
-
-[![The power of vulnerability](http://img.youtube.com/vi/iCvmsMzlF7o/0.jpg)](http://www.youtube.com/watch?v=iCvmsMzlF7o)
-
-(Click image to watch video)
-
-
-There is a similar theme in "No retreat No surrender", where the boy calls upon Sensei Lee.
+There is a similar theme in "No retreat No surrender", where the boy calls upon Sensei Lee, to come an teach him.
 
 [![No retreat No surrender](http://img.youtube.com/vi/Op4g9McS3EY/0.jpg)](http://www.youtube.com/watch?v=Op4g9McS3EY)
 
 (Click image to watch video)
 
-You are each to become a Great Being. Be it for erasing borders, or just preventing Anthropocene from becoming an [extinction event](https://en.wikipedia.org/wiki/Holocene_extinction) it will take a Great Being to be heard, Greta Thunberg comes to mind today.
+By whatever means necessary, risky, or imaginary, we have to keep going forward, up, up, and away, and all the way up, until we become the beings that we once thought the adults already were.
 
-[![Greta Thunberg](http://img.youtube.com/vi/TMrtLsQbaok/0.jpg)](http://www.youtube.com/watch?v=TMrtLsQbaok)
+Reaching out for wisdom, standing in relentless pursuit of excellence is not optional. Without growing up we will become weak or ill, and face those circles again.
+
+[![Another Mad World](http://img.youtube.com/vi/-YFbxFq6Zr8/0.jpg)](http://www.youtube.com/watch?v=-YFbxFq6Zr8)
 
 (Click image to watch video)
 
-Mind is a Reflex Organ, Soc says, and he is right. We must be in charge of ourselves. We have to take out the trash. At night, when everything comes at you and wakes you up at 3:13am when you are not ready to fight back, you can always turn on an Audiobook by Bill Bryson, Carl Sagan, or the lovely Sarah Vowell.
+Dan Millman, teaches us to take out the trash, to erase doubt, negativity, fear, keep moving forward and become Vulnerable and Fearless Warriors.
 
-[A Short History of Nearly Everything](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW)<br>
-[A Walk in the Woods, Rediscovering America on the Appalachian Trail](https://www.audible.com/pd/A-Walk-in-the-Woods-Audiobook/B0091J9AQQ)<br>
-[I'm a Stranger Here Myself, Notes on Returning to America After 20 Years Away](https://www.audible.com/pd/Im-a-Stranger-Here-Myself-Audiobook/B002V5BQJQ)<br>
-[The Demon-Haunted World, Science as a Candle in the Dark](https://www.audible.com/pd/The-Demon-Haunted-World-Audiobook/B06XTZZLZ8)<br>
-[Assassination Vacation](https://www.audible.com/pd/Assassination-Vacation-Audiobook/B002V8N0VK)<br>
+[![Peaceful Warrior Quotes](http://img.youtube.com/vi/31lUwuhE8pc/0.jpg)](http://www.youtube.com/watch?v=31lUwuhE8pc)
 
-But never give up, whatever your calling, never retreat, never surrender.
+(Click image to watch video)
 
-[Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) wrote:
+*A warrior is not about perfection. Or invulnerability. He is about absolute vulnerability. That's the only true courage.* - Soc.
 
-*It is not the critic who counts;
-not the man who points out how the strong man stumbles,
+The mighty Brené Brown further elucidates on the subject of vulnerability through what in my opinion is a two part TED talk:
+The power of vulnerability, and part two Listening to Shame.
+
+[![The power of vulnerability](http://img.youtube.com/vi/iCvmsMzlF7o/0.jpg)](http://www.youtube.com/watch?v=iCvmsMzlF7o)
+
+[![Listening to shame](http://img.youtube.com/vi/psN1DORYYV0/0.jpg)](http://www.youtube.com/watch?v=psN1DORYYV0)
+
+(Click images to watch videos)
+
+Here's the [Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) Brené quotes:
+
+*It is not the critic who counts; not the man who points out how the strong man stumbles,
 or where the doer of deeds could have done them better.
 The credit belongs to the man who is actually in the arena,
 whose face is marred by dust and sweat and blood;
@@ -461,9 +450,33 @@ if he fails,
 at least fails while daring greatly,
 so that his place shall never be with those cold and timid souls who neither know victory nor defeat.*
 
-Come morning it does not matter how old you are, because the rest of your life is always ahead of you. __Make the rest of your life, the best of your life.__
+You are each to become a Great Being.
+
+Be it for erasing borders, or just preventing Anthropocene from becoming an [extinction event](https://en.wikipedia.org/wiki/Holocene_extinction) it will take a Great Being to be heard, Greta Thunberg comes to mind today.
+
+[![Greta Thunberg](http://img.youtube.com/vi/TMrtLsQbaok/0.jpg)](http://www.youtube.com/watch?v=TMrtLsQbaok)
+
+(Click image to watch video)
+
+Don't be scared, save the world. Mind is a Reflex Organ, Soc says, and he is right. We must be in charge of ourselves. We have to take out the trash. At night, when everything comes at you and wakes you up at 3:13am when you are not ready to fight back, you can always turn on an Audiobook by Bill Bryson, Carl Sagan, or the lovely Sarah Vowell.
+
+[A Short History of Nearly Everything](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW)<br>
+[A Walk in the Woods, Rediscovering America on the Appalachian Trail](https://www.audible.com/pd/A-Walk-in-the-Woods-Audiobook/B0091J9AQQ)<br>
+[I'm a Stranger Here Myself, Notes on Returning to America After 20 Years Away](https://www.audible.com/pd/Im-a-Stranger-Here-Myself-Audiobook/B002V5BQJQ)<br>
+[The Demon-Haunted World, Science as a Candle in the Dark](https://www.audible.com/pd/The-Demon-Haunted-World-Audiobook/B06XTZZLZ8)<br>
+[Assassination Vacation](https://www.audible.com/pd/Assassination-Vacation-Audiobook/B002V8N0VK)<br>
+
+Never give up, whatever your calling, never retreat, never surrender. And in the absence of teachers, rip them out of your own imagination, plop them right before you, and force them to teach you like they never taught before. Sure, maybe [anything that can go wrong will go wrong](https://en.wikipedia.org/wiki/Murphy%27s_law) but that's just the next challenge, you next level.
+
+Come morning, it does not matter how old you are, or how many times you failed already, the rest of your life is always ahead of you. __Make the rest of your life, the best of your life.__
 
 [![Make the rest of your life, the best of your life.](http://img.youtube.com/vi/FhzNSPiqO0M/0.jpg)](http://www.youtube.com/watch?v=FhzNSPiqO0M)
+
+(Click image to watch video)
+
+Do you understand, what makes a Superhero? What the nature of unbrekability is? You just, keep getting up, each time, every time, and you keep hanging on ten minutes longer, each time every time. There is no room for shame, or fear here, there is no time for it.
+
+[![Keep getting up](http://img.youtube.com/vi/D_Vg4uyYwEk/0.jpg)](http://www.youtube.com/watch?v=D_Vg4uyYwEk)
 
 (Click image to watch video)
 
