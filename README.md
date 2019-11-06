@@ -476,7 +476,7 @@ Don't be scared to save the world. Mind is a Reflex Organ, Soc says, and he is r
 [The Demon-Haunted World, Science as a Candle in the Dark](https://www.audible.com/pd/The-Demon-Haunted-World-Audiobook/B06XTZZLZ8)<br>
 [Assassination Vacation](https://www.audible.com/pd/Assassination-Vacation-Audiobook/B002V8N0VK)<br>
 
-Never give up, whatever your calling, never retreat, never surrender. And in the absence of teachers, rip them out of your own imagination, plop them right before you, and force them to teach you like they never taught before. Sure, maybe [anything that can go wrong will go wrong](https://en.wikipedia.org/wiki/Murphy%27s_law) but that's just the next challenge, you next level.
+Never give up, whatever your calling, never retreat, never surrender. And in the absence of teachers, you become the teacher. Sure, maybe [anything that can go wrong will go wrong](https://en.wikipedia.org/wiki/Murphy%27s_law) but that's just the next challenge, you next level.
 
 Come morning, it does not matter how old you are, or how many times you failed already, the rest of your life is always ahead of you. __Make the rest of your life, the best of your life.__
 
