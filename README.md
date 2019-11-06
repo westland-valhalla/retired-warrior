@@ -10,7 +10,7 @@ Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, 
 
 (Click image to watch video)
 
-Warrior is the oldest name for it. Since our time in Green Africa we have progressed forward, and the word has changed, several times. But at each stage there are strong lessons to be learned, so let us step through the evolution of the warrior.
+Warrior is the oldest name for it. Since our time in Africa we have progressed forward, and the word has changed, several times. But at each stage there are strong lessons to be learned, so let us step through the evolution of the warrior.
 
 ## The Hunter
 
