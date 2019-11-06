@@ -450,15 +450,25 @@ if he fails,
 at least fails while daring greatly,
 so that his place shall never be with those cold and timid souls who neither know victory nor defeat.*
 
-You are each to become a Great Being.
+Put on the Superhero Suit and step into the arena, right now. Being ashamed to dance, or waiting until you are perfect to face your next challenge, are just illusions that are holding you back.
 
-Be it for erasing borders, or just preventing Anthropocene from becoming an [extinction event](https://en.wikipedia.org/wiki/Holocene_extinction) it will take a Great Being to be heard, Greta Thunberg comes to mind today.
+You are each to become a Great Being. The world needs Superheroes.
+
+Be it fixing schools, for erasing borders, or just preventing Anthropocene from becoming an [extinction event](https://en.wikipedia.org/wiki/Holocene_extinction) it will take a Great Being to be heard, Greta Thunberg comes to mind today.
 
 [![Greta Thunberg](http://img.youtube.com/vi/TMrtLsQbaok/0.jpg)](http://www.youtube.com/watch?v=TMrtLsQbaok)
 
 (Click image to watch video)
 
-Don't be scared, save the world. Mind is a Reflex Organ, Soc says, and he is right. We must be in charge of ourselves. We have to take out the trash. At night, when everything comes at you and wakes you up at 3:13am when you are not ready to fight back, you can always turn on an Audiobook by Bill Bryson, Carl Sagan, or the lovely Sarah Vowell.
+Erica Goldson carries on her message and education.
+
+[![Erica Goldson](http://img.youtube.com/vi/9M4tdMsg3ts/0.jpg)](http://www.youtube.com/watch?v=9M4tdMsg3ts)
+
+[![Erica Goldson](http://img.youtube.com/vi/hgui64Kr0Go/0.jpg)](http://www.youtube.com/watch?v=hgui64Kr0Go)
+
+(Click image to watch video)
+
+Don't be scared to save the world. Mind is a Reflex Organ, Soc says, and he is right. We must be in charge of ourselves. We have to take out the trash. At night, when everything comes at you and wakes you up at 3:13am when you are not ready to fight back, you can always turn on an Audiobook by Bill Bryson, Carl Sagan, or the lovely Sarah Vowell. Night by night, the culture of great beings will add to your culture.
 
 [A Short History of Nearly Everything](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW)<br>
 [A Walk in the Woods, Rediscovering America on the Appalachian Trail](https://www.audible.com/pd/A-Walk-in-the-Woods-Audiobook/B0091J9AQQ)<br>
