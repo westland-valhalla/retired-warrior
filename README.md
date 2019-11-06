@@ -300,13 +300,30 @@ Life is not random, it is not an accident, you are an emergent plateau in an inf
 
 (Click image to watch video)
 
-Humanity must break away from the circles. The [Universal Declaration of Human Rights](https://librivox.org/the-universal-declaration-of-human-rights-by-the-united-nations/) needs work, each generation needs to update it and extend it beyond what it is today, grant it new voices - and there are new voices to be heard.
+Humanity must break away from the circles. Progress in the larger world, begins with you, at home, right now. Just the moment you say, "I am not smart enough", "I am not a hero", "I will never be heard", "I will never be enough", "Too scary". That is how every hero begun, by measuring up; and then by growing up to the challenges before us.
+
+[![UDHR](http://img.youtube.com/vi/hTlrSYbCbHE/0.jpg)](http://www.youtube.com/watch?v=hTlrSYbCbHE)
+[![UDHR](http://img.youtube.com/vi/5RR4VXNX3jA/0.jpg)](http://www.youtube.com/watch?v=5RR4VXNX3jA)
+
+(Click image to watch video)
+
+The [Universal Declaration of Human Rights](https://librivox.org/the-universal-declaration-of-human-rights-by-the-united-nations/) needs work, each generation needs to update it and extend it beyond what it is today, grant it new voices - and there are bright new voices to be heard.
 
 [![Mad world - the voice of china](http://img.youtube.com/vi/z2tmRpm4iK8/0.jpg)](http://www.youtube.com/watch?v=z2tmRpm4iK8)
 
 (Click image to watch video)
 
-Be it a workout, or erasing the religious or political borders we put in, it is always the longest possible way there, and it is always on the shoulders of giants, my friends.
+And there also voices that never stopped, fell out of the modern spotlight, but were never silenced, never tired. No more circles.
+
+[![Michelle Alexander](http://img.youtube.com/vi/SQ6H-Mz6hgw/0.jpg)](http://www.youtube.com/watch?v=SQ6H-Mz6hgw)
+
+(Click image to watch video)
+
+[![Bryan Stevenson](http://img.youtube.com/vi/c2tOp7OxyQ8/0.jpg)](http://www.youtube.com/watch?v=c2tOp7OxyQ8)
+
+(Click image to watch video)
+
+Don't be frightened of becoming a hero. It is always the longest possible way there, and it is always on the shoulders of giants, my friends. By rising to the challenge, you become part of the family of great heroes, of great beings. You see, the adults are not going to run the world forever, by the time you become an adult, they are going to retire. The job will belong to you. Break out of the circles, and aim up, all the way up. All the bad ideas must be left behind, and all the good ideas put in one place where we can each share in them, where every member of the human family Converges on Wisdom.
 
 ## The Ultra - The New Generation
 
