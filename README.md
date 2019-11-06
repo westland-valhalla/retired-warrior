@@ -36,12 +36,11 @@ We have superior cooling, superior intelligence, and we did well hunting without
 
 We ate fruit, vegetable, meat; that's out optimal diet, the nutrients that we evolved to require for our optimal health.
 
-We grew up protecting each other, casting out the wrong doers, looking after the little ones so that they may grow to become big hunters.
+We grew up protecting each other, casting out those who stand in the way of future generations, looking after the little ones so that they may grow to become great hunters.
 
 We are part of Nature, part of Planet Earth, we depend on it for our health and [Survival](https://youtu.be/TMrtLsQbaok)
 
 We did not store fat, we were lean, and we knew hunger well.
-
 
 ## The Warrior - A capacious mind
 
@@ -49,7 +48,11 @@ We did not store fat, we were lean, and we knew hunger well.
 
 *[Tomoe](https://en.wikipedia.org/wiki/Tomoe_Gozen) (c. 1157 – 1247) was especially beautiful, with white skin, long hair, and charming features. She was also a remarkably strong archer, and as a swordswoman she was a warrior worth a thousand, ready to confront a demon or a god, mounted or on foot. She handled unbroken horses with superb skill; she rode unscathed down perilous descents. Whenever a battle was imminent, Yoshinaka sent her out as his first captain, equipped with strong armor, an oversized sword, and a mighty bow; and she performed more deeds of valor than any of his other warriors.*
 
-Where a Hunter had to be a hunter or perish, becoming a warrior was almost optional. A warrior needed Training, Skill and Wisdom to survive into retirement. In my private opinion, a warrior also needed a tribe. Again, as not to live in isolation.
+Where a Hunter had to be a hunter or perish, becoming a warrior was almost optional. A warrior needed training, skill and wisdom to survive into retirement. In my private opinion, a warrior also needed a tribe. Again, as not to live in isolation.
+
+[![What Being a Warrior Really Means](http://img.youtube.com/vi/yDZZTmr_4d4/0.jpg)](http://www.youtube.com/watch?v=yDZZTmr_4d4)
+
+(Click image to watch video)
 
 It is in the wisdom of warriors that we find great inspiration and strength.
 
