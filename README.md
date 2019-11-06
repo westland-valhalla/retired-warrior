@@ -100,6 +100,10 @@ There is no force in the universe that can help a person grow up.
 
 Gentlemen emerged from Knights, inheriting the philosophies of Knightly Virtues. I am sure every fool, wealthy or poor, tried to call him self a gentlemen, but I think back then people paid attention to such claims. I think the lies that we accept from people of authority would be treated much more harshly, the virtues mattered.
 
+[![Your Move Chief](http://img.youtube.com/vi/oRG2jlQWCsY/0.jpg)](http://www.youtube.com/watch?v=oRG2jlQWCsY)
+
+(Click image to watch video)
+
 ## The Officer
 
 ![](images/honor-code.jpg)
