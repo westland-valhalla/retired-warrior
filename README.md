@@ -379,30 +379,6 @@ Make no mistakes, my friends. The workout is powered by the soul, of a very old 
 
 On the Mind part, focus on gaining wisdom by all means. On the body part, keep extending your endurance, the pain is too primitive to catch up with an ultra.
 
-In weight lifting there maybe difficult discomfort 5 – 10 lifts into some routine, then you switch to some other exercise (for example from [Standing Dumbbell Curls](https://youtu.be/av7-8igSXTs) to [Overhead Shoulder Press](https://youtu.be/Gu1t7X2yq4M?t=153) where your biceps rest while you perform the shoulder press), you never sit, you never lie, you use both arms, both legs, you don’t stop to rest. __If you need to stop then your weights are too heavy__, and your workout is not working out.
-
-Start in the beginning, come to the end, and then stop. Start with 3.5lb per hand, even if out of humility, even if just to remind yourself that you always start in the beginning, and you always finish what you start.
-
-There is no struggle because of music, the parts of your brain that are telling you to stop are weak. They are weaker than the beat of drums, they are weaker than a pretty song.
-
-Workout to the beats of songs, here is a player I eventually settled on: [Professional MP3 HIFI Music Player](https://www.aliexpress.com/item/32980109852.html?spm=a2g0o.productlist.0.0.4efc7ec7pkt8Ur&algo_pvid=121e3087-e613-4dcc-af88-ba55a993e258&algo_expid=121e3087-e613-4dcc-af88-ba55a993e258-1&btsid=9e653dc7-cf62-4fce-8d37-51985af20013&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_52) it costs US $24.80 it is OK, I think. It does not seem Professional, I think it is just because phones are really good these days.
-
-![](images/music-player.jpg)
-
-If you need precision use [this tool](https://www.all8.com/tools/bpm.htm) to get a BPM on a song to make a playlist, and if you are still having difficulty with non-stop exercise despite a chain of slow songs, then use a computer to keep track of your rests. I used an Interval Timer from [https://www.gymboss.com/](https://www.gymboss.com/)
-
-![](images/timer.png)
-
-Keep lowering that rest period until no rest is needed in your routine.
-
-Significant Injuries are more likely if you lift heavy. If you lift heavy a few times, your muscles will not be in a flexible enough state to handle it. Eventually you will pull a muscle, hurt yourself. If you lift 5lb 10,000 times, the chances of getting hurt are much lower. Back pain is still likely to occur, you will need a proper bed, I use the inexpensive [PragmaBed](http://pragmabed.com/)
-
-![](images/bed.jpg)
-
-While our cooling is superior, we do lose electrolytes while we sweat, you need to put them back in. V8 vegetable juice which contains both sodium and potassium is one way to do so, but always with wisdom and in moderation.
-
-Finally we arrive to the point where I explain why you can’t take days off. Think of your body as a good horse to your mind. Take two horses with muscle atrophy, one walks ten steps three times, every other day weekends off, the other trots for eight and half hours every day for many years, no day off. Which horse would you bet on, which horse would have more muscle, which horse would live healthier?
-
 ## Superheroes
 
 Dan Millman, wrote a book in which he featured him self as a character, next to the imaginary wise man Socrates, Soc for short. Dan is someone who quite literally pulled him self up by his own shoe laces.
@@ -471,13 +447,13 @@ Put on the Superhero Suit and step into the arena, right now. Being ashamed to d
 
 You are each to become a Great Being. The world needs Superheroes.
 
-Be it fixing schools, for erasing borders, or just preventing Anthropocene from becoming an [extinction event](https://en.wikipedia.org/wiki/Holocene_extinction) it will take a Great Being to be heard, Greta Thunberg comes to mind today.
+Be it fixing schools, or erasing borders, or just preventing Anthropocene from becoming an [extinction event](https://en.wikipedia.org/wiki/Holocene_extinction) it will take a Great Being to be heard, Greta Thunberg is a wonderful example, today.
 
 [![Greta Thunberg](http://img.youtube.com/vi/TMrtLsQbaok/0.jpg)](http://www.youtube.com/watch?v=TMrtLsQbaok)
 
 (Click image to watch video)
 
-Erica Goldson carries on her message and education.
+Erica Goldson carries on her message and self-education, aiming to inspire and help the world grow. She discovered the absence of teachers early on, and immediately became an educator her self.
 
 [![Erica Goldson](http://img.youtube.com/vi/9M4tdMsg3ts/0.jpg)](http://www.youtube.com/watch?v=9M4tdMsg3ts)
 
@@ -485,7 +461,7 @@ Erica Goldson carries on her message and education.
 
 (Click image to watch video)
 
-Don't be scared to save the world. Mind is a Reflex Organ, Soc says, and he is right. We must be in charge of ourselves. We have to take out the trash. At night, when everything comes at you and wakes you up at 3:13am when you are not ready to fight back, you can always turn on an Audiobook by Bill Bryson, Carl Sagan, or the lovely Sarah Vowell. Night by night, the culture of great beings will add to your culture.
+Don't be scared to save the world. Mind is a Reflex Organ, Soc says, and he is right. We must be in charge of ourselves. We have to take out the trash. And, at night, when everything comes at you and wakes you up at 3:13am when you are not ready to fight back, you can always turn on an Audiobook by Bill Bryson, Carl Sagan, or the lovely Sarah Vowell. Night by night, the culture of great beings will add to your culture. On the shoulders of giants also means that come your Golden Age, there will be little heroes checking if you have risen high enough for them to stand on your shoulders.
 
 [A Short History of Nearly Everything](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW)<br>
 [A Walk in the Woods, Rediscovering America on the Appalachian Trail](https://www.audible.com/pd/A-Walk-in-the-Woods-Audiobook/B0091J9AQQ)<br>
@@ -493,7 +469,12 @@ Don't be scared to save the world. Mind is a Reflex Organ, Soc says, and he is r
 [The Demon-Haunted World, Science as a Candle in the Dark](https://www.audible.com/pd/The-Demon-Haunted-World-Audiobook/B06XTZZLZ8)<br>
 [Assassination Vacation](https://www.audible.com/pd/Assassination-Vacation-Audiobook/B002V8N0VK)<br>
 
-Never give up, whatever your calling, never retreat, never surrender. And in the absence of teachers, you become the teacher. Sure, maybe [anything that can go wrong will go wrong](https://en.wikipedia.org/wiki/Murphy%27s_law) but that's just the next challenge, you next level.
+Never give up, whatever your calling, never retreat, never surrender. And in the absence of teachers, you become the teacher. Sure, maybe [anything that can go wrong will go wrong](https://en.wikipedia.org/wiki/Murphy%27s_law) but that's just the next challenge, your next level up. An opportunity to stand even taller.
+
+
+[![How America's public schools keep kids in poverty: Kandice Sumner](http://img.youtube.com/vi/7O7BMa9XGXE/0.jpg)](http://www.youtube.com/watch?v=7O7BMa9XGXE)
+
+(Click image to watch video)
 
 Come morning, it does not matter how old you are, or how many times you failed already, the rest of your life is always ahead of you. __Make the rest of your life, the best of your life.__
 
@@ -514,3 +495,28 @@ Combined with dancing, which in this context is a form of stretching that double
 Good examples of fine workout songs are [Blade’s Blood Rave](https://youtu.be/F6VJQZxeWNY) for fast cardio and [Blanco Brown's The Git Up](https://www.youtube.com/watch?v=Q7U6AoZ27yE) for rest and some stretching.
 
 I find it really helpful to add sugar to my workout water, but I am sure candy works just as well. Sweetened water (sometimes V8 tomato juice) and good music are the two things that I find most helpful during my routine.
+
+
+In weight lifting there maybe difficult discomfort 5 – 10 lifts into some routine, then you switch to some other exercise (for example from [Standing Dumbbell Curls](https://youtu.be/av7-8igSXTs) to [Overhead Shoulder Press](https://youtu.be/Gu1t7X2yq4M?t=153) where your biceps rest while you perform the shoulder press), you never sit, you never lie, you use both arms, both legs, you don’t stop to rest. __If you need to stop then your weights are too heavy__, and your workout is not working out.
+
+Start in the beginning, come to the end, and then stop. Start with 3.5lb per hand, even if out of humility, even if just to remind yourself that you always start in the beginning, and you always finish what you start.
+
+There is no struggle because of music, the parts of your brain that are telling you to stop are weak. They are weaker than the beat of drums, they are weaker than a pretty song.
+
+Workout to the beats of songs, here is a player I eventually settled on: [Professional MP3 HIFI Music Player](https://www.aliexpress.com/item/32980109852.html?spm=a2g0o.productlist.0.0.4efc7ec7pkt8Ur&algo_pvid=121e3087-e613-4dcc-af88-ba55a993e258&algo_expid=121e3087-e613-4dcc-af88-ba55a993e258-1&btsid=9e653dc7-cf62-4fce-8d37-51985af20013&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_52) it costs US $24.80 it is OK, I think. It does not seem Professional, I think it is just because phones are really good these days.
+
+![](images/music-player.jpg)
+
+If you need precision use [this tool](https://www.all8.com/tools/bpm.htm) to get a BPM on a song to make a playlist, and if you are still having difficulty with non-stop exercise despite a chain of slow songs, then use a computer to keep track of your rests. I used an Interval Timer from [https://www.gymboss.com/](https://www.gymboss.com/)
+
+![](images/timer.png)
+
+Keep lowering that rest period until no rest is needed in your routine.
+
+Significant Injuries are more likely if you lift heavy. If you lift heavy a few times, your muscles will not be in a flexible enough state to handle it. Eventually you will pull a muscle, hurt yourself. If you lift 5lb 10,000 times, the chances of getting hurt are much lower. Back pain is still likely to occur, you will need a proper bed, I use the inexpensive [PragmaBed](http://pragmabed.com/)
+
+![](images/bed.jpg)
+
+While our cooling is superior, we do lose electrolytes while we sweat, you need to put them back in. V8 vegetable juice which contains both sodium and potassium is one way to do so, but always with wisdom and in moderation.
+
+Finally we arrive to the point where I explain why you can’t take days off. Think of your body as a good horse to your mind. Take two horses with muscle atrophy, one walks ten steps three times, every other day weekends off, the other trots for eight and half hours every day for many years, no day off. Which horse would you bet on, which horse would have more muscle, which horse would live healthier?
