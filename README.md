@@ -484,12 +484,6 @@ Come morning, it does not matter how old you are, or how many times you failed a
 
 (Click image to watch video)
 
-Do you understand, what makes a Superhero? What the nature of unbrekability is? You just, keep getting up, each time, every time, and you keep hanging on ten minutes longer, each time every time. There is no room for shame, or fear here, there is no time for it.
-
-[![Keep getting up](http://img.youtube.com/vi/D_Vg4uyYwEk/0.jpg)](http://www.youtube.com/watch?v=D_Vg4uyYwEk)
-
-(Click image to watch video)
-
 ## In Closing
 
 My workout consists of three complementary exercises arranged in a way that I don't have to stop.
