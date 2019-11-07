@@ -315,15 +315,53 @@ The [Universal Declaration of Human Rights](https://librivox.org/the-universal-d
 
 And there also voices that never stopped, fell out of the modern spotlight, but were never silenced, never tired. No more circles.
 
+[Michelle Alexander](https://en.wikipedia.org/wiki/Michelle_Alexander): The future of race in America
+
 [![Michelle Alexander](http://img.youtube.com/vi/SQ6H-Mz6hgw/0.jpg)](http://www.youtube.com/watch?v=SQ6H-Mz6hgw)
 
 (Click image to watch video)
+
+"I hope we will commit ourselves to building a human rights movement to end mass incarceration. A movement for education, not incarceration. A movement for jobs, not jails, and a movement to end
+all those forms of legal discrimination against people released from prison. Discrimination denying them basic human rights to work, to shelter, and to food."
+
+73.5 million people in the United States have a criminal record (this does not mean that they were convicted, just that they were arrested on a felony charge). She does mention this in her book [The New Jim Crow: Mass Incarceration in the Age of Colorblindness](https://en.wikipedia.org/wiki/The_New_Jim_Crow) which is available on [Audible](https://www.audible.com/pd/The-New-Jim-Crow-Audiobook/B007QW236E)
+
+[Bryan Stevenson](https://en.wikipedia.org/wiki/Bryan_Stevenson): We need to talk about an injustice.
 
 [![Bryan Stevenson](http://img.youtube.com/vi/c2tOp7OxyQ8/0.jpg)](http://www.youtube.com/watch?v=c2tOp7OxyQ8)
 
 (Click image to watch video)
 
-Don't be frightened of becoming a hero. It is always the longest possible way there, and it is always on the shoulders of giants, my friends. By rising to the challenge, you become part of the family of great heroes, of great beings. You see, the adults are not going to run the world forever, by the time you become an adult, they are going to retire. The job will belong to you. Break out of the circles, and aim up, all the way up. All the bad ideas must be left behind, and all the good ideas put in one place where we can each share in them, where every member of the human family Converges on Wisdom.
+*"Each of us is more, than the worst thing we've ever done."*
+
+*"Our humanity depends on everyone's humanity."*
+
+*"Opposite of poverty is justice."*
+
+Wikipedia states that Bryan Stevenson "has helped achieve United States Supreme Court decisions that prohibit sentencing children under 18 to death or to life imprisonment without parole".
+
+
+[Kandice Sumner](https://www.ted.com/speakers/kandace_sumner): How America's public schools keep kids in poverty.
+
+[![How America's public schools keep kids in poverty: Kandice Sumner](http://img.youtube.com/vi/7O7BMa9XGXE/0.jpg)](http://www.youtube.com/watch?v=7O7BMa9XGXE)
+
+(Click image to watch video)
+
+Kandice Sumner, has the right idea. Her idea, in a word, is __Prevention__. She sees young children asking powerful questions. She is trying to help them inherit wisdom from books, stories, history.
+
+Don't be frightened of becoming a hero. It is always the longest possible way there, and it is always on the shoulders of giants, my friends.
+
+By rising to the challenge, you become part of the family of great heroes, of great beings. You see, the adults are not going to run the world forever, by the time you become an adult, they are going to retire.
+
+The job will belong to you. Break out of the circles, and aim up, all the way up.
+
+All the bad ideas must be left behind, and all the good ideas put in one place where we can each share in them, where every member of the human family can Converge on Wisdom.
+
+The human family is not divided by political borders, these aren't the only kids that need help. This is not just a national crisis, it is a global one.
+
+![](images/school.png)
+
+[A school under Metro bridge teaches these Delhi slum children](https://www.hindustantimes.com/delhi/a-school-under-metro-bridge-teaches-these-delhi-slum-children/story-Qr3EV279SarAME4K6N8orL.html)
 
 ## The Ultra - The New Generation
 
@@ -471,10 +509,6 @@ Don't be scared to save the world. Mind is a Reflex Organ, Soc says, and he is r
 
 Never give up, whatever your calling, never retreat, never surrender. And in the absence of teachers, you become the teacher. Sure, maybe [anything that can go wrong will go wrong](https://en.wikipedia.org/wiki/Murphy%27s_law) but that's just the next challenge, your next level up. An opportunity to stand even taller.
 
-
-[![How America's public schools keep kids in poverty: Kandice Sumner](http://img.youtube.com/vi/7O7BMa9XGXE/0.jpg)](http://www.youtube.com/watch?v=7O7BMa9XGXE)
-
-(Click image to watch video)
 
 Come morning, it does not matter how old you are, or how many times you failed already, the rest of your life is always ahead of you. __Make the rest of your life, the best of your life.__
 
