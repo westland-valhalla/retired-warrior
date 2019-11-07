@@ -50,6 +50,9 @@ We did not store fat, we were lean, and we knew hunger well.
 
 (Click image to watch video)
 
+
+[Jon Krakauer](https://www.audible.com/author/Jon-Krakauer/B000AQ8WPY) wrote a book about Alex entitled [Into the Wild](https://www.audible.com/pd/Into-the-Wild-Audiobook/B002V1NYEK), and there is also a [movie](https://www.youtube.com/watch?v=g7ArZ7VD-QQ).
+
 ## The Warrior - A capacious mind
 
 ![](images/tomoe-gozen.jpg)
