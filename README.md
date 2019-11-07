@@ -42,6 +42,14 @@ We are part of Nature, part of Planet Earth, we depend on it for our health and 
 
 We did not store fat, we were lean, and we knew hunger well.
 
+[Christopher Johnson McCandless, aka Alexander Supertramp (Alex)](https://en.wikipedia.org/wiki/Chris_McCandless) teaches us important lessons about the danger of loneliness, and about the beauty of the call to the wild.
+
+![Alex](images/chris_mccandless.png)
+
+[![Eddie Vedder - Guaranteed](http://img.youtube.com/vi/Mwx3RvDWvDM/0.jpg)](http://www.youtube.com/watch?v=Mwx3RvDWvDM)
+
+(Click image to watch video)
+
 ## The Warrior - A capacious mind
 
 ![](images/tomoe-gozen.jpg)
