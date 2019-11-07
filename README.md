@@ -347,7 +347,9 @@ Wikipedia states that Bryan Stevenson "has helped achieve United States Supreme 
 
 (Click image to watch video)
 
-Kandice Sumner, has the right idea. Her idea, in a word, is __Prevention__. She sees young children asking powerful questions. She is trying to help them inherit wisdom from books, stories, history.
+Kandice Sumner, has the right idea. Beyond share & donate, her idea, in a word: __Prevention__. She sees young children asking powerful questions. She is trying to help them inherit wisdom from books, stories, history, and push them away from poverty.
+
+Heroism.
 
 Don't be frightened of becoming a hero. It is always the longest possible way there, and it is always on the shoulders of giants, my friends.
 
