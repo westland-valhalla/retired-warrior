@@ -42,7 +42,7 @@ We are part of Nature, part of Planet Earth, we depend on it for our health and 
 
 We did not store fat, we were lean, and we knew hunger well.
 
-[Christopher Johnson McCandless, aka Alexander Supertramp (Alex)](https://en.wikipedia.org/wiki/Chris_McCandless) teaches us important lessons about the danger of loneliness, and about the beauty of the call to the wild.
+[Christopher Johnson McCandless, aka Alexander Supertramp (Alex)](https://en.wikipedia.org/wiki/Chris_McCandless) teaches us important lessons about the danger of loneliness, and about the nearly irresistible beauty of the call to the wild.
 
 ![Alex](images/chris_mccandless.png)
 
@@ -568,3 +568,5 @@ Significant Injuries are more likely if you lift heavy. If you lift heavy a few 
 While our cooling is superior, we do lose electrolytes while we sweat, you need to put them back in. V8 vegetable juice which contains both sodium and potassium is one way to do so, but always with wisdom and in moderation.
 
 Finally we arrive to the point where I explain why you can’t take days off. Think of your body as a good horse to your mind. Take two horses with muscle atrophy, one walks ten steps three times, every other day weekends off, the other trots for eight and half hours every day for many years, no day off. Which horse would you bet on, which horse would have more muscle, which horse would live healthier?
+
+I created an Open Source (Free) workout instruction drum song, the mp3 files are available here: [https://github.com/westland-valhalla/drums/releases](https://github.com/westland-valhalla/drums/releases)
