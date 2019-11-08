@@ -42,16 +42,27 @@ We are part of Nature, part of Planet Earth, we depend on it for our health and 
 
 We did not store fat, we were lean, and we knew hunger well.
 
-[Christopher Johnson McCandless, aka Alexander Supertramp (Alex)](https://en.wikipedia.org/wiki/Chris_McCandless) teaches us important lessons about the danger of loneliness, and about the nearly irresistible beauty of the call to the wild.
+## The Adventurer
+
+In moving, in endless horizons, and mountains, and the sea we learn to break away, and find our own paths. And there is a slope to each adventure that follows, and the adventurer knows that slope must increase, and the challenges must grow also.
+
+*"Strength does not reside in having never been broken, but in the courage required to grow strong in the broken places"* - Kristen Jongen
 
 ![Alex](images/chris_mccandless.png)
+
+[Christopher Johnson McCandless, aka Alexander Supertramp (Alex)](https://en.wikipedia.org/wiki/Chris_McCandless) teaches us important lessons about the danger of loneliness, and about the nearly irresistible beauty of the call to the wild.
 
 [![Eddie Vedder - Guaranteed](http://img.youtube.com/vi/Mwx3RvDWvDM/0.jpg)](http://www.youtube.com/watch?v=Mwx3RvDWvDM)
 
 (Click image to watch video)
 
-
 [Jon Krakauer](https://www.audible.com/author/Jon-Krakauer/B000AQ8WPY) wrote a book about Alex entitled [Into the Wild](https://www.audible.com/pd/Into-the-Wild-Audiobook/B002V1NYEK), and there is also a [movie](https://www.youtube.com/watch?v=g7ArZ7VD-QQ).
+
+Carine McCandless, Christopher sister, explains a lot more about his journey. On a wounded knee, is no way to be alive, wherever we come from Authenticity is our candle in the dark.
+
+[![Carine McCandless](http://img.youtube.com/vi/DJXM8HjyVSo/0.jpg)](http://www.youtube.com/watch?v=DJXM8HjyVSo)
+
+(Click image to watch video)
 
 ## The Warrior - A capacious mind
 
