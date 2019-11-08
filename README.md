@@ -16,7 +16,7 @@ Warrior is the oldest name for it. Since our time in Africa we have progressed f
 
 ![](images/bears.jpg)
 
-This artwork has been with me for as long as I can remember, I found it in a book entitled “Wszechświat życie człowiek” (Universe, Life, Human) and one of my favorite writers Bill Bryson wrote something just as good [A Short History of Nearly Everything](https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything) you can find it on [Audible](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW) he gently talks about learning about universe, and even learning how to humbly learn.
+This artwork has been with me for as long as I can remember, I found it in a book entitled “Wszechświat życie człowiek” (Universe, Life, Human) and one of my favorite writers Bill Bryson wrote something just as good [A Short History of Nearly Everything](https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything) which is available as an [Audiobook](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW) where he gently talks about learning, and what he learned about our universe.
 
 From this simple image we can infer some really important facts about who we are, where we belong, the diet we evolved alongside with.
 
