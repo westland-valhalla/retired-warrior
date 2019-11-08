@@ -323,6 +323,8 @@ I am the captain of my soul.
 
 [Human Hearts Evolved to Need Regular Activity](https://www.insidescience.org/news/human-hearts-evolved-need-regular-activity)
 
+## The Humanitarian
+
 I beg the youngest of you, to arrange your life in such a way so that each challenge before you, is the hardest thing you have ever done. To paraphrase Thoreau: I beg you to live and grow up deliberately, to front only the essential facts of life, to see what love of wisdom has to teach, and not, when it comes to die, discover that you, my dear friend, had. not. yet. lived.
 
 Life is not random, it is not an accident, you are an emergent plateau in an infinity of time ahead. You are needed, and your lasting contributions are necessary.
@@ -396,7 +398,7 @@ The human family is not divided by political borders, these aren't the only kids
 
 [A school under Metro bridge teaches these Delhi slum children](https://www.hindustantimes.com/delhi/a-school-under-metro-bridge-teaches-these-delhi-slum-children/story-Qr3EV279SarAME4K6N8orL.html)
 
-## The Ultra - The New Generation
+## The Ultra
 
 [![Bruce Lee](http://img.youtube.com/vi/-U5zA7gNPKo/0.jpg)](http://www.youtube.com/watch?v=-U5zA7gNPKo)
 
