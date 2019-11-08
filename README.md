@@ -44,7 +44,7 @@ We did not store fat, we were lean, and we knew hunger well.
 
 ## The Adventurer
 
-In moving, in endless horizons, and mountains, and the sea we learn to break away, and find our own paths. And there is a slope to each adventure that follows, and the adventurer knows that slope must increase, and the challenges must grow also.
+In moving. In endless horizons, and mountains, and the sea we learn to break away, and find our own paths. And there is a slope to each adventure that follows, and the adventurer knows that slope must increase, and the challenges must grow also.
 
 *"Strength does not reside in having never been broken, but in the courage required to grow strong in the broken places"* - Kristen Jongen
 
@@ -58,11 +58,16 @@ In moving, in endless horizons, and mountains, and the sea we learn to break awa
 
 [Jon Krakauer](https://www.audible.com/author/Jon-Krakauer/B000AQ8WPY) wrote a book about Alex entitled [Into the Wild](https://www.audible.com/pd/Into-the-Wild-Audiobook/B002V1NYEK), and there is also a [movie](https://www.youtube.com/watch?v=g7ArZ7VD-QQ).
 
-Carine McCandless, Christopher sister, explains a lot more about his journey. On a wounded knee, is no way to be alive, wherever we come from Authenticity is our candle in the dark.
+Carine McCandless, Christopher's sister, explains a lot more about his journey. On a wounded knee, is no way to be alive, wherever we come from, Authenticity is our candle in the dark.
 
 [![Carine McCandless](http://img.youtube.com/vi/DJXM8HjyVSo/0.jpg)](http://www.youtube.com/watch?v=DJXM8HjyVSo)
 
 (Click image to watch video)
+
+"To die having made Something more equal to the centuries
+Than muscle and bone, is mostly to shed weakness" - From Wise Men In Their Bad Hours by Robinson Jeffers.
+
+Our search for wisdom, as well as our climb onto the shoulders of giants, is just the first part of our story. When we learn to push ourselves to travel the hardest slopes, our shoulders will become strong enough to holdup the countless adventurers that are sure to follow. Long after we depart, our hard earned wisdom will retain the momentum of our hardest slopes, to serve as an inextinguishable candle in the dark.
 
 ## The Warrior - A capacious mind
 
