@@ -1,5 +1,5 @@
 # Warrior
-A short walk in time.
+A warrior is she that thrives wherever she be.
 
 Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, or Success, Bodybuilding will ensue from pursuit of things that are just out of your reach.
 
