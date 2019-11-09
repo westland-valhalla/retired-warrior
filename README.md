@@ -44,7 +44,7 @@ We did not store fat, we were lean, and we knew hunger well.
 
 ## The Adventurer
 
-In moving. In endless horizons, and mountains, and the sea we learn to break away, and find our own paths. And there is a slope to each adventure that follows, and the adventurer knows that slope must increase, and the challenges must grow also.
+In moving. In endless horizons, and mountains, and the sea; we learn to break away, and find our own paths. And there is a slope to each adventure that follows, and the adventurer knows that slope must increase, and the challenges must grow also.
 
 *"Strength does not reside in having never been broken, but in the courage required to grow strong in the broken places"* - Kristen Jongen
 
@@ -58,7 +58,9 @@ In moving. In endless horizons, and mountains, and the sea we learn to break awa
 
 [Jon Krakauer](https://www.audible.com/author/Jon-Krakauer/B000AQ8WPY) wrote a book about Alex entitled [Into the Wild](https://www.audible.com/pd/Into-the-Wild-Audiobook/B002V1NYEK), and there is also a [movie](https://www.youtube.com/watch?v=g7ArZ7VD-QQ).
 
-Carine McCandless, Christopher's sister, explains a lot more about his journey. On a wounded knee, is no way to be alive, wherever we come from, Authenticity is our candle in the dark.
+Carine McCandless, Christopher's sister, explains a lot more about his journey.
+
+On a wounded knee, is no way to be free. Wherever we come from, Authenticity is our candle in the dark.
 
 [![Carine McCandless](http://img.youtube.com/vi/DJXM8HjyVSo/0.jpg)](http://www.youtube.com/watch?v=DJXM8HjyVSo)
 
@@ -350,7 +352,7 @@ The [Universal Declaration of Human Rights](https://librivox.org/the-universal-d
 
 (Click image to watch video)
 
-And there also voices that never stopped, fell out of the modern spotlight, but were never silenced, never tired. No more circles.
+And there are voices that never stopped, fell out of the modern spotlight, but were never silenced, and never tired. No more circles.
 
 [Michelle Alexander](https://en.wikipedia.org/wiki/Michelle_Alexander): The future of race in America
 
