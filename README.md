@@ -319,6 +319,36 @@ How charged with punishments the scroll.
 I am the master of my fate:
 I am the captain of my soul.
 
+The Appalachian Trail
+
+[![Appalachian Trail](http://img.youtube.com/vi/hPSvdKTEZug/0.jpg)](http://www.youtube.com/watch?v=hPSvdKTEZug)
+
+(Click image to watch video)
+
+[![Appalachian Trail](http://img.youtube.com/vi/hT8ZMp8Ec7U/0.jpg)](http://www.youtube.com/watch?v=hT8ZMp8Ec7U)
+
+(Click image to watch video)
+
+Western States
+
+[![Western States](http://img.youtube.com/vi/kYgcTJBLwsU/0.jpg)](http://www.youtube.com/watch?v=kYgcTJBLwsU)
+
+(Click image to watch video)
+
+[![Western States 70](http://img.youtube.com/vi/Wqmu8glgE8U/0.jpg)](http://www.youtube.com/watch?v=Wqmu8glgE8U)
+
+(Click image to watch video)
+
+[![Western States The SISU Journey](http://img.youtube.com/vi/mmX1MGhR3WU/0.jpg)](http://www.youtube.com/watch?v=mmX1MGhR3WU)
+
+(Click image to watch video)
+
+Rock Running
+
+[![Rock Running](http://img.youtube.com/vi/vs3WTVFChtw/0.jpg)](http://www.youtube.com/watch?v=vs3WTVFChtw)
+
+(Click image to watch video)
+
 [![Winners](http://img.youtube.com/vi/paOvrIKH2Os/0.jpg)](http://www.youtube.com/watch?v=paOvrIKH2Os)
 
 (Click image to watch video)
@@ -438,7 +468,7 @@ It is when you stop, and all time scrolls by you, that really hurts. This is why
 
 (Click image to watch video)
 
-"Make me young again" - but you are young now, you can make most of it, no wax, because it is all ahead of you. Go, close your eyes and connect with your 80 year old self, and make the wish Killgore Trout did: “Make Me Young Again”, and open your eyes, and be young but wiser for it. There in you will discover the nature of the Ultra. While we live our only life, poetically we live as it was countless lives already. By wiggling forward and back we can see where we are headed, and end up where we always wished to be.
+"Make me young again" - but you are young now, you can make most of it, no wax, because it is all ahead of you. Go, close your eyes and connect with your 80 year old self, and make the wish Killgore Trout did: “Make Me Young Again”, and open your eyes, and be young but wiser for it. Therein you will discover the nature of the Ultra. While we live our only life, poetically we live as it was countless lives already. By wiggling forward and back we can see where we are headed, and end up where we always wished to be.
 
 [![Nietzsche's Eternal Recurrence](http://img.youtube.com/vi/EknD3KRtgDk/0.jpg)](http://www.youtube.com/watch?v=EknD3KRtgDk)
 
@@ -503,7 +533,7 @@ The power of vulnerability, and part two Listening to Shame.
 
 (Click images to watch videos)
 
-Here's the [Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) Brené quotes:
+Here's the [Theodore Roosevelt](https://en.wikipedia.org/wiki/Theodore_Roosevelt) speech referred to as [The Man in the Arena](https://en.wikipedia.org/wiki/Citizenship_in_a_Republic) that Brené mentions:
 
 *It is not the critic who counts; not the man who points out how the strong man stumbles,
 or where the doer of deeds could have done them better.
