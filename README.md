@@ -130,7 +130,7 @@ A knight blindly placing duty over authenticity. Even back then the code hinted 
 
 ![](images/galahad.png)
 
-As we grew so did our grasp on the Human Condition, from bloody and warring clans of duty and loyalty a new kind class emerged, The Knight of Virtue.
+As we grew so did our grasp on the Human Condition, from bloody and warring clans of duty and loyalty a new kind of class emerged, The Knight of Virtue.
 
 Superheroes like [Galahad](https://en.wikipedia.org/wiki/Sir_Galahad_(poem)) carried a message that put servitude second.
 
