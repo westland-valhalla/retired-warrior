@@ -122,6 +122,39 @@ In Eight virtues of Bushido we are reminded of the following:
 
 *Self-Control*: Warriors feel more than others. This calmness of behavior and composure of mind is rooted in the choice of endurance without a groan, wisdom over ignorance, understanding over confrontation, love over anger, and unbreakability in the face of suffering and loneliness.
 
+[![Mad World Mountain Dew](http://img.youtube.com/vi/Xcjb1f1qbBA/0.jpg)](http://www.youtube.com/watch?v=Xcjb1f1qbBA)
+
+I don't understand why bloody battles are necessary. I don't think anybody has ever understood that. It seems like desperation, and profit maximization maybe creating a situation where it is more profitable to wait and send troops, rather than look ahead in time and build libraries & schools. But there is no designer here, this is emergent phenomena.
+
+It can be summarized with Bryan Stevenson words: __Our humanity depends on everyone’s humanity.__
+
+![](images/lady.png)
+
+I think there was a hope that hard earned ideas won in hell of war would spread to no end in time. That, Knightly Vitues, Chivalry, Bushido, Stoicism, would grab a hold of Humanity and never let go, would never stop making us better and wiser. But even a [meme](https://en.wikipedia.org/wiki/Meme) has limitations, the gaps in schooling will end propagation of the most viral lessons, and poverty will return...
+
+Poverty Never Changes.
+
+Police in Chicago are calling for tougher sentencing, the gangs are saying "I have kids, I need to put food on the table". And one of the lessons we learn from this text is that "A human being is more than the worst thing they have ever done."
+
+My fiends, My Heroes. The situation is only hopeless when we stand on the very bottom. When we rise, when we rise onto the shoulders of giants, things change.
+
+The Hopelessness of Poverty becomes transformed into a Hope. It becomes yet another mission, a new challenge. It becomes a source of wisdom, a source of Great Power.
+
+[![OHN](http://img.youtube.com/vi/zk--XN4ozr8/0.jpg)](http://www.youtube.com/watch?v=zk--XN4ozr8)
+
+(Click image to watch video)
+
+[![OHN](http://img.youtube.com/vi/oB956Na0dWU/0.jpg)](http://www.youtube.com/watch?v=oB956Na0dWU)
+
+(Click image to watch video)
+
+__The Timeless & Unbreakable Family of Great Beings needs you.__
+
+Hopes for you. And the future generations, will need your shoulders to stand on. Rise to the challenge, become part of the thousands of years of hope, hope for Peace, World Peace.
+
+Confident, and Unafraid.
+
+
 ## The Knight of Virtue
 
 ![](images/galahad.png)
@@ -136,7 +169,7 @@ A code of conduct that aimed to revolve around Authenticity was born:
 
 *The right can never die, If one man still recalls, The words are not forgot, If one voice speaks them clear, The code forever shines, If one heart holds it bright: The knight is sworn to valor, His heart knows only virtue, His blade defends the helpless, His might upholds the weak, His words speak only truth, His wrath undoes the wicked.*
 
-![](images/lady.png)
+![](images/god-speed.jpg)
 
 *"Chivalry! – why, maiden, she is the nurse of pure and high affection – the stay of the oppressed, the redresser of grievances, the curb of the power of the tyrant – Nobility were but an empty name without her, and liberty finds the best protection in her lance and her sword."* - Walter Scott, Ivanhoe (1820)
 
