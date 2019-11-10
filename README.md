@@ -122,10 +122,6 @@ In Eight virtues of Bushido we are reminded of the following:
 
 *Self-Control*: Warriors feel more than others. This calmness of behavior and composure of mind is rooted in the choice of endurance without a groan, wisdom over ignorance, understanding over confrontation, love over anger, and unbreakability in the face of suffering and loneliness.
 
-![](images/god-speed.jpg)
-
-A knight blindly placing duty over authenticity. Even back then the code hinted on more. Including the beautifully worded ideals of: __Forbearance, Hardihood, Largesse, Benevolence, and Honour.__
-
 ## The Knight of Virtue
 
 ![](images/galahad.png)
@@ -136,7 +132,7 @@ Superheroes like [Galahad](https://en.wikipedia.org/wiki/Sir_Galahad_(poem)) car
 
 *My good blade carves the casques of men, / My tough lance thrusteth sure, / My strength is as the strength of ten, / Because my heart is pure.*
 
-These were not blind servants of yore, they stood apart. A code of conduct that aimed to revolve around Authenticity was born:
+A code of conduct that aimed to revolve around Authenticity was born:
 
 *The right can never die, If one man still recalls, The words are not forgot, If one voice speaks them clear, The code forever shines, If one heart holds it bright: The knight is sworn to valor, His heart knows only virtue, His blade defends the helpless, His might upholds the weak, His words speak only truth, His wrath undoes the wicked.*
 
@@ -144,7 +140,7 @@ These were not blind servants of yore, they stood apart. A code of conduct that 
 
 *"Chivalry! – why, maiden, she is the nurse of pure and high affection – the stay of the oppressed, the redresser of grievances, the curb of the power of the tyrant – Nobility were but an empty name without her, and liberty finds the best protection in her lance and her sword."* - Walter Scott, Ivanhoe (1820)
 
-The Modern Knight was no stranger to battle, but he fought for more than blind duty, and career.
+__Forbearance, Hardihood, Largesse, Benevolence, and Honour.__
 
 ## The Lady and The Gentleman
 
