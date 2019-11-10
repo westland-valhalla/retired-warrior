@@ -1,5 +1,9 @@
 # Warrior
-A warrior is she that thrives wherever she be.
+A warrior is she that thrives where'er she be.
+
+[![Viktor Frankl](http://img.youtube.com/vi/cFEarBzelBs/0.jpg)](https://youtu.be/cFEarBzelBs?t=4)
+
+(Click image to watch video)
 
 Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, or Success, Bodybuilding will ensue from pursuit of things that are just out of your reach.
 
@@ -48,7 +52,7 @@ In moving. In endless horizons, and mountains, and the sea; we learn to break aw
 
 *"Strength does not reside in having never been broken, but in the courage required to grow strong in the broken places"* - Kristen Jongen
 
-![Alex](images/chris_mccandless.png)
+![Alex](images/chris-mccandless.png)
 
 [Christopher Johnson McCandless, aka Alexander Supertramp (Alex)](https://en.wikipedia.org/wiki/Chris_McCandless) teaches us important lessons about the danger of loneliness, and about the nearly irresistible beauty of the call to the wild.
 
@@ -71,7 +75,19 @@ Than muscle and bone, is mostly to shed weakness" - From Wise Men In Their Bad H
 
 Our search for wisdom, as well as our climb onto the shoulders of giants, is just the first part of our story. When we learn to push ourselves to travel the hardest slopes, our shoulders will become strong enough to holdup the countless adventurers that are sure to follow. Long after we depart, our hard earned wisdom will retain the momentum of our hardest slopes, to serve as an inextinguishable candle in the dark.
 
-## The Warrior - A capacious mind
+## Warrior of Duty and Loyalty
+
+![](images/zeno-of-citium.jpg)
+
+Zeno was the founder of the Stoic school of philosophy, which he taught in Athens from about 300 BC. Based on the moral ideas of the Cynics, Stoicism laid great emphasis on goodness and peace of mind gained from living a life of Virtue in accordance with Nature.
+
+According to its teachings, as social beings, the path to eudaimonia (happiness) for humans is found in accepting the moment as it presents itself, by not allowing oneself to be controlled by whim, the desire for pleasure, or fear of pain, by using one's mind to understand the world and to do one's part in nature's plan, and by working together and treating others fairly and justly.
+
+This simple Philosophy would have influenced the Roman Warrior.
+
+![](images/marcus-aurelius.jpg)
+
+Emperor Marcus Aurelius (161-180 AD) shows his clemency towards the vanquished after his success against Germanic tribes. Marcus Aurelius wrote a book titled [Meditations](https://en.wikipedia.org/wiki/Meditations) and today it is available as an [Audiobook](https://www.audible.com/pd/Meditations-Audiobook/B004IBRMZS).
 
 ![](images/tomoe-gozen.jpg)
 
@@ -106,24 +122,35 @@ In Eight virtues of Bushido we are reminded of the following:
 
 *Self-Control*: Warriors feel more than others. This calmness of behavior and composure of mind is rooted in the choice of endurance without a groan, wisdom over ignorance, understanding over confrontation, love over anger, and unbreakability in the face of suffering and loneliness.
 
-## The Knight - Where might upholds the young
+![](images/god-speed.jpg)
 
-![](images/galahad.jpg)
+A knight blindly placing duty over authenticity. Even back then the code hinted on more. Including the beautifully worded ideals of: __Forbearance, Hardihood, Largesse, Benevolence, and Honour.__
 
-As we grew so did our grasp on the Human Condition, from bloody and warring clans of respect, honor, duty and loyalty a new kind class emerged: The Knights of Virtue.
+## The Knight of Virtue
 
-Superheroes like [Galahad](https://en.wikipedia.org/wiki/Sir_Galahad_(poem)): *My good blade carves the casques of men, / My tough lance thrusteth sure, / My strength is as the strength of ten, / Because my heart is pure.*
+![](images/galahad.png)
 
-And a code of conduct that aimed to revolve around Authenticity was born:
+As we grew so did our grasp on the Human Condition, from bloody and warring clans of duty and loyalty a new kind class emerged, The Knight of Virtue.
+
+Superheroes like [Galahad](https://en.wikipedia.org/wiki/Sir_Galahad_(poem)) carried a message that put servitude second.
+
+*My good blade carves the casques of men, / My tough lance thrusteth sure, / My strength is as the strength of ten, / Because my heart is pure.*
+
+These were not blind servants of yore, they stood apart. A code of conduct that aimed to revolve around Authenticity was born:
 
 *The right can never die, If one man still recalls, The words are not forgot, If one voice speaks them clear, The code forever shines, If one heart holds it bright: The knight is sworn to valor, His heart knows only virtue, His blade defends the helpless, His might upholds the weak, His words speak only truth, His wrath undoes the wicked.*
 
+![](images/lady.png)
+
+*"Chivalry! – why, maiden, she is the nurse of pure and high affection – the stay of the oppressed, the redresser of grievances, the curb of the power of the tyrant – Nobility were but an empty name without her, and liberty finds the best protection in her lance and her sword."* - Walter Scott, Ivanhoe (1820)
+
+The Modern Knight was no stranger to battle, but he fought for more than blind duty, and career.
 
 ## The Lady and The Gentleman
 
 It has been said: *A King may make a Nobleman but he cannot make Gentleman.*
 
-There is no force in the universe that can help a person grow up.
+There is no force in the universe that can help a person grow up outside in. In education, the idea of dividing all subjects into tidy categories that make perfect sense takes away from beauty of Knowledge. Coupled with the misunderstanding that we can be taught by being talked at, school can only become an exercise in memorization. A school may make a diploma, but it cannot make a grownup.
 
 ![](images/gentleman.jpg)
 
