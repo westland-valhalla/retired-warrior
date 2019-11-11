@@ -411,6 +411,11 @@ Rock Running
 
 [Human Hearts Evolved to Need Regular Activity](https://www.insidescience.org/news/human-hearts-evolved-need-regular-activity)
 
+[![The Eternal Suffering of the Endurance Mind by Colin Robertson](http://img.youtube.com/vi/DJrdV0ZQWxQ/0.jpg)](http://www.youtube.com/watch?v=DJrdV0ZQWxQ)
+
+(Click image to watch video)
+
+
 ## The Humanitarian
 
 [![Peace Corps](http://img.youtube.com/vi/kxR8XZOeV-s/0.jpg)](http://www.youtube.com/watch?v=kxR8XZOeV-s)
