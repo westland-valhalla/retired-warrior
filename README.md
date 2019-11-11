@@ -687,10 +687,14 @@ While our cooling is superior, we do lose electrolytes while we sweat, you need 
 
 Finally we arrive to the point where I explain why you can’t take days off. Think of your body as a good horse to your mind. Take two horses with muscle atrophy, one walks ten steps three times, every other day weekends off, the other trots for eight and half hours every day for many years, no day off. Which horse would you bet on, which horse would have more muscle, which horse would live healthier?
 
-This is a snapshot of one of my workout playlists, primarly Dance Pop as it is easiest to workout to a dance song. I change my playlist almost daily, I search youtube for "Bass Boost", "Dance Pop", "HIIT Workout", and sometimes Choreography as people tend to dance to amazing songs.
+This is a snapshot of one of my workout playlists, primarly Dance Pop as it is easiest to workout to a dance song. I change my playlist almost daily, I search youtube for "Bass Boost", "Dance Pop", "HIIT Workout", and sometimes Choreography as people tend to dance to amazing songs:
+
+[![Labrinth - Mount Everest - Choreography by Erica Klein](http://img.youtube.com/vi/T2ezIjoqkrY/0.jpg)](http://www.youtube.com/watch?v=T2ezIjoqkrY)
+
+(Click image to watch video)
 
 ## Meowmix vol. 1,627
- 
+
 - Blanco Brown - [The Git Up](https://www.youtube.com/watch?v=Q7U6AoZ27yE)
 - Taylor Swift - [Shake It Off](https://www.youtube.com/watch?v=nfWlot6h_JM)
 - Psy - [Gangnam Style](https://www.youtube.com/watch?v=9bZkp7q19f0)
@@ -719,6 +723,7 @@ This is a snapshot of one of my workout playlists, primarly Dance Pop as it is e
 [![Power of Now](http://img.youtube.com/vi/_tc4K5Zujqw/0.jpg)](http://www.youtube.com/watch?v=_tc4K5Zujqw)
 
 (Click image to watch video)
+
 
 The staying in the moment that this man describes can be induced with a fun and snappy playlist, where non-stop endurance bodybuilding is concerned.
 
