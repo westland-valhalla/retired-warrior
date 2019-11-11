@@ -687,4 +687,39 @@ While our cooling is superior, we do lose electrolytes while we sweat, you need 
 
 Finally we arrive to the point where I explain why you can’t take days off. Think of your body as a good horse to your mind. Take two horses with muscle atrophy, one walks ten steps three times, every other day weekends off, the other trots for eight and half hours every day for many years, no day off. Which horse would you bet on, which horse would have more muscle, which horse would live healthier?
 
-I created an Open Source (Free) workout instruction drum song, the mp3 files are available here: [https://github.com/westland-valhalla/drums/releases](https://github.com/westland-valhalla/drums/releases)
+This is a snapshot of one of my workout playlists, primarly Dance Pop as it is easiest to workout to a dance song. I change my playlist almost daily, I search youtube for "Bass Boost", "Dance Pop", "HIIT Workout", and sometimes Choreography as people tend to dance to amazing songs.
+
+## Meowmix vol. 1,627
+ 
+- Blanco Brown - [The Git Up](https://www.youtube.com/watch?v=Q7U6AoZ27yE)
+- Taylor Swift - [Shake It Off](https://www.youtube.com/watch?v=nfWlot6h_JM)
+- Psy - [Gangnam Style](https://www.youtube.com/watch?v=9bZkp7q19f0)
+- Tri Poloski - [Davay](https://www.youtube.com/watch?v=Y8qtmD_QTYw)
+- XS Project - [Bochka Bass Kolbaser](https://www.youtube.com/watch?v=VLW1ieY4Izw)
+- Lil Nas X - [Old Town Road](https://www.youtube.com/watch?v=Ub3JtYKuMtA)
+- Pitbull - [Timber](https://www.youtube.com/watch?v=hHUbLv4ThOo)
+- Ciara - [1 2 Step](https://www.youtube.com/watch?v=iBHNgV6_znU)
+- Lorde - [Royals](https://www.youtube.com/watch?v=nlcIKh6sBtc)
+- Fort Minor - [Remember The Name](https://www.youtube.com/watch?v=VDvr08sCPOc)
+- Imagine Dragons - [Believer](https://www.youtube.com/watch?v=7wtfhZwyrcc)
+- Macklemore - [Can't Hold Us](https://www.youtube.com/watch?v=2zNSgSzhBfM)
+- Billie Eilish - [Bad Guy](https://www.youtube.com/watch?v=DyDfgMOUjCI)
+- Kesha - [Blow](https://www.youtube.com/watch?v=3yIDXlYMcnE)
+- Beyonce - [Single Ladies](https://www.youtube.com/watch?v=4m1EFMoRFvY)
+- Cascada - [Evacuate The Dancefloor](https://www.youtube.com/watch?v=A68j28KQaik)
+- Blade - [Blade 1 Vampire Dance Club Theme](https://www.youtube.com/watch?v=cNOP2t9FObw)
+- Smile - [Butterfly](https://www.youtube.com/watch?v=QzcvRDWgRIE)
+- Infernal - [From Paris To Berlin](https://www.youtube.com/watch?v=zgurcTTsIv0)
+- XS Project - [Expressway](https://www.youtube.com/watch?v=K3T0FNowHwg)
+- Charlie Puth - [Betty Boop](https://www.youtube.com/watch?v=sd6_PHCdCZI)
+- Caravan Palace - [Wonderland](https://www.youtube.com/watch?v=vCXsRoyFRQE)
+- Valentino Khan - [Pump](https://www.youtube.com/watch?v=3_twoy0qdOk)
+- LMFAO - [Sexy and I Know It](https://www.youtube.com/watch?v=wyx6JDQCslE)
+
+[![Power of Now](http://img.youtube.com/vi/_tc4K5Zujqw/0.jpg)](http://www.youtube.com/watch?v=_tc4K5Zujqw)
+
+(Click image to watch video)
+
+The staying in the moment that this man describes can be induced with a fun and snappy playlist, where non-stop endurance bodybuilding is concerned.
+
+I also created an Open Source (Free) workout instruction drum song, the mp3 files are available here: [https://github.com/westland-valhalla/drums/releases](https://github.com/westland-valhalla/drums/releases)
