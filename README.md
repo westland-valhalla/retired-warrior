@@ -687,7 +687,7 @@ While our cooling is superior, we do lose electrolytes while we sweat, you need 
 
 Finally we arrive to the point where I explain why you can’t take days off. Think of your body as a good horse to your mind. Take two horses with muscle atrophy, one walks ten steps three times, every other day weekends off, the other trots for eight and half hours every day for many years, no day off. Which horse would you bet on, which horse would have more muscle, which horse would live healthier?
 
-This is a snapshot of one of my workout playlists, primarly Dance Pop as it is easiest to workout to a dance song. I change my playlist almost daily, I search youtube for [Bass Boost](https://www.youtube.com/results?search_query=Bass+Boost), [Dance Pop](https://www.youtube.com/results?search_query=Dance+Pop), [HIIT Workout](https://www.youtube.com/results?search_query=HIIT+Workout), and [Choreography](https://www.youtube.com/results?search_query=Choreography) as choreographers tend to pick amazing songs:
+This is a snapshot of one of my workout playlists, primarly Dance Pop as it is easiest to workout to a dance song. I change my playlist almost daily, I search youtube for [Bass Boost](https://www.youtube.com/results?search_query=Bass+Boost), [Dance Pop](https://www.youtube.com/results?search_query=Dance+Pop), [HIIT Songs](https://www.youtube.com/results?search_query=HIIT+Songs), and [Choreography](https://www.youtube.com/results?search_query=Choreography) as choreographers tend to pick amazing songs:
 
 [![Labrinth - Mount Everest - Choreography by Erica Klein](http://img.youtube.com/vi/T2ezIjoqkrY/0.jpg)](http://www.youtube.com/watch?v=T2ezIjoqkrY)
 
