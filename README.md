@@ -581,6 +581,10 @@ On the Mind part, focus on gaining wisdom by all means. On the body part, keep e
 
 ## Superheroes
 
+[![The three secrets of resilient people | Lucy Hone](http://img.youtube.com/vi/NWH8N-BvhAw/0.jpg)](http://www.youtube.com/watch?v=NWH8N-BvhAw)
+
+(Click image to watch video)
+
 Dan Millman, wrote a book in which he featured him self as a character, next to the imaginary wise man Socrates, Soc for short. Dan is someone who quite literally pulled him self up by his own shoe laces.
 
 [![Dan's Ted Talk](http://img.youtube.com/vi/MDL85fzdc1g/0.jpg)](http://www.youtube.com/watch?v=MDL85fzdc1g)
