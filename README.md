@@ -581,7 +581,9 @@ On the Mind part, focus on gaining wisdom by all means. On the body part, keep e
 
 ## Superheroes
 
-[![The three secrets of resilient people | Lucy Hone](http://img.youtube.com/vi/NWH8N-BvhAw/0.jpg)](http://www.youtube.com/watch?v=NWH8N-BvhAw)
+Lucy Hone, The three secrets of resilient people.
+
+[![The three secrets of resilient people: Lucy Hone](http://img.youtube.com/vi/NWH8N-BvhAw/0.jpg)](http://www.youtube.com/watch?v=NWH8N-BvhAw)
 
 (Click image to watch video)
 
