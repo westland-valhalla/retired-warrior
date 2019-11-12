@@ -519,7 +519,7 @@ The human family is not divided by political borders, these aren't the only kids
 
 __"Whether you think you can, or you think you can't - you're right."__ - Henry Ford
 
-[![Coming Home](http://img.youtube.com/vi/4JmrOXSbsOU/0.jpg)](http://www.youtube.com/watch?v=4JmrOXSbsOU)
+[![Coming Home](http://img.youtube.com/vi/k84QxVJd0tI/0.jpg)](http://www.youtube.com/watch?v=k84QxVJd0tI)
 
 (Click image to watch video)
 
