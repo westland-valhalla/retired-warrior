@@ -517,6 +517,16 @@ The human family is not divided by political borders, these aren't the only kids
 
 ## The Ultra
 
+__"Whether you think you can, or you think you can't - you're right."__ - Henry Ford
+
+[![Coming Home](http://img.youtube.com/vi/4JmrOXSbsOU/0.jpg)](http://www.youtube.com/watch?v=4JmrOXSbsOU)
+
+(Click image to watch video)
+
+[![Lucy Lawrence & James Lawrence: Breaking endurance barriers, one step at a time](http://img.youtube.com/vi/WnoziOPQ3HA/0.jpg)](http://www.youtube.com/watch?v=WnoziOPQ3HA)
+
+(Click image to watch video)
+
 [![Bruce Lee](http://img.youtube.com/vi/-U5zA7gNPKo/0.jpg)](http://www.youtube.com/watch?v=-U5zA7gNPKo)
 
 (Click image to watch video)
