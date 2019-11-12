@@ -375,7 +375,7 @@ How charged with punishments the scroll.
 I am the master of my fate:
 I am the captain of my soul.
 
-The Appalachian Trail
+### The Appalachian Trail
 
 [![Appalachian Trail](http://img.youtube.com/vi/hPSvdKTEZug/0.jpg)](http://www.youtube.com/watch?v=hPSvdKTEZug)
 
@@ -385,7 +385,7 @@ The Appalachian Trail
 
 (Click image to watch video)
 
-Western States
+### Western States
 
 [![Western States](http://img.youtube.com/vi/kYgcTJBLwsU/0.jpg)](http://www.youtube.com/watch?v=kYgcTJBLwsU)
 
@@ -399,7 +399,27 @@ Western States
 
 (Click image to watch video)
 
-Rock Running
+### Ironman
+
+Paula Newby Frazier is "Hitting The Wall" 1995 Ironman Hawaii
+
+[![Paula Newby Frazier is "Hitting The Wall" 1995 Ironman Hawaii](http://img.youtube.com/vi/g_utqeQALVE/0.jpg)](http://www.youtube.com/watch?v=g_utqeQALVE)
+
+(Click image to watch video)
+
+The Crawl - Sian Welch & Wendy Ingraham (1997)
+
+[![The Crawl - Sian Welch & Wendy Ingraham](http://img.youtube.com/vi/MTn1v5TGK_w/0.jpg)](http://www.youtube.com/watch?v=MTn1v5TGK_w)
+
+(Click image to watch video)
+
+Elle's journey to good health, Kona IRONMAN world championship transformation.
+
+[![Elle's journey to good health](http://img.youtube.com/vi/oGW5APQVg-c/0.jpg)](http://www.youtube.com/watch?v=oGW5APQVg-c)
+
+(Click image to watch video)
+
+### Rock Running
 
 [![Rock Running](http://img.youtube.com/vi/vs3WTVFChtw/0.jpg)](http://www.youtube.com/watch?v=vs3WTVFChtw)
 
