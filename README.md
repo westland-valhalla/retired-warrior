@@ -1,7 +1,7 @@
 # Warrior
 A warrior is she that thrives where'er she be.
 
-[![Viktor Frankl](http://img.youtube.com/vi/cFEarBzelBs/0.jpg)](https://youtu.be/cFEarBzelBs?t=4)
+[![Think Different](http://img.youtube.com/vi/cFEarBzelBs/0.jpg)](https://youtu.be/cFEarBzelBs?t=4)
 
 (Click image to watch video)
 
@@ -14,7 +14,14 @@ Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, 
 
 (Click image to watch video)
 
-Warrior is the oldest name for it. Since our time in Africa we have progressed forward, and the word has changed, several times. But at each stage there are strong lessons to be learned, so let us step through the evolution of the warrior.
+Warrior is the oldest name for it. Since our time in Africa we have progressed forward, and the word has changed, several times. But at each stage there are strong lessons to be learned, directly, or by subtle analogy. The lessons come from soldiers, presidents, atheltes, joy, tragedy, Murphy's Law. To progress forward, you will have to learn to understand by subtle analogy, from all other theories.
+
+[![Kosmos](http://img.youtube.com/vi/FyNR_LgiWEc/0.jpg)](http://www.youtube.com/watch?v=FyNR_LgiWEc)
+
+(Click image to watch video)
+
+
+Let us step through the evolution of the warrior.
 
 ## The Hunter
 
@@ -122,6 +129,8 @@ In Eight virtues of Bushido we are reminded of the following:
 
 *Self-Control*: Warriors feel more than others. This calmness of behavior and composure of mind is rooted in the choice of endurance without a groan, wisdom over ignorance, understanding over confrontation, love over anger, and unbreakability in the face of suffering and loneliness.
 
+War.
+
 [![Mad World Mountain Dew](http://img.youtube.com/vi/Xcjb1f1qbBA/0.jpg)](http://www.youtube.com/watch?v=Xcjb1f1qbBA)
 
 I don't understand why bloody battles are necessary. I don't think anybody has ever understood that. It seems like desperation, and profit maximization maybe creating a situation where it is more profitable to wait and send troops, rather than look ahead in time and build libraries & schools. But there is no designer here, this is emergent phenomena.
@@ -132,7 +141,7 @@ It can be summarized with Bryan Stevenson words: __Our humanity depends on every
 
 I think there was a hope that hard earned ideas won in hell of war would spread to no end in time. That, Knightly Vitues, Chivalry, Bushido, Stoicism, would grab a hold of Humanity and never let go, would never stop making us better and wiser. But even a [meme](https://en.wikipedia.org/wiki/Meme) has limitations, the gaps in schooling will end propagation of the most viral lessons, and poverty will return...
 
-Poverty Never Changes.
+Poverty. Poverty, Never Changes.
 
 Police in Chicago are calling for tougher sentencing, the gangs are saying "I have kids, I need to put food on the table". And one of the lessons we learn from this text is that "A human being is more than the worst thing they have ever done."
 
@@ -270,7 +279,7 @@ And - which is more - you'll be a Man, my son!*<br>
 
 ## The Intellectual
 
-The Greatest minds of our generation, looked back learned and brought the waning wisdom back.
+The Greatest minds of our generation, looked back, learned, and brought the waning wisdom back.
 
 [![for the bullied and beautiful](http://img.youtube.com/vi/sa1iS1MqUy4/0.jpg)](http://www.youtube.com/watch?v=sa1iS1MqUy4)
 
@@ -385,6 +394,13 @@ I am the captain of my soul.
 
 (Click image to watch video)
 
+### Intro to Ultramarathons
+
+[![From couch to ultra marathon: Bill Hoffman](http://img.youtube.com/vi/sQsaI8wfr8k/0.jpg)](http://www.youtube.com/watch?v=sQsaI8wfr8k)
+
+(Click image to watch video)
+
+
 ### Western States
 
 [![Western States](http://img.youtube.com/vi/kYgcTJBLwsU/0.jpg)](http://www.youtube.com/watch?v=kYgcTJBLwsU)
@@ -418,6 +434,13 @@ Elle's journey to good health, Kona IRONMAN world championship transformation.
 [![Elle's journey to good health](http://img.youtube.com/vi/oGW5APQVg-c/0.jpg)](http://www.youtube.com/watch?v=oGW5APQVg-c)
 
 (Click image to watch video)
+
+### Ultraman Triathlon (320 miles)
+
+[![Lessons the Ultraman Triathlon taught me about life](http://img.youtube.com/vi/P5pm-FyovNk/0.jpg)](http://www.youtube.com/watch?v=P5pm-FyovNk)
+
+(Click image to watch video)
+
 
 ### Rock Running
 
@@ -702,6 +725,13 @@ I find it really helpful to add sugar to my workout water, but I am sure candy w
 In weight lifting there maybe difficult discomfort 5 – 10 lifts into some routine, then you switch to some other exercise (for example from [Standing Dumbbell Curls](https://youtu.be/av7-8igSXTs) to [Overhead Shoulder Press](https://youtu.be/Gu1t7X2yq4M?t=153) where your biceps rest while you perform the shoulder press), you never sit, you never lie, you use both arms, both legs, you don’t stop to rest. __If you need to stop then your weights are too heavy__, and your workout is not working out.
 
 Start in the beginning, come to the end, and then stop. Start with 3.5lb per hand, even if out of humility, even if just to remind yourself that you always start in the beginning, and you always finish what you start.
+
+Dress for Confidence and Joy
+
+[![Dress Code](http://img.youtube.com/vi/L5n3V0VYGNg/0.jpg)](https://youtu.be/L5n3V0VYGNg)
+
+(Click image to watch video)
+
 
 There is no struggle because of music, the parts of your brain that are telling you to stop are weak. They are weaker than the beat of drums, they are weaker than a pretty song.
 
