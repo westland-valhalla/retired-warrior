@@ -792,6 +792,15 @@ This is a snapshot of one of my workout playlists, primarly Dance Pop as it is e
 
 (Click image to watch video)
 
+Perhaps some of you may find working out with vocals easier, if so then the [Backyard Sessions](https://www.youtube.com/watch?v=iFZsunzjDXU&list=PL6A17A25BE19EA6E9) come to mind:
+
+[![Lilac Wine](http://img.youtube.com/vi/iFZsunzjDXU/0.jpg)](http://www.youtube.com/watch?v=iFZsunzjDXU)
+
+[![Jolene](http://img.youtube.com/vi/wOwblaKmyVw/0.jpg)](http://www.youtube.com/watch?v=wOwblaKmyVw)
+
+
+(Click image to watch videos)
+
 ## Meowmix vol. 1,627
 
 - Blanco Brown - [The Git Up](https://www.youtube.com/watch?v=Q7U6AoZ27yE)
