@@ -166,9 +166,7 @@ War.
 
 [![Mad World Mountain Dew](http://img.youtube.com/vi/Xcjb1f1qbBA/0.jpg)](http://www.youtube.com/watch?v=Xcjb1f1qbBA)
 
-I don't understand why bloody battles are necessary. I don't think anybody has ever understood that. It seems like desperation, and profit maximization maybe creating a situation where it is more profitable to wait and send troops, rather than look ahead in time and build libraries & schools. But there is no designer here, this is emergent phenomena.
-
-It can be summarized with Bryan Stevenson words: __Our humanity depends on everyone’s humanity.__
+I don't understand why bloody battles are necessary. I don't think anybody has ever understood that. I think we can learn a great deal from Bryan Stevenson's words *"Our humanity depends on everyone’s humanity."*
 
 ![](images/lady.png)
 
