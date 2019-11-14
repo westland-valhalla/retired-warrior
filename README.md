@@ -79,6 +79,13 @@ We grew up protecting each other, casting out those who stand in the way of futu
 
 We are part of Nature, part of Planet Earth, we depend on it for our health and [Survival](https://youtu.be/TMrtLsQbaok)
 
+
+[![Elizabeth Kolbert: How the 6th extinction threatens humans](http://img.youtube.com/vi/bTiFkohvY8c/0.jpg)](http://www.youtube.com/watch?v=bTiFkohvY8c)
+
+(Click image to watch video)
+
+Elizabeth Kolbert wrote two life changing books [Field Notes from a Catastrophe: Man, Nature, and Climate Change](https://www.audible.com/pd/Field-Notes-from-a-Catastrophe-Audiobook/B002V8MJPS) and [The Sixth Extinction, An Unnatural History ](https://www.audible.com/pd/The-Sixth-Extinction-Audiobook/B00FZ4JEAS)
+
 ## The Adventurer
 
 In moving. In endless horizons, and mountains, and the sea; we learn to break away, and find our own paths. And there is a slope to each adventure that follows, and the adventurer knows that slope must increase, and the challenges must grow also.
