@@ -80,6 +80,8 @@ We grew up protecting each other, casting out those who stand in the way of futu
 We are part of Nature, part of Planet Earth, we depend on it for our health and [Survival](https://youtu.be/TMrtLsQbaok)
 
 
+[![The Sixth Extinction](http://img.youtube.com/vi/kWrPo02e4fo/0.jpg)](http://www.youtube.com/watch?v=kWrPo02e4fo)
+
 [![Elizabeth Kolbert: How the 6th extinction threatens humans](http://img.youtube.com/vi/9XzAgMe0WrI/0.jpg)](http://www.youtube.com/watch?v=9XzAgMe0WrI)
 
 (Click image to watch video)
