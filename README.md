@@ -33,13 +33,19 @@ From this simple image we can infer some really important facts about who we are
 
 It is worth mentioning that before big rocks, and spears, we would chase animals to death in an act called [Endurance Hunting](https://en.wikipedia.org/wiki/Persistence_hunting)
 
-[![Viktor Frankl](http://img.youtube.com/vi/826HMLoiE_o/0.jpg)](http://www.youtube.com/watch?v=826HMLoiE_o)
+[![Human Mammal, Human Hunter, Attenborough, Life of Mammals](http://img.youtube.com/vi/826HMLoiE_o/0.jpg)](http://www.youtube.com/watch?v=826HMLoiE_o)
 
 (Click image to watch video)
 
 Just from this overview alone, you get the picture of how capable we are, how noble, how unbreakable, how magnificent.
 
 We belong in communities, not to live in isolation.
+
+We did not store fat, we were lean, and we knew hunger well.
+
+[![Modern Warrior: Damien Mander](http://img.youtube.com/vi/9FCsyK4aRXQ/0.jpg)](http://www.youtube.com/watch?v=9FCsyK4aRXQ)
+
+(Click image to watch video)
 
 We are hunters, not for sport, but for survival.
 
@@ -50,8 +56,6 @@ We ate fruit, vegetable, meat; that's out optimal diet, the nutrients that we ev
 We grew up protecting each other, casting out those who stand in the way of future generations, looking after the little ones so that they may grow to become great hunters.
 
 We are part of Nature, part of Planet Earth, we depend on it for our health and [Survival](https://youtu.be/TMrtLsQbaok)
-
-We did not store fat, we were lean, and we knew hunger well.
 
 ## The Adventurer
 
