@@ -740,6 +740,58 @@ Come morning, it does not matter how old you are, or how many times you failed a
 
 (Click image to watch video)
 
+## Philosopher: Love of Wisdom
+
+![](images/school-of-athens.jpg)
+
+[Philosophy](https://en.wikipedia.org/wiki/Philosophy) (from Greek φιλοσοφία, philosophia, literally "love of wisdom") is the study of general and fundamental questions about existence, knowledge, values, reason, mind, and language. Philosophia has been called The Mother of All Sciences.
+
+Sir Ken Robinson, in his "How to escape education's death valley" states that the more successful Alternative Education Systems should become the norm, because they are clearly more successful.
+
+[![How to escape education's death valley by Sir Ken Robinson](http://img.youtube.com/vi/wX78iKhInsc/0.jpg)](http://www.youtube.com/watch?v=wX78iKhInsc)
+
+(Click image to watch video)
+
+I think that some day we maybe able to find great schools, and people like Sir Robinson will help that day come. But it will be too little too late, certainly for us.
+In this final chapter I will ask you to take Extreme Ownership of Your Education, and here is Jocko Willink explaining the gravity of the words Extreme Ownership.
+
+[![Extreme Ownership by Jocko Willink](http://img.youtube.com/vi/ljqra3BcqWM/0.jpg)](http://www.youtube.com/watch?v=ljqra3BcqWM)
+
+(Click image to watch video)
+
+Extreme Ownership of Your Education, simply means __Self Education__. It means learning at your own pace, by your own means, in a sequence that matches you the best.
+This is also the meaning of the opening quote by Sun Tzu *"“Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."*
+
+Education is not about GPA, Diploma, or Carrier. It is about Growing Up, it is about being healthy, and strong.
+Regardless of where you are headed, whether or not that direction includes Medical School, or a University; you need to Self Educate before sitting down in those classrooms; because a classroom may not be the place where you find knowledge, not always, not reliably.
+
+Setting off on an endless Audiobook Adventure, to last you many years, or even decades, is probably the most illustrative example I can fit in a sentence. Astra Taylor, the woman behind the unacceptable [Zizek!](https://www.youtube.com/watch?v=enyG430I2nk), [Examined Life](https://www.youtube.com/watch?v=1zwmum5_ofU), and now [Democracy](https://www.youtube.com/watch?v=OHxRj9JWQMs) further explains, and I think serves as an example of what it means to Self Educate.
+
+[![Astra Taylor on the Unschooled Life](http://img.youtube.com/vi/LwIyy1Fi-4Q/0.jpg)](http://www.youtube.com/watch?v=LwIyy1Fi-4Q)                        
+
+(Click image to watch video)
+
+The beginning of self education starts with a class of teachers often called Science Popularizers. They don't just teach science, but also restore the connecting lines between all the Daughters of Philosophia, lines lost due to the bleaching effect that categorization of knowledge, standardization of sequence of learning, and standardized testing causes.
+
+The Storytelling of Science is a good overview of who these teachers are, how they think, of their energy and class.
+
+[![The Great Debate: THE STORYTELLING OF SCIENCE, part 1 of 2](http://img.youtube.com/vi/_J4QPz52Sfo/0.jpg)](http://www.youtube.com/watch?v=_J4QPz52Sfo)
+
+[![The Great Debate: THE STORYTELLING OF SCIENCEi, part 2 of 2](http://img.youtube.com/vi/40YIIaF1qiw/0.jpg)](http://www.youtube.com/watch?v=40YIIaF1qiw)
+
+(Click image to watch video)
+
+Education is simply too important, to be put in somebody else hands. It is your mind, your life, your growing up, your own responsibility.
+You must forget the idea that you must be taught to learn, and accept the great responsibility and take extreme ownership of your own Self Education.
+
+[![FUN TO IMAGINE with Richard Feynman](http://img.youtube.com/vi/P1ww1IXRfTA/0.jpg)](http://www.youtube.com/watch?v=P1ww1IXRfTA)
+
+(Click image to watch video)
+
+[![We Are All Connected](http://img.youtube.com/vi/XGK84Poeynk/0.jpg)](http://www.youtube.com/watch?v=XGK84Poeynk)
+
+(Click image to watch video)
+
 ## In Closing
 
 My workout consists of three complementary exercises arranged in a way that I don't have to stop.
