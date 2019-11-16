@@ -555,8 +555,6 @@ Wikipedia states that Bryan Stevenson "has helped achieve United States Supreme 
 
 Kandice Sumner, has the right idea. Beyond share & donate, her idea, in a word: __Prevention__. She sees young children asking powerful questions. She is trying to help them inherit wisdom from books, stories, history, and push them away from poverty.
 
-I come from part of the world where every 8th grader is taken to see what inequality may eventually lead to, we are tasked to forever remember, and remind, and watch, and teach.
-
 It is heartbreaking that videos like "Don't Talk to the Police" must exist. A Police Officer must also be a Hero, a force of Goodness. Any compromise between good and evil only hurts the good and helps the evil.
 
 [![Don't Talk to the Police](http://img.youtube.com/vi/d-7o9xYp7eE/0.jpg)](http://www.youtube.com/watch?v=d-7o9xYp7eE)
