@@ -784,9 +784,19 @@ The Storytelling of Science is a good overview of who these teachers are, how th
 Education is simply too important, to be put in somebody else hands. It is your mind, your life, your growing up, your own responsibility.
 You must forget the idea that you must be taught to learn, and accept the great responsibility and take extreme ownership of your own Self Education.
 
+Fun To Imagine with Richard Feynman
+
 [![FUN TO IMAGINE with Richard Feynman](http://img.youtube.com/vi/P1ww1IXRfTA/0.jpg)](http://www.youtube.com/watch?v=P1ww1IXRfTA)
 
 (Click image to watch video)
+
+The Future of Humanity by Lord Martin Rees (Astronomer Royal)
+
+[![Martin Rees - The Future of Humanity](http://img.youtube.com/vi/YnU6vMVAdAE/0.jpg)](http://www.youtube.com/watch?v=YnU6vMVAdAE)
+
+(Click image to watch video)
+
+We Are All Connected
 
 [![We Are All Connected](http://img.youtube.com/vi/XGK84Poeynk/0.jpg)](http://www.youtube.com/watch?v=XGK84Poeynk)
 
