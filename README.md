@@ -808,11 +808,15 @@ I urge you to forget the idea that you must be taught to learn.
 I urge you to accept that great responsibility yourself.
 You must take extreme ownership of your own Self Education.
 
+### Carl Sagan
+
 Carl Sagan's Cosmos - Ep 1: The Shores of the Cosmic Ocean
 
 [![Carl Sagan's Cosmos - Ep 1: The Shores of the Cosmic Ocean](http://img.youtube.com/vi/1-OdJmAefOY/0.jpg)](http://www.youtube.com/watch?v=1-OdJmAefOY)
 
 (Click image to watch video)
+
+### Richard Feynman
 
 Fun To Imagine with Richard Feynman
 
@@ -820,13 +824,39 @@ Fun To Imagine with Richard Feynman
 
 (Click image to watch video)
 
+### Lord Martin Rees (Science Update)
+
 The Future of Humanity by Lord Martin Rees (Astronomer Royal)
 
 [![Martin Rees - The Future of Humanity](http://img.youtube.com/vi/YnU6vMVAdAE/0.jpg)](http://www.youtube.com/watch?v=YnU6vMVAdAE)
 
 (Click image to watch video)
 
-We Are All Connected
+### Neil DeGrasse Tyson
+
+[![Neil deGrasse Tyson, Larry King Now](http://img.youtube.com/vi/PTqqiDQP02I/0.jpg)](http://www.youtube.com/watch?v=PTqqiDQP02I)
+
+[![Neil DeGrasse Tyson - Death By Black Hole](http://img.youtube.com/vi/h1iJXOUMJpg/0.jpg)](http://www.youtube.com/watch?v=h1iJXOUMJpg)
+
+[![Neil deGrasse Tyson at University of Washington](http://img.youtube.com/vi/wp6cnp1kZBY/0.jpg)](http://www.youtube.com/watch?v=wp6cnp1kZBY)
+
+### SETI
+
+First Contact - Marc Kaufman, Jill Tarter, Frank Drake, Seth Shostak (SETI Talks)
+
+[![First Contact - Marc Kaufman, Jill Tarter, Frank Drake, Seth Shostak (SETI Talks)](http://img.youtube.com/vi/0bWK5ES3lTE/0.jpg)](http://www.youtube.com/watch?v=0bWK5ES3lTE)
+
+The Search for Intelligent Life Among the Stars: New Strategies
+
+[![The Search for Intelligent Life Among the Stars: New Strategies](http://img.youtube.com/vi/m9WxW2ktcKU/0.jpg)](http://www.youtube.com/watch?v=m9WxW2ktcKU)
+
+Seth Shostak on SETI
+
+[![Seth Shostak on SETI](http://img.youtube.com/vi/xvm7dB0mOic/0.jpg)](http://www.youtube.com/watch?v=xvm7dB0mOic)
+
+(Click image to watch video)
+
+### We Are All Connected
 
 [![We Are All Connected](http://img.youtube.com/vi/XGK84Poeynk/0.jpg)](http://www.youtube.com/watch?v=XGK84Poeynk)
 
