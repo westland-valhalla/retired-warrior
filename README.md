@@ -555,6 +555,24 @@ Wikipedia states that Bryan Stevenson "has helped achieve United States Supreme 
 
 Kandice Sumner, has the right idea. Beyond share & donate, her idea, in a word: __Prevention__. She sees young children asking powerful questions. She is trying to help them inherit wisdom from books, stories, history, and push them away from poverty.
 
+I come from part of the world where every 8th grader is taken to see what inequality may eventually lead to, we are tasked to forever remember, and remind, and watch, and teach.
+
+It is heartbreaking that videos like "Don't Talk to the Police" must exist. A Police Officer must also be a Hero, a force of Goodness. Any compromise between good and evil only hurts the good and helps the evil.
+
+[![Don't Talk to the Police](http://img.youtube.com/vi/d-7o9xYp7eE/0.jpg)](http://www.youtube.com/watch?v=d-7o9xYp7eE)
+
+(Click image above to watch video)
+
+December 10th, is [The Human Rights Day](https://www.un.org/en/events/humanrightsday/) and yet again, the hopelessness turns to hope, as we are granted an opportunity to stand on the shoulders of giants.
+
+When this nation is ready, December 10th will become the walkout day. For District Judges, for Bailiffs, Attorneys, for Bad Cops, and Good Police Officers.
+
+Some years from now, we will accept the challenge that Michelle Alexander put us to and we will learn to look ahead, and begin to put things right. Because, you my Dear Reader, will raise your children with the belief that [the inherent dignity and equal and inalienable rights of all members of the human family are the foundation of freedom, justice and peace in all of the world](https://www.un.org/en/universal-declaration-human-rights/index.html) and because our humanity depends on everyone's humanity.
+
+This is not our first rodeo, we'll fix it. We'll fix it all, it will be as good as new.
+
+![](images/the-runaway.jpg)
+
 Heroism.
 
 Don't be frightened of becoming a hero. It is always the longest possible way there, and it is always on the shoulders of giants, my friends.
