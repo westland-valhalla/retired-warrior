@@ -49,7 +49,7 @@ The past, the future, dwelling there, like space, inseparable together.<br>
 
 ![](images/bears.jpg)
 
-This artwork has been with me for as long as I can remember, I found it in a book entitled “Wszechświat życie człowiek” (Universe, Life, Human) and one of my favorite writers Bill Bryson wrote something just as good [A Short History of Nearly Everything](https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything) which is available as an [Audiobook](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW) where he gently talks about learning, and what he learned about our universe.
+This artwork has been with me for as long as I can remember, I found it in a book entitled "Wszechświat życie człowiek" (Universe, Life, Human) and one of my favorite writers Bill Bryson wrote something just as good [A Short History of Nearly Everything](https://en.wikipedia.org/wiki/A_Short_History_of_Nearly_Everything) which is available as an [Audiobook](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW) where he gently talks about learning, and what he learned about our universe.
 
 From this simple image we can infer some really important facts about who we are, where we belong, the diet we evolved alongside with.
 
@@ -597,7 +597,7 @@ In modern times the [C25K](https://en.wikipedia.org/wiki/C25K) comes to mind, I 
 
 (Click image to watch video)
 
-“The human body has limitations. The human spirit is boundless.”, “The finish line, is a pine box.”
+"The human body has limitations. The human spirit is boundless.", "The finish line, is a pine box."
 
 Dean Karnazes, mentions Lactic Acid build up. I think of it as mostly nonsense, where does the lactic acid go when your performance increases from long distance running? Your first mile the first time you run will burn, but the 10,000th time you will feel elation.
 
@@ -615,7 +615,7 @@ It is when you stop, and all time scrolls by you, that really hurts. This is why
 
 (Click image to watch video)
 
-"Make me young again" - but you are young now, you can make most of it, no wax, because it is all ahead of you. Go, close your eyes and connect with your 80 year old self, and make the wish Killgore Trout did: “Make Me Young Again”, and open your eyes, and be young but wiser for it. Therein you will discover the nature of the Ultra. While we live our only life, poetically we live as it was countless lives already. By wiggling forward and back we can see where we are headed, and end up where we always wished to be.
+"Make me young again" - but you are young now, you can make most of it, no wax, because it is all ahead of you. Go, close your eyes and connect with your 80 year old self, and make the wish Killgore Trout did: "Make Me Young Again", and open your eyes, and be young but wiser for it. Therein you will discover the nature of the Ultra. While we live our only life, poetically we live as it was countless lives already. By wiggling forward and back we can see where we are headed, and end up where we always wished to be.
 
 [![Nietzsche's Eternal Recurrence](http://img.youtube.com/vi/EknD3KRtgDk/0.jpg)](http://www.youtube.com/watch?v=EknD3KRtgDk)
 
@@ -760,7 +760,7 @@ In this final chapter I will ask you to take Extreme Ownership of Your Education
 (Click image to watch video)
 
 Extreme Ownership of Your Education, simply means __Self Education__. It means learning at your own pace, by your own means, in a sequence that matches you the best.
-This is also the meaning of the opening quote by Sun Tzu *"“Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."*
+This is also the meaning of the opening quote by Sun Tzu *"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."*
 
 Education is not about GPA, diploma, or career. It is about growing up, it is about being healthy, and strong.
 Regardless of where you are headed, whether or not that direction includes Medical School, or a University. You need to Self Educate before sitting down in those classrooms. A classroom may not be the place where you find knowledge, not always, not reliably.
