@@ -203,7 +203,7 @@ Confident, and Unafraid.
 
 As we grew so did our grasp on the Human Condition, from bloody and warring clans of duty and loyalty a new kind of class emerged, The Knight of Virtue.
 
-Superheroes like [Galahad](https://en.wikipedia.org/wiki/Sir_Galahad_(poem)) carried a message that put servitude second.
+Superheroes like [Galahad](https://en.wikipedia.org/wiki/Galahad) carried a message that put servitude second.
 
 *My good blade carves the casques of men, / My tough lance thrusteth sure, / My strength is as the strength of ten, / Because my heart is pure.*
 
