@@ -762,8 +762,8 @@ In this final chapter I will ask you to take Extreme Ownership of Your Education
 Extreme Ownership of Your Education, simply means __Self Education__. It means learning at your own pace, by your own means, in a sequence that matches you the best.
 This is also the meaning of the opening quote by Sun Tzu *"“Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win."*
 
-Education is not about GPA, Diploma, or Carrier. It is about Growing Up, it is about being healthy, and strong.
-Regardless of where you are headed, whether or not that direction includes Medical School, or a University; you need to Self Educate before sitting down in those classrooms; because a classroom may not be the place where you find knowledge, not always, not reliably.
+Education is not about GPA, diploma, or career. It is about growing up, it is about being healthy, and strong.
+Regardless of where you are headed, whether or not that direction includes Medical School, or a University. You need to Self Educate before sitting down in those classrooms. A classroom may not be the place where you find knowledge, not always, not reliably.
 
 Setting off on an endless Audiobook Adventure, to last you many years, or even decades, is probably the most illustrative example I can fit in a sentence. Astra Taylor, the woman behind the unacceptable [Zizek!](https://www.youtube.com/watch?v=enyG430I2nk), [Examined Life](https://www.youtube.com/watch?v=1zwmum5_ofU), and now [Democracy](https://www.youtube.com/watch?v=OHxRj9JWQMs) further explains, and I think serves as an example of what it means to Self Educate.
 
