@@ -781,8 +781,20 @@ The Storytelling of Science is a good overview of who these teachers are, how th
 
 (Click image to watch video)
 
-Education is simply too important, to be put in somebody else hands. It is your mind, your life, your growing up, your own responsibility.
-You must forget the idea that you must be taught to learn, and accept the great responsibility and take extreme ownership of your own Self Education.
+Education is simply too important to be put in someone else's hands.
+It is your mind, your life, your growing up, your own responsibility.
+Above all, your body of knowledge has massive infuence over your private decision-making, over your freedom of choice, over your freedom of will.
+Decision-making is one of the most sacred things in life, and only you should have control over that.
+
+I urge you to forget the idea that you must be taught to learn.
+I urge you to accept that great responsibility yourself.
+You must take extreme ownership of your own Self Education.
+
+Carl Sagan's Cosmos - Ep 1: The Shores of the Cosmic Ocean
+
+[![Carl Sagan's Cosmos - Ep 1: The Shores of the Cosmic Ocean](http://img.youtube.com/vi/1-OdJmAefOY/0.jpg)](http://www.youtube.com/watch?v=1-OdJmAefOY)
+
+(Click image to watch video)
 
 Fun To Imagine with Richard Feynman
 
