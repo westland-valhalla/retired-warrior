@@ -842,6 +842,14 @@ Fun To Imagine with Richard Feynman
 
 (Click image to watch video)
 
+### Murray Gell-Mann
+
+Murray Gell-Mann: Beauty and truth in physics
+
+[![Murray Gell-Mann: Beauty and truth in physics](http://img.youtube.com/vi/UuRxRGR3VpM/0.jpg)](http://www.youtube.com/watch?v=UuRxRGR3VpM)
+
+(Click image to watch video)
+
 ### Lord Martin Rees (Science Update)
 
 The Future of Humanity by Lord Martin Rees (Astronomer Royal)
