@@ -905,17 +905,25 @@ Seth Shostak on SETI
 
 (Click image to watch video)
 
-### We Are All Connected
-
-[![We Are All Connected](http://img.youtube.com/vi/XGK84Poeynk/0.jpg)](http://www.youtube.com/watch?v=XGK84Poeynk)
-
-(Click image to watch video)
-
-### Sociology
+### Howard Zinn
 
 Howard Zinn: A People's History of the United States (1999)
 
 [![Howard Zinn: A People's History of the United States (1999)](http://img.youtube.com/vi/Vn_m9WCd-88/0.jpg)](https://youtu.be/Vn_m9WCd-88?t=399)
+
+(Click image to watch video)
+
+### Scott Flansburg
+
+Re-Learning Math with Scott Flansburg, the Human Calculator (Part 1)
+
+[![Re-Learning Math with Scott Flansburg, the Human Calculator (Part 1)](http://img.youtube.com/vi/hesKQ_y1P7k/0.jpg)](https://www.youtube.com/watch?v=hesKQ_y1P7k)
+
+(Click image to watch video)
+
+Re-Learning Math with Scott Flansburg, the Human Calculator (Part 2)
+
+[![Re-Learning Math with Scott Flansburg, the Human Calculator (Part 2)](http://img.youtube.com/vi/rtB93yzgedc/0.jpg)](https://www.youtube.com/watch?v=rtB93yzgedc)
 
 (Click image to watch video)
 
