@@ -909,7 +909,7 @@ Seth Shostak on SETI
 
 The Big Picture: From the Big Bang to the Meaning of Life - with Sean Carroll
 
-[![What do programmers actually do?](http://img.youtube.com/vi/2JsKwyRFiYY/0.jpg)](https://www.youtube.com/watch?v=2JsKwyRFiYY)
+[![The Big Picture: From the Big Bang to the Meaning of Life - with Sean Carroll](http://img.youtube.com/vi/2JsKwyRFiYY/0.jpg)](https://www.youtube.com/watch?v=2JsKwyRFiYY)
 
 (Click image to watch video)
 
@@ -923,7 +923,13 @@ Sean Carroll: The Paradoxes of Time Travel
 
 Dark Energy and the Runaway Universe, Dr. Alex Filippenko, UC Berkeley
 
-[![What do programmers actually do?](http://img.youtube.com/vi/fnkj6fD_i9o/0.jpg)](https://www.youtube.com/watch?v=fnkj6fD_i9o)
+[![Dark Energy and the Runaway Universe, Dr. Alex Filippenko, UC Berkeley](http://img.youtube.com/vi/fnkj6fD_i9o/0.jpg)](https://www.youtube.com/watch?v=fnkj6fD_i9o)
+
+### Bill Bryson
+
+Talking Science: Bill Bryson on A Short History of Nearly Everything
+
+[![Talking Science: Bill Bryson on A Short History of Nearly Everything](http://img.youtube.com/vi/4gb-hnbHbjw/0.jpg)](https://www.youtube.com/watch?v=4gb-hnbHbjw)
 
 ### Howard Zinn
 
