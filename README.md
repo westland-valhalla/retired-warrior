@@ -561,13 +561,27 @@ It is heartbreaking that videos like "Don't Talk to the Police" must exist. A Po
 
 (Click image above to watch video)
 
-December 10th, is [The Human Rights Day](https://www.un.org/en/events/humanrightsday/) and yet again, the hopelessness turns to hope, as we are granted an opportunity to stand on the shoulders of giants.
+December 10th, is [The Human Rights Day](https://www.un.org/en/events/humanrightsday/) and yet again, the hopelessness turns to hope as we are granted a globally recognized focal point, and an opportunity to stand on the shoulders of giants.
 
-When this nation is ready, December 10th will become the walkout day. For District Judges, for Bailiffs, Attorneys, for Bad Cops, and Good Police Officers.
+When this nation is ready, December 10th will become the walkout day. For District Judges, their staff, Attorneys, their assistants, for Bad Cops, Good Police Officers, and their COs.
+On their mind will be the thought, that to create a life long, legal, discrimination against an individual, is a Human Rights violation.
+It should be impossible to ask the legal community to follow the rule of law in the short term, and violate Human Rights in the long run.
 
-Some years from now, we will accept the challenge that Michelle Alexander put us to and we will learn to look ahead, and begin to put things right. Because, you my Dear Reader, will raise your children with the belief that [the inherent dignity and equal and inalienable rights of all members of the human family are the foundation of freedom, justice and peace in all of the world](https://www.un.org/en/universal-declaration-human-rights/index.html) and because our humanity depends on everyone's humanity.
+Poverty, plays a massive role in crime. We learn in this letter that opposite of poverty is justice, in other words, poverty is an injustice.
+Can we serve as an impartial juror, knowing that the defendant would likely not commit the crime, had they not been fractured by poverty?
+Every child has a bright future ahead, Art, Music, Ultramarathons, Astrophysics - goodness - Combinatorial Genomics, and Astro Biology.
+But poverty is extremely corrosive, too corrosive to handle, not only in it self, but in the surrounding culture that it frequently creates.
+Poverty is a virus armed with addiction, abuse, intolreance, xenophobia, violence, and dark blind stupidity.
 
-This is not our first rodeo, we'll fix it. We'll fix it all, it will be as good as new.
+Some years from now we will accept the challenge that Michelle Alexander put us to, and we will learn to look ahead far enought to begin to put many more things right.
+
+In great part because of you, my Dear Reader.
+Because you will raise your children, with the Universal Declaration of Human Rights high up on the wall.
+Both as a sacred document, and as an aim for your child to grow up high enought, to make lasting contributions to, a reminder that growing up, is not optional.
+
+My Dear Heroes, here in US, a state law that goes against federal law is null and void. It is my hope that some day, a much more powerful Universal Declaration of Human Rights may render both State and Federal laws null and void. We are one family, one people. I ask you to build homes with the belief that [the inherent dignity and equal and inalienable rights of all members of the human family are the foundation of freedom, justice and peace in all of the world](https://www.un.org/en/universal-declaration-human-rights/index.html), because our humanity depends on everyone's humanity.
+
+We'll fix it.
 
 ![](images/the-runaway.jpg)
 
