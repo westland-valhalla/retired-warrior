@@ -904,6 +904,14 @@ Seth Shostak on SETI
 
 (Click image to watch video)
 
+### Sociology
+
+Howard Zinn: A People's History of the United States (1999)
+
+[![Howard Zinn: A People's History of the United States (1999)](http://img.youtube.com/vi/Vn_m9WCd-88/0.jpg)](https://youtu.be/Vn_m9WCd-88?t=399)
+
+(Click image to watch video)
+
 ## In Closing
 
 My workout consists of three complementary exercises arranged in a way that I don't have to stop.
