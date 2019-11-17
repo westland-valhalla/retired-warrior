@@ -571,13 +571,13 @@ Poverty, plays a massive role in crime. We learn in this letter that opposite of
 Can we serve as an impartial juror, knowing that the defendant would likely not commit the crime, had they not been fractured by poverty?
 Every child has a bright future ahead, Art, Music, Ultramarathons, Astrophysics - goodness - Combinatorial Genomics, and Astro Biology.
 But poverty is extremely corrosive, too corrosive to handle, not only in it self, but in the surrounding culture that it frequently creates.
-Poverty is a virus armed with addiction, abuse, intolreance, xenophobia, violence, and dark blind stupidity.
+Poverty is a virus armed with addiction, abuse, intolerance, xenophobia, violence, and dark blind stupidity.
 
-Some years from now we will accept the challenge that Michelle Alexander put us to, and we will learn to look ahead far enought to begin to put many more things right.
+Some years from now we will accept the challenge that Michelle Alexander put us to, and we will learn to look ahead far enough to begin to put many more things right.
 
 In great part because of you, my Dear Reader.
 Because you will raise your children, with the Universal Declaration of Human Rights high up on the wall.
-Both as a sacred document, and as an aim for your child to grow up high enought, to make lasting contributions to, a reminder that growing up, is not optional.
+Both as a sacred document, and as an aim for your child to grow up high enough, to make lasting contributions to, a reminder that growing up, is not optional.
 
 My Dear Heroes, here in US, a state law that goes against federal law is null and void. It is my hope that some day, a much more powerful Universal Declaration of Human Rights may render both State and Federal laws null and void. We are one family, one people. I ask you to build homes with the belief that [the inherent dignity and equal and inalienable rights of all members of the human family are the foundation of freedom, justice and peace in all of the world](https://www.un.org/en/universal-declaration-human-rights/index.html), because our humanity depends on everyone's humanity.
 
