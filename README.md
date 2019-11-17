@@ -913,17 +913,29 @@ Howard Zinn: A People's History of the United States (1999)
 
 (Click image to watch video)
 
-### Scott Flansburg
+### Code
 
-Re-Learning Math with Scott Flansburg, the Human Calculator (Part 1)
+What do programmers actually do?
 
-[![Re-Learning Math with Scott Flansburg, the Human Calculator (Part 1)](http://img.youtube.com/vi/hesKQ_y1P7k/0.jpg)](https://www.youtube.com/watch?v=hesKQ_y1P7k)
+[![What do programmers actually do?](http://img.youtube.com/vi/g4a7_HH9Wbg/0.jpg)](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
 
 (Click image to watch video)
 
-Re-Learning Math with Scott Flansburg, the Human Calculator (Part 2)
+Commodore 64 - Introduction to Programming - Level 1
 
-[![Re-Learning Math with Scott Flansburg, the Human Calculator (Part 2)](http://img.youtube.com/vi/rtB93yzgedc/0.jpg)](https://www.youtube.com/watch?v=rtB93yzgedc)
+[![Commodore 64 - Introduction to Programming - Level 1](http://img.youtube.com/vi/h3bDa5z_B1M/0.jpg)](https://www.youtube.com/watch?v=h3bDa5z_B1M)
+
+(Click image to watch video)
+
+How I Became a Web Developer in 3 Months, Learn Code with CodeCademy
+
+[![How I Became a Web Developer in 3 Months](http://img.youtube.com/vi/ASbijZRU2Uo/0.jpg)](https://www.youtube.com/watch?v=ASbijZRU2Uo)
+
+(Click image to watch video)
+
+Codemania 2013: Amy Palamountain on Backbone and Marionette
+
+[![Amy Palamountain on Backbone and Marionette](http://img.youtube.com/vi/0o2whtCJw8I/0.jpg)](https://www.youtube.com/watch?v=0o2whtCJw8I)
 
 (Click image to watch video)
 
