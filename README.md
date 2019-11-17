@@ -860,11 +860,23 @@ The Future of Humanity by Lord Martin Rees (Astronomer Royal)
 
 ### Neil DeGrasse Tyson
 
-[![Neil deGrasse Tyson, Larry King Now](http://img.youtube.com/vi/PTqqiDQP02I/0.jpg)](http://www.youtube.com/watch?v=PTqqiDQP02I)
+Neil deGrasse Tyson on Larry King Now
 
-[![Neil DeGrasse Tyson - Death By Black Hole](http://img.youtube.com/vi/h1iJXOUMJpg/0.jpg)](http://www.youtube.com/watch?v=h1iJXOUMJpg)
+[![Neil deGrasse Tyson on Larry King Now](http://img.youtube.com/vi/PTqqiDQP02I/0.jpg)](http://www.youtube.com/watch?v=PTqqiDQP02I)
+
+(Click image to watch video)
+
+Neil DeGrasse Tyson on Death By Black Hole
+
+[![Neil DeGrasse Tyson on Death By Black Hole](http://img.youtube.com/vi/h1iJXOUMJpg/0.jpg)](http://www.youtube.com/watch?v=h1iJXOUMJpg)
+
+(Click image to watch video)
+
+Neil deGrasse Tyson at University of Washington
 
 [![Neil deGrasse Tyson at University of Washington](http://img.youtube.com/vi/wp6cnp1kZBY/0.jpg)](http://www.youtube.com/watch?v=wp6cnp1kZBY)
+
+(Click image to watch video)
 
 ### SETI
 
@@ -872,9 +884,13 @@ First Contact - Marc Kaufman, Jill Tarter, Frank Drake, Seth Shostak (SETI Talks
 
 [![First Contact - Marc Kaufman, Jill Tarter, Frank Drake, Seth Shostak (SETI Talks)](http://img.youtube.com/vi/0bWK5ES3lTE/0.jpg)](http://www.youtube.com/watch?v=0bWK5ES3lTE)
 
+(Click image to watch video)
+
 The Search for Intelligent Life Among the Stars: New Strategies
 
 [![The Search for Intelligent Life Among the Stars: New Strategies](http://img.youtube.com/vi/m9WxW2ktcKU/0.jpg)](http://www.youtube.com/watch?v=m9WxW2ktcKU)
+
+(Click image to watch video)
 
 Seth Shostak on SETI
 
