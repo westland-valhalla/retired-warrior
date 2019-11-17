@@ -937,9 +937,27 @@ Commodore 64 - Introduction to Programming - Level 1
 
 (Click image to watch video)
 
+Learn JavaScript - Full Course for Beginners
+
+[![Learn JavaScript - Full Course for Beginners](http://img.youtube.com/vi/PkZNo7MFNFg/0.jpg)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+
+(Click image to watch video)
+
+Learn Node.js - Full Tutorial for Beginners
+
+[![Learn Node.js - Full Tutorial for Beginners](http://img.youtube.com/vi/RLtyhwFtXQA/0.jpg)](https://www.youtube.com/watch?v=RLtyhwFtXQA)
+
+(Click image to watch video)
+
 How I Became a Web Developer in 3 Months, Learn Code with CodeCademy
 
 [![How I Became a Web Developer in 3 Months](http://img.youtube.com/vi/ASbijZRU2Uo/0.jpg)](https://www.youtube.com/watch?v=ASbijZRU2Uo)
+
+(Click image to watch video)
+
+Network Penetration Testing for Beginners
+
+[![Network Penetration Testing for Beginners](http://img.youtube.com/vi/3Kq1MIfTWCE/0.jpg)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
 
 (Click image to watch video)
 
