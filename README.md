@@ -417,6 +417,12 @@ How charged with punishments the scroll.
 I am the master of my fate:
 I am the captain of my soul.
 
+### Bodybuilding at age 93
+
+[![Why bodybuilding at age 93 is a great idea: Charles Eugster](http://img.youtube.com/vi/rGgoCm1hofM/0.jpg)](http://www.youtube.com/watch?v=rGgoCm1hofM)
+
+(Click image to watch video)
+
 ### The Appalachian Trail
 
 [![Appalachian Trail](http://img.youtube.com/vi/hPSvdKTEZug/0.jpg)](http://www.youtube.com/watch?v=hPSvdKTEZug)
