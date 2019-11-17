@@ -826,6 +826,13 @@ I urge you to forget the idea that you must be taught to learn.
 I urge you to accept that great responsibility yourself.
 You must take extreme ownership of your own Self Education.
 
+
+### We Are All Connected
+
+[![We Are All Connected](http://img.youtube.com/vi/XGK84Poeynk/0.jpg)](http://www.youtube.com/watch?v=XGK84Poeynk)
+
+(Click image to watch video)
+
 ### Carl Sagan
 
 Carl Sagan's Cosmos - Ep 1: The Shores of the Cosmic Ocean
