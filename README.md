@@ -182,11 +182,11 @@ My friends, my heroes. The situation is only hopeless when we stand on the very 
 
 The Hopelessness of Poverty becomes transformed into a Hope. It becomes yet another mission, a new challenge. It becomes a source of wisdom, a source of Great Power.
 
-[![OHN](http://img.youtube.com/vi/zk--XN4ozr8/0.jpg)](http://www.youtube.com/watch?v=zk--XN4ozr8)
+[![Homie Industries](http://img.youtube.com/vi/zk--XN4ozr8/0.jpg)](http://www.youtube.com/watch?v=zk--XN4ozr8)
 
 (Click image to watch video)
 
-[![OHN](http://img.youtube.com/vi/oB956Na0dWU/0.jpg)](http://www.youtube.com/watch?v=oB956Na0dWU)
+[![Kennedy Peace Speech](http://img.youtube.com/vi/oB956Na0dWU/0.jpg)](http://www.youtube.com/watch?v=oB956Na0dWU)
 
 (Click image to watch video)
 
