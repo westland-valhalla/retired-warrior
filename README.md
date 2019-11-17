@@ -913,7 +913,17 @@ Howard Zinn: A People's History of the United States (1999)
 
 (Click image to watch video)
 
-### Code
+### Sean Carroll
+
+The Big Picture: From the Big Bang to the Meaning of Life - with Sean Carroll
+
+[![What do programmers actually do?](http://img.youtube.com/vi/2JsKwyRFiYY/0.jpg)](https://www.youtube.com/watch?v=2JsKwyRFiYY)
+
+(Click image to watch video)
+
+
+
+### Programming
 
 What do programmers actually do?
 
