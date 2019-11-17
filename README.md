@@ -939,7 +939,7 @@ Howard Zinn: A People's History of the United States (1999)
 
 (Click image to watch video)
 
-Audiobook version of [A People's History of the United States](https://www.audible.com/pd/A-Peoples-History-of-the-United-States-Audiobook/B0030H777E) it is 34 hrs and 8 mins long.
+[Audiobook version of A People's History of the United States](https://www.audible.com/pd/A-Peoples-History-of-the-United-States-Audiobook/B0030H777E) is 34 hrs and 8 mins long.
 
 Abridged version (8 hrs and 44 mins ) read by Matt Damon is here: [A People's History of the United States](https://www.audible.com/pd/A-Peoples-History-of-the-United-States-Audiobook/B002V5CKGE)
 
