@@ -905,14 +905,6 @@ Seth Shostak on SETI
 
 (Click image to watch video)
 
-### Howard Zinn
-
-Howard Zinn: A People's History of the United States (1999)
-
-[![Howard Zinn: A People's History of the United States (1999)](http://img.youtube.com/vi/Vn_m9WCd-88/0.jpg)](https://youtu.be/Vn_m9WCd-88?t=399)
-
-(Click image to watch video)
-
 ### Sean Carroll
 
 The Big Picture: From the Big Bang to the Meaning of Life - with Sean Carroll
@@ -921,7 +913,25 @@ The Big Picture: From the Big Bang to the Meaning of Life - with Sean Carroll
 
 (Click image to watch video)
 
+Sean Carroll: The Paradoxes of Time Travel
 
+[![Sean Carroll: The Paradoxes of Time Travel](http://img.youtube.com/vi/qB_V1l8iLlc/0.jpg)](https://youtu.be/qB_V1l8iLlc?t=207)
+
+(Click image to watch video)
+
+### Dr. Alex Filippenko
+
+Dark Energy and the Runaway Universe, Dr. Alex Filippenko, UC Berkeley
+
+[![What do programmers actually do?](http://img.youtube.com/vi/fnkj6fD_i9o/0.jpg)](https://www.youtube.com/watch?v=fnkj6fD_i9o)
+
+### Howard Zinn
+
+Howard Zinn: A People's History of the United States (1999)
+
+[![Howard Zinn: A People's History of the United States (1999)](http://img.youtube.com/vi/Vn_m9WCd-88/0.jpg)](https://youtu.be/Vn_m9WCd-88?t=399)
+
+(Click image to watch video)
 
 ### Programming
 
