@@ -3,7 +3,7 @@ A warrior is she that thrives where'er she be.
 
 Bodybuilding is a side-effect of something more. Like Confidence, or Happiness, or Success, it will ensue from pursuit of things that seem just out of your reach.
 
-[![Think Different](http://img.youtube.com/vi/cFEarBzelBs/0.jpg)](https://youtu.be/cFEarBzelBs?t=4)
+[![Think Different](http://img.youtube.com/vi/cFEarBzelBs/0.jpg)](https://youtu.be/cFEarBzelBs?t=5)
 
 (Click image to watch video)
 
