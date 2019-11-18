@@ -982,6 +982,8 @@ Abridged version (8 hrs and 44 mins ) read by Matt Damon is here: [A People's Hi
 
 ### Programming
 
+[![Kids hack their Dad's computer on her Raspberry Pi](http://img.youtube.com/vi/W76o_iG7Y7g/0.jpg)](https://www.youtube.com/watch?v=W76o_iG7Y7g)
+
 What do programmers actually do?
 
 [![What do programmers actually do?](http://img.youtube.com/vi/g4a7_HH9Wbg/0.jpg)](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
@@ -993,21 +995,6 @@ The __"BASIC"__ joke that Dianna makes is explained in the video below.
 Commodore 64 - Introduction to Programming - Level 1
 
 [![Commodore 64 - Introduction to Programming - Level 1](http://img.youtube.com/vi/h3bDa5z_B1M/0.jpg)](https://www.youtube.com/watch?v=h3bDa5z_B1M)
-
-(Click image to watch video)
-
-Learn JavaScript - Full Course for Beginners
-
-The reason I mention JavaScript is becasue it is the most widley used programming language on github. [Searching for projects with more than 10,000 stars](https://github.com/search?q=stars%3A%3E%3D10000) shows 409 JavaScript based projects, the next one down is Python with 117.
-
-[![Learn JavaScript - Full Course for Beginners](http://img.youtube.com/vi/PkZNo7MFNFg/0.jpg)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-
-(Click image to watch video)
-
-Learn Node.js - Full Tutorial for Beginners
-(Node is a powerful way of running JavaScript applications.)
-
-[![Learn Node.js - Full Tutorial for Beginners](http://img.youtube.com/vi/RLtyhwFtXQA/0.jpg)](https://www.youtube.com/watch?v=RLtyhwFtXQA)
 
 (Click image to watch video)
 
@@ -1029,15 +1016,36 @@ Learn to Code in 6 months
 
 (Click image to watch video)
 
-Network Penetration Testing for Beginners
+Learn JavaScript - Full Course for Beginners
 
-[![Network Penetration Testing for Beginners](http://img.youtube.com/vi/3Kq1MIfTWCE/0.jpg)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
+The reason I mention JavaScript is becasue it is the most widley used programming language on github. [Searching for projects with more than 10,000 stars](https://github.com/search?q=stars%3A%3E%3D10000) shows 409 JavaScript based projects, the next one down is Python with 117.
+
+[![Learn JavaScript - Full Course for Beginners](http://img.youtube.com/vi/PkZNo7MFNFg/0.jpg)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+
+(Click image to watch video)
+
+Learn Node.js - Full Tutorial for Beginners
+(Node is a powerful way of running JavaScript applications.)
+
+[![Learn Node.js - Full Tutorial for Beginners](http://img.youtube.com/vi/RLtyhwFtXQA/0.jpg)](https://www.youtube.com/watch?v=RLtyhwFtXQA)
 
 (Click image to watch video)
 
 Codemania 2013: Amy Palamountain on Backbone and Marionette
 
 [![Amy Palamountain on Backbone and Marionette](http://img.youtube.com/vi/0o2whtCJw8I/0.jpg)](https://www.youtube.com/watch?v=0o2whtCJw8I)
+
+(Click image to watch video)
+
+DefCamp 2015 - Pentesting Android Applications
+
+[![Pentesting Android Applications](http://img.youtube.com/vi/EF3oi9Ra7IU/0.jpg)](https://www.youtube.com/watch?v=EF3oi9Ra7IU)
+
+(Click image to watch video)
+
+Network Penetration Testing for Beginners
+
+[![Network Penetration Testing for Beginners](http://img.youtube.com/vi/3Kq1MIfTWCE/0.jpg)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
 
 (Click image to watch video)
 
