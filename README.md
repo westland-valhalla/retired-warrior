@@ -887,6 +887,12 @@ Neil deGrasse Tyson at University of Washington
 
 ### SETI
 
+Jill Tarter: Why the search for alien intelligence matters
+
+*Note that the character of Dr. Ellie Arroway (Jodie Foster) in Carl Sagan's [Contact](https://en.wikipedia.org/wiki/Contact_(1997_American_film)) was inspired by Jill Tarter.*
+
+[![Jill Tarter: Why the search for alien intelligence matters](http://img.youtube.com/vi/EszGIvRdgTE/0.jpg)](http://www.youtube.com/watch?v=EszGIvRdgTE)
+
 First Contact - Marc Kaufman, Jill Tarter, Frank Drake, Seth Shostak (SETI Talks)
 
 [![First Contact - Marc Kaufman, Jill Tarter, Frank Drake, Seth Shostak (SETI Talks)](http://img.youtube.com/vi/0bWK5ES3lTE/0.jpg)](http://www.youtube.com/watch?v=0bWK5ES3lTE)
