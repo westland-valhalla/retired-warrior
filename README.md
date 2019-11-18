@@ -90,6 +90,11 @@ Elizabeth Kolbert wrote two life changing books [Field Notes from a Catastrophe:
 
 ## The Adventurer
 
+Nordhouse Dunes in 4K | Winter Camping, Hiking, and Backpacking in a Snowstorm on Lake Michigan
+[![Eddie Vedder - Guaranteed](http://img.youtube.com/vi/68jy3_ABvRo/0.jpg)](http://www.youtube.com/watch?v=68jy3_ABvRo)
+
+(Click image to watch video)
+
 In moving. In endless horizons, and mountains, and the sea; we learn to break away, and find our own paths. And there is a slope to each adventure that follows, and the adventurer knows that slope must increase, and the challenges must grow also.
 
 *"Strength does not reside in having never been broken, but in the courage required to grow strong in the broken places"* - Kristen Jongen
