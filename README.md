@@ -988,6 +988,8 @@ What do programmers actually do?
 
 (Click image to watch video)
 
+The __"BASIC"__ joke that Dianna makes is explained in the video below.
+
 Commodore 64 - Introduction to Programming - Level 1
 
 [![Commodore 64 - Introduction to Programming - Level 1](http://img.youtube.com/vi/h3bDa5z_B1M/0.jpg)](https://www.youtube.com/watch?v=h3bDa5z_B1M)
@@ -996,11 +998,14 @@ Commodore 64 - Introduction to Programming - Level 1
 
 Learn JavaScript - Full Course for Beginners
 
+The reason I mention JavaScript is becasue it has the most widley used programming language on github. [Searching for projects with more than 10,000 stars](https://github.com/search?q=stars%3A%3E%3D10000) shows 409 JavaScript based projects, the next one down is Python with 117.
+
 [![Learn JavaScript - Full Course for Beginners](http://img.youtube.com/vi/PkZNo7MFNFg/0.jpg)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
 (Click image to watch video)
 
 Learn Node.js - Full Tutorial for Beginners
+(Node is a powerful way of running JavaScript applications.)
 
 [![Learn Node.js - Full Tutorial for Beginners](http://img.youtube.com/vi/RLtyhwFtXQA/0.jpg)](https://www.youtube.com/watch?v=RLtyhwFtXQA)
 
@@ -1009,6 +1014,18 @@ Learn Node.js - Full Tutorial for Beginners
 How I Became a Web Developer in 3 Months, Learn Code with CodeCademy
 
 [![How I Became a Web Developer in 3 Months](http://img.youtube.com/vi/ASbijZRU2Uo/0.jpg)](https://www.youtube.com/watch?v=ASbijZRU2Uo)
+
+(Click image to watch video)
+
+How I Learned to Code - and Got a Job at Airbnb!
+
+[![How I Learned to Code - and Got a Job at Airbnb!](http://img.youtube.com/vi/kXpWLv2o7hs/0.jpg)](https://www.youtube.com/watch?v=kXpWLv2o7hs)
+
+(Click image to watch video)
+
+Learn to Code in 6 months
+
+[![Learn to Code in 6 months](http://img.youtube.com/vi/LCls16Tv8UE/0.jpg)](https://www.youtube.com/watch?v=LCls16Tv8UE)
 
 (Click image to watch video)
 
