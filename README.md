@@ -998,7 +998,7 @@ Commodore 64 - Introduction to Programming - Level 1
 
 Learn JavaScript - Full Course for Beginners
 
-The reason I mention JavaScript is becasue it has the most widley used programming language on github. [Searching for projects with more than 10,000 stars](https://github.com/search?q=stars%3A%3E%3D10000) shows 409 JavaScript based projects, the next one down is Python with 117.
+The reason I mention JavaScript is becasue it is the most widley used programming language on github. [Searching for projects with more than 10,000 stars](https://github.com/search?q=stars%3A%3E%3D10000) shows 409 JavaScript based projects, the next one down is Python with 117.
 
 [![Learn JavaScript - Full Course for Beginners](http://img.youtube.com/vi/PkZNo7MFNFg/0.jpg)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
