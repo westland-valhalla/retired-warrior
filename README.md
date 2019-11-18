@@ -961,15 +961,13 @@ Talking Science: Bill Bryson on A Short History of Nearly Everything
 
 Howard Zinn: A People's History of the United States (1999)
 
-[![Howard Zinn: A People's History of the United States (1999)](http://img.youtube.com/vi/Vn_m9WCd-88/0.jpg)](https://youtu.be/Vn_m9WCd-88?t=399)
+[![Howard Zinn: A People's History of the United States (1999)](http://img.youtube.com/vi/Vn_m9WCd-88/0.jpg)](https://youtu.be/Vn_m9WCd-88?t=805)
 
 (Click image to watch video)
 
 [Audiobook version of A People's History of the United States](https://www.audible.com/pd/A-Peoples-History-of-the-United-States-Audiobook/B0030H777E) is 34 hrs and 8 mins long.
 
 Abridged version (8 hrs and 44 mins ) read by Matt Damon is here: [A People's History of the United States](https://www.audible.com/pd/A-Peoples-History-of-the-United-States-Audiobook/B002V5CKGE)
-
-Use caution, history is hard to describe in full, in proper context, and the way it really was. I think one of the reviewers said it best "Agree or disagree with Zinn, the ideas in this book are well worth the thought and consideration asked for." Use this as a launch pad, and do your own research on all the stories that touch you.
 
 ### Programming
 
