@@ -925,6 +925,18 @@ Dark Energy and the Runaway Universe, Dr. Alex Filippenko, UC Berkeley
 
 [![Dark Energy and the Runaway Universe, Dr. Alex Filippenko, UC Berkeley](http://img.youtube.com/vi/fnkj6fD_i9o/0.jpg)](https://www.youtube.com/watch?v=fnkj6fD_i9o)
 
+### Craig Venter
+
+
+Craig Venter unveils "synthetic life"
+
+[![Craig Venter unveils "synthetic life" ](http://img.youtube.com/vi/QHIocNOHd7A/0.jpg)](https://www.youtube.com/watch?v=QHIocNOHd7A)
+
+Richard Dawkins and Craig Venter Munich
+
+[![Richard Dawkins and Craig Venter Munich](http://img.youtube.com/vi/EcUD_6dKJ7k/0.jpg)](https://www.youtube.com/watch?v=EcUD_6dKJ7k)
+
+
 ### Bill Bryson
 
 Talking Science: Bill Bryson on A Short History of Nearly Everything
