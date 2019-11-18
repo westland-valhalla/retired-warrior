@@ -609,7 +609,7 @@ The job will belong to you. Break out of the circles, and aim up, all the way up
 
 All the bad ideas must be left behind, and all the good ideas put in one place where we can each share in them, where every member of the human family can Converge on Wisdom.
 
-The human family is not divided by political borders, these aren't the only kids that need help. This is not just a national crisis, it is a global one.
+The human family is not divided by political borders, Kandice's kids aren't the only kids that need help. This is not just a national crisis, it is a global one.
 
 ![](images/school.png)
 
