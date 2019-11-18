@@ -984,6 +984,51 @@ Abridged version (8 hrs and 44 mins ) read by Matt Damon is here: [A People's Hi
 
 [![Kids hack their Dad's computer on her Raspberry Pi](http://img.youtube.com/vi/W76o_iG7Y7g/0.jpg)](https://www.youtube.com/watch?v=W76o_iG7Y7g)
 
+The $35 [Raspberry Pi](https://www.raspberrypi.org/) is the most handome in a class of computers called [Single-board computers](https://en.wikipedia.org/wiki/Single-board_computer). They just released version 4, __so make sure you get that one__; and don't forget a monitor. BestBuy does sell them, packaged in the [Raspberry Pi 4 Cana Kit](https://www.youtube.com/watch?v=7rcNjgVgc-I).
+
+[![Raspberry Pi 4](http://img.youtube.com/vi/sajBySPeYH0/0.jpg)](https://www.youtube.com/watch?v=sajBySPeYH0)
+[![What's inside the Raspberry Pi 4 Desktop Kit?](http://img.youtube.com/vi/88WOo4DIElY/0.jpg)](https://www.youtube.com/watch?v=88WOo4DIElY)
+
+Now, when the Little Hacker Lady, logs into her ~~daddy's~~ dad's computer she makes it talk using the __say__ command. A command is a feature of the Operating System, using commands is a management or administrative task, it is not really true programming, but it is OK to call it that. The say command uses [speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis) to convert text to speech. The say command resides on her dad's computer, and thus uses her dad's speaker. She executes the command at [5:10](https://youtu.be/W76o_iG7Y7g?t=310)
+
+The command she executes is wonderfully illustrative:
+
+```sh
+
+  say -v serena dad watch out
+
+```
+
+You see that ```-v``` that's a special directive that states when executing the say command use the ```v```oice of serena, serena is a cute name for a library of sounds, the say command supports multiple voices, serena is one of them.
+
+How do people know that ```-v``` means voice, and how do they know that serena is one of the voices? __Nobody knows this at first__, beore a person executes a command they read about it in a manual. The manual command is called ```man``` and people usually type ```man``` followed by the command-name that they want to learn about. In this case: ```man say``` (meaning bring up the manual page for the say command). The man page will tell you how you can list all the available voices too (```say -v=?```), a command like ```say``` can do multiple things based on what you are trying to do. Here is the internet version of a man page for say: [https://ss64.com/osx/say.html](https://ss64.com/osx/say.html)
+
+People are not happy with this. Many try to create simplified man pages, here is one example [https://tldr.sh/](https://tldr.sh/) but it is always best to go to the source, and just get used to the man command.
+
+She didn't need to use the serena voice library, she could have just executed:
+
+```sh
+
+  say dad watch out
+
+```
+
+And the say command would use the default voice. The say command is mostly available on Macs, Rasperry Pi will likley use the ```espeak``` command.
+
+```sh
+
+espeak "dad watch out"
+
+```
+
+Espeak command is slightly different, for it gets confused by multiple words, you have to join them together by wrapping them in quotes. A programmer should demmand that his program code has good hygiene. eSpeak simply said "I am not just going to read everything that you type at me" whereas the programmer that made the say command said "Let's just assume that whatever they throw at us needs to be converted to speech unless something starts with a hyphen". The say command makes assumptions, whereas espeak is very strict about input.
+
+Originally, the beauty of commands was in being predictable, readable, and not causing surprises. UNIX style operating systems, are well thought out. But, people will cram a lot more than they should, and it gets out of control, here is a mild example of mixing some video files with the ffmpeg command: ```ffmpeg -i test1.avi -i test2.avi -vcodec copy -acodec copy -vcodec copy -acodec copy test12.avi -newvideo -newaudio``` which I hate; I have some guesses as to what the ff stands for. You can visit the man page here: [https://linux.die.net/man/1/ffmpeg](https://linux.die.net/man/1/ffmpeg)
+
+There is a feature in the command world, that can deal with high complexity, and that is the pipe. Meaning two commands can be connected by a pipe like this: ```print "hello world" | uppercase``` which would result in printing ```HELLO WORLD``` there is also a feature of pipes that creates files and that is the gteater than symbol "&gt;" so we could say: ```print "hello world" | uppercase > greetings.txt``` and instead of seeing it on the screen we'd see it in the file named greetings.txt
+
+[![AT&T Archives: The UNIX Operating System](http://img.youtube.com/vi/tc4ROCJYbm0/0.jpg)](https://www.youtube.com/watch?v=tc4ROCJYbm0)
+
 What do programmers actually do?
 
 [![What do programmers actually do?](http://img.youtube.com/vi/g4a7_HH9Wbg/0.jpg)](https://www.youtube.com/watch?v=g4a7_HH9Wbg)
