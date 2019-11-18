@@ -441,6 +441,9 @@ I am the captain of my soul.
 
 (Click image to watch video)
 
+Bill Bryson's book about walking the Appalachian Trail [A Walk in the Woods](https://www.audible.com/pd/A-Walk-in-the-Woods-Audiobook/B0091J9AQQ) was made into a movie (comedy) where Bill Bryson is played by Robert Redford.
+[![A Walk in the Woods Trailer](http://img.youtube.com/vi/cOF2LIAp9bw/0.jpg)](https://www.youtube.com/watch?v=cOF2LIAp9bw)
+
 ### Intro to Ultramarathons
 
 [![From couch to ultra marathon: Bill Hoffman](http://img.youtube.com/vi/sQsaI8wfr8k/0.jpg)](http://www.youtube.com/watch?v=sQsaI8wfr8k)
@@ -956,6 +959,14 @@ Richard Dawkins and Craig Venter Munich
 Talking Science: Bill Bryson on A Short History of Nearly Everything
 
 [![Talking Science: Bill Bryson on A Short History of Nearly Everything](http://img.youtube.com/vi/4gb-hnbHbjw/0.jpg)](https://www.youtube.com/watch?v=4gb-hnbHbjw)
+
+[A Short History of Nearly Everything](https://www.audible.com/pd/A-Short-History-of-Nearly-Everything-Audiobook/B002V0KFPW) Audiobook
+
+His latest book: [The Body](https://www.audible.com/pd/The-Body-Audiobook/0147526922)
+
+
+All of Bryson's [Audiobooks](https://www.audible.com/author/Bill-Bryson/B000APXTVM)
+
 
 ### Howard Zinn
 
