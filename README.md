@@ -192,7 +192,9 @@ The Hopelessness of Poverty becomes transformed into a Hope. It becomes yet anot
 
 (Click image to watch video)
 
-[![Kennedy Peace Speech](http://img.youtube.com/vi/oB956Na0dWU/0.jpg)](http://www.youtube.com/watch?v=oB956Na0dWU)
+[![Kennedy Peace Speech](http://img.youtube.com/vi/0fkKnfk4k40/0.jpg)](https://youtu.be/0fkKnfk4k40?t=1489)
+
+[Full Speech](https://youtu.be/0fkKnfk4k40)
 
 (Click image to watch video)
 
