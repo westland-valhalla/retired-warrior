@@ -1093,6 +1093,10 @@ image('./image.jpg', function (err, info) {
 
 This is what Dianna means when she talks about puzzles, you got all this color information, and you can mess with it, and then take the numbers and encode then as a jpg, or maybe you can make a movie, where you scramble the pixels on purpose to create what is known as [Glitch Art](https://en.wikipedia.org/wiki/Glitch_art). Just about 100 lines of code, bunch of selfies, and you become an artist.
 
+[![Glitch Art](http://img.youtube.com/vi/jtIe416Twpo/0.jpg)](https://www.youtube.com/watch?v=jtIe416Twpo)
+
+(Click image to watch video)
+
 [![Color Theory](http://img.youtube.com/vi/2rU2Juual18/0.jpg)](https://www.youtube.com/watch?v=2rU2Juual18)
 
 (Click image to watch video)
