@@ -1035,6 +1035,78 @@ What do programmers actually do?
 
 (Click image to watch video)
 
+If you look really closley at a screen, especially an older color TV you will see that it is made up of little red green and blue dots like so: UdWCUr1FDqU
+
+[![Pixels](http://img.youtube.com/vi/UdWCUr1FDqU/0.jpg)](https://www.youtube.com/watch?v=UdWCUr1FDqU)
+[![Pixels](http://img.youtube.com/vi/DR2dRWfr7m0/0.jpg)](https://www.youtube.com/watch?v=DR2dRWfr7m0)
+
+Let us leap from screens to actual images, and talk about real pixels as they exist in an image, and not a monitor.
+
+[![Real Pixels](http://img.youtube.com/vi/15aqFQQVBWU/0.jpg)](https://youtu.be/15aqFQQVBWU?t=44)
+
+It would __SUCK!__ to try to do something to those colors with raw command line, it is possible by writing supporting commands such as ```spaghettify``` which would unravel an image into a line of colors, and corresponding ```unspaghettify``` which would ask for width of the original image and reconsitue it. At the center we would have a filter of pixels, and we en'd up running something like this:
+
+```sh
+
+spaghettify image.jpg | filter -t darken
+| unspaghettify -w 1024 > image-darkened.jpg
+
+```
+
+Where ```filter -t darken``` would mean use filter of type darken, and unspaghettify -w 1024 would mean that the width of the original image was 1024 pixels.
+
+But using pipes and redirects is not how one would control an array of little pixels. The best way to do it, is to use a programming language. This way we won't need to suck spaghetti and remeber widths and we can cram a lot more into the clockwork without making a mess.
+
+Here is a JavaScript example of getting at the raw color infomation of an image, it is taken from a tiny and dusty [node.js](https://nodejs.org) library called [get-image-data](https://www.npmjs.com/package/get-image-data) rather than pipes to pass information around eveything is wide open rather than __SMUSHED__ into commands with pages and pages of... manual pages. And red green blue, actually contain numbers from 0 to 255.
+
+```JavaScript
+
+var image = require('get-image-data')
+
+image('./image.jpg', function (err, info) {
+
+  var data = info.data
+  var height = info.height
+  var width = info.width
+
+  for (var i = 0, l = data.length; i < l; i += 4) {
+
+    var red = data[i]
+    var green = data[i + 1]
+    var blue = data[i + 2]
+    var alpha = data[i + 3]
+
+    // do something with red
+    red = red - 50;
+
+  }
+
+})
+
+```
+
+This is what Dianna means when she talks about puzzles, you got all this color information, and you can mess with it, and then take the numbers and encode then as a jpg, or maybe you can make a movie, where you scramble the pixels on purpose to create what is known as [Glitch Art](https://en.wikipedia.org/wiki/Glitch_art). Just about 100 lines of code, bunch of selfies, and you become an artist.
+
+[![Color Theory](http://img.youtube.com/vi/2rU2Juual18/0.jpg)](https://www.youtube.com/watch?v=2rU2Juual18)
+
+(Click image to watch video)
+
+Armed with Color Theory, RGB values, and a library like [Chroma.js](https://vis4.net/chromajs/) is a lot better than a board game. __Please Note:__ [Chroma.js](https://vis4.net/chromajs/) library has __LIVE EXAMPLES__ that you can play with, for example you can change the code in the first example from:
+
+```JavaScript
+
+chroma('pink').darken().saturate(2).hex()
+
+```
+
+to the ```64, 224, 208``` which is the Turquoise they use in the Pixel explanation video above, and play around with the colors and functions.
+
+```JavaScript
+
+chroma(64, 224, 208).darken().saturate(2).hex()
+
+```
+
 The __"BASIC"__ joke that Dianna makes is explained in the video below.
 
 Commodore 64 - Introduction to Programming - Level 1
