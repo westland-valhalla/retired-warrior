@@ -1001,7 +1001,7 @@ The command she executes is wonderfully illustrative:
 
 You see that ```-v``` that's a special directive that states when executing the say command use the ```v```oice of serena, serena is a cute name for a library of sounds, the say command supports multiple voices, serena is one of them.
 
-How do people know that ```-v``` means voice, and how do they know that serena is one of the voices? __Nobody knows this at first__, beore a person executes a command they read about it in a manual. The manual command is called ```man``` and people usually type ```man``` followed by the command-name that they want to learn about. In this case: ```man say``` (meaning bring up the manual page for the say command). The man page will tell you how you can list all the available voices too (```say -v=?```), a command like ```say``` can do multiple things based on what you are trying to do. Here is the internet version of a man page for say: [https://ss64.com/osx/say.html](https://ss64.com/osx/say.html)
+How do people know that ```-v``` means voice, and how do they know that serena is one of the voices? __Nobody knows this at first__, before a person executes a command they read about it in a manual. The manual command is called ```man``` and people usually type ```man``` followed by the command-name that they want to learn about. In this case: ```man say``` (meaning bring up the manual page for the say command). The man page will tell you how you can list all the available voices too (```say -v=?```), a command like ```say``` can do multiple things based on what you are trying to do. Here is the internet version of a man page for say: [https://ss64.com/osx/say.html](https://ss64.com/osx/say.html)
 
 People are not happy with this. Many try to create simplified man pages, here is one example [https://tldr.sh/](https://tldr.sh/) but it is always best to go to the source, and just get used to the man command.
 
@@ -1013,7 +1013,7 @@ She didn't need to use the serena voice library, she could have just executed:
 
 ```
 
-And the say command would use the default voice. The say command is mostly available on Macs, Rasperry Pi will likley use the ```espeak``` command.
+And the say command would use the default voice. The say command is mostly available on Macs, Raspberry Pi will likely use the ```espeak``` command.
 
 ```sh
 
@@ -1021,13 +1021,15 @@ espeak "dad watch out"
 
 ```
 
-Espeak command is slightly different, for it gets confused by multiple words, you have to join them together by wrapping them in quotes. A programmer should demmand that his program code has good hygiene. eSpeak simply said "I am not just going to read everything that you type at me" whereas the programmer that made the say command said "Let's just assume that whatever they throw at us needs to be converted to speech unless something starts with a hyphen". The say command makes assumptions, whereas espeak is very strict about input.
+Espeak command is slightly different, for it gets confused by multiple words, you have to join them together by wrapping them in quotes. A programmer should demand that his program code has good hygiene. eSpeak simply said "I am not just going to read everything that you type at me" whereas the programmer that made the say command said "Let's just assume that whatever they throw at us needs to be converted to speech unless something starts with a hyphen". The say command makes assumptions, whereas espeak is very strict about input.
 
 Originally, the beauty of commands was in being predictable, readable, and not causing surprises. UNIX style operating systems, are well thought out. But, people will cram a lot more than they should, and it gets out of control, here is a mild example of mixing some video files with the ffmpeg command: ```ffmpeg -i test1.avi -i test2.avi -vcodec copy -acodec copy -vcodec copy -acodec copy test12.avi -newvideo -newaudio``` which I hate; I have some guesses as to what the ff stands for. You can visit the man page here: [https://linux.die.net/man/1/ffmpeg](https://linux.die.net/man/1/ffmpeg)
 
-There is a feature in the command world, that can deal with high complexity, and that is the pipe. Meaning two commands can be connected by a pipe like this: ```print "hello world" | uppercase``` which would result in printing ```HELLO WORLD``` there is also a feature of pipes that creates files and that is the gteater than symbol "&gt;" so we could say: ```print "hello world" | uppercase > greetings.txt``` and instead of seeing it on the screen we'd see it in the file named greetings.txt
+There is a feature in the command world, that can deal with high complexity, and that is the pipe. Meaning two commands can be connected by a pipe like this: ```print "hello world" | uppercase``` which would result in printing ```HELLO WORLD``` there is also a feature of pipes that creates files and that is the greater than symbol "&gt;" so we could say: ```print "hello world" | uppercase > greetings.txt``` and instead of seeing it on the screen we'd see it in the file named greetings.txt
 
 [![AT&T Archives: The UNIX Operating System](http://img.youtube.com/vi/tc4ROCJYbm0/0.jpg)](https://www.youtube.com/watch?v=tc4ROCJYbm0)
+
+(Click image to watch video)
 
 What do programmers actually do?
 
@@ -1035,10 +1037,12 @@ What do programmers actually do?
 
 (Click image to watch video)
 
-If you look really closley at a screen, especially an older color TV you will see that it is made up of little red green and blue dots like so: UdWCUr1FDqU
+If you look really closely at a screen, especially an older color TV you will see that it is made up of little red green and blue dots like so:
 
 [![Pixels](http://img.youtube.com/vi/UdWCUr1FDqU/0.jpg)](https://www.youtube.com/watch?v=UdWCUr1FDqU)
 [![Pixels](http://img.youtube.com/vi/DR2dRWfr7m0/0.jpg)](https://www.youtube.com/watch?v=DR2dRWfr7m0)
+
+(Click images to watch videos)
 
 Let us leap from screens to actual images, and talk about real pixels as they exist in an image, and not a monitor.
 
@@ -1048,16 +1052,18 @@ It would __SUCK!__ to try to do something to those colors with raw command line,
 
 ```sh
 
-spaghettify image.jpg | filter -t darken
-| unspaghettify -w 1024 > image-darkened.jpg
+spaghettify image.jpg
+| filter -t darken
+| unspaghettify -w 1024
+> image-darkened.jpg
 
 ```
 
-Where ```filter -t darken``` would mean use filter of type darken, and unspaghettify -w 1024 would mean that the width of the original image was 1024 pixels.
+Where ```filter -t darken``` would mean use filter of type darken, and ```unspaghettify -w 1024``` would mean that the width of the original image was 1024 pixels.
 
-But using pipes and redirects is not how one would control an array of little pixels. The best way to do it, is to use a programming language. This way we won't need to suck spaghetti and remeber widths and we can cram a lot more into the clockwork without making a mess.
+But using pipes and redirects is not how one would control an array of little pixels. The best way to do it, is to use a programming language. This way we won't need to suck spaghetti through pipes and remember widths and we can cram a lot more into the clockwork without making a mess.
 
-Here is a JavaScript example of getting at the raw color infomation of an image, it is taken from a tiny and dusty [node.js](https://nodejs.org) library called [get-image-data](https://www.npmjs.com/package/get-image-data) rather than pipes to pass information around eveything is wide open rather than __SMUSHED__ into commands with pages and pages of... manual pages. And red green blue, actually contain numbers from 0 to 255.
+Here is a JavaScript example of getting at the raw color information of an image, it is taken from a tiny and dusty [node.js](https://nodejs.org) library called [get-image-data](https://www.npmjs.com/package/get-image-data) rather than pipes to pass information around everything is wide open. Rather than being __SMUSHED__ into commands with pages and pages of... manual pages the red green blue, actually contain numbers from 0 to 255, and one can do math with it.
 
 ```JavaScript
 
@@ -1076,7 +1082,7 @@ image('./image.jpg', function (err, info) {
     var blue = data[i + 2]
     var alpha = data[i + 3]
 
-    // do something with red
+    // do something mathematical with red variable
     red = red - 50;
 
   }
@@ -1091,7 +1097,9 @@ This is what Dianna means when she talks about puzzles, you got all this color i
 
 (Click image to watch video)
 
-Armed with Color Theory, RGB values, and a library like [Chroma.js](https://vis4.net/chromajs/) is a lot better than a board game. __Please Note:__ [Chroma.js](https://vis4.net/chromajs/) library has __LIVE EXAMPLES__ that you can play with, for example you can change the code in the first example from:
+Armed with Color Theory, RGB values, and a library like [Chroma.js](https://vis4.net/chromajs/) and you are out on an expedition.
+
+__Please Note:__ [Chroma.js](https://vis4.net/chromajs/) library has __LIVE CODE EXAMPLES__ that you can play with, for example you can change the code in the first example from:
 
 ```JavaScript
 
@@ -1135,7 +1143,7 @@ Learn to Code in 6 months
 
 Learn JavaScript - Full Course for Beginners
 
-The reason I mention JavaScript is becasue it is the most widley used programming language on github. [Searching for projects with more than 10,000 stars](https://github.com/search?q=stars%3A%3E%3D10000) shows 409 JavaScript based projects, the next one down is Python with 117.
+The reason I mention JavaScript is because it is the most widely used programming language on github. [Searching for projects with more than 10,000 stars](https://github.com/search?q=stars%3A%3E%3D10000) shows 409 JavaScript based projects, the next one down is Python with 117.
 
 [![Learn JavaScript - Full Course for Beginners](http://img.youtube.com/vi/PkZNo7MFNFg/0.jpg)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
@@ -1212,7 +1220,7 @@ While our cooling is superior, we do lose electrolytes while we sweat, you need 
 
 Finally we arrive to the point where I explain why you can’t take days off. Think of your body as a good horse to your mind. Take two horses with muscle atrophy, one walks ten steps three times, every other day weekends off, the other trots for eight and half hours every day for many years, no day off. Which horse would you bet on, which horse would have more muscle, which horse would live healthier?
 
-This is a snapshot of one of my workout playlists, primarly Dance Pop as it is easiest to workout to a dance song. I change my playlist almost daily, I search youtube for [Hard Bass](https://www.youtube.com/results?search_query=Hard+Bass), [Bass Boost](https://www.youtube.com/results?search_query=Bass+Boost), [Dance Pop](https://www.youtube.com/results?search_query=Dance+Pop), [HIIT Songs](https://www.youtube.com/results?search_query=HIIT+Songs), and [Choreography](https://www.youtube.com/results?search_query=Choreography) as choreographers tend to pick amazing songs:
+This is a snapshot of one of my workout playlists, primary Dance Pop as it is easiest to workout to a dance song. I change my playlist almost daily, I search youtube for [Hard Bass](https://www.youtube.com/results?search_query=Hard+Bass), [Bass Boost](https://www.youtube.com/results?search_query=Bass+Boost), [Dance Pop](https://www.youtube.com/results?search_query=Dance+Pop), [HIIT Songs](https://www.youtube.com/results?search_query=HIIT+Songs), and [Choreography](https://www.youtube.com/results?search_query=Choreography) as choreographers tend to pick amazing songs:
 
 [![Labrinth - Mount Everest - Choreography by Erica Klein](http://img.youtube.com/vi/T2ezIjoqkrY/0.jpg)](http://www.youtube.com/watch?v=T2ezIjoqkrY)
 
