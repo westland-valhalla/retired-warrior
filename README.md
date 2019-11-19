@@ -1048,7 +1048,7 @@ Let us leap from screens to actual images, and talk about real pixels as they ex
 
 [![Real Pixels](http://img.youtube.com/vi/15aqFQQVBWU/0.jpg)](https://youtu.be/15aqFQQVBWU?t=44)
 
-It would __SUCK!__ to try to do something to those colors with raw command line, it is possible by writing supporting commands such as ```spaghettify``` which would unravel an image into a line of colors, and corresponding ```unspaghettify``` which would ask for width of the original image and reconsitue it. At the center we would have a filter of pixels, and we en'd up running something like this:
+It would __SUCK!__ to try to do something to those colors with raw command line, it is possible by writing supporting commands such as ```spaghettify``` which would unravel an image into a line of colors, and corresponding ```unspaghettify``` which would ask for width of the original image and reconstitute it. At the center we would have a filter of pixels, and we en'd up running something like this:
 
 ```sh
 
