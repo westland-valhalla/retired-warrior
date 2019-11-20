@@ -1047,6 +1047,13 @@ There is a wee bit of jargon here, but don't worry. ESR is managing a jargon fil
 
 ![](images/gliders.gif)
 
+Gliders, are of the world of Cellular Automaton, you have heard Murray Gell-Mann talk about it in context of [Emergence](https://www.youtube.com/watch?v=ONiWmzrmfuY) the Game of Life is a little simulation of playing with Fundamental Principles, and Accidents. Life emerged the same way the gliders do, out of Complexity, Infinity of Time, Funndamental Principles, and Accidents (remember nobody counted the failed attempts).
+
+Here is Stephen Wolfram in his "Computing a theory of everything" TED talk, reminding us to __never pause__ after uttering the words "I invented a new kind of science", ugh.
+
+[![Computing a theory of everything](http://img.youtube.com/vi/60P7717-XOQ/0.jpg)](https://www.youtube.com/watch?v=60P7717-XOQ)
+
+(Click image to watch video)
 
 At [3:49](https://youtu.be/W76o_iG7Y7g?t=229) the Little Lady Hacker explains that she will be shutting down her dad's code editor, and writes down the Process ID number ```95251```. Mac users frequently use [Sublime Text](https://www.sublimetext.com/) code editor. She issues the ```kill``` command with the ```-9``` switch, this is a terrible idea, as it basically crashes her dad's code editor and the ```-9``` ensures there is no way to save data. Here is the man page for the kill command [https://linux.die.net/man/1/kill](https://linux.die.net/man/1/kill). Unix programs that are actively running are called processes (as in a program that is processing something) and each process has a number.
 The kill command can be used during development and debugging, in a reboot scenario, or when battery is about to die on a laptop, it has its proper uses. As a joke, is already bad to use the kill command on a process as it sends a TERM[inate] signal. As a programmer you can add a signal handler in your program, and then in case of TERM signal you can for example ask the user to save his data. The -9 sends a KILL signal. There is no handler for the KILL signal, there is no saving work, the process is destroyed by the Operating System, whatever he was working on is lost. She executes ```kill -9 95251``` at [5:26](https://youtu.be/W76o_iG7Y7g?t=326) his code editor disappears instantly. __Yikes!__
