@@ -1047,7 +1047,7 @@ There is a wee bit of jargon here, but don't worry. ESR is managing a jargon fil
 
 ![](images/gliders.gif)
 
-Gliders, are of the world of Cellular Automaton, you have heard Murray Gell-Mann talk about it in context of [Emergence](https://www.youtube.com/watch?v=ONiWmzrmfuY) the Game of Life is a little simulation of playing with Fundamental Principles, and Accidents. Life emerged the same way the gliders do, out of Complexity, Infinity of Time, Funndamental Principles, and Accidents (remember nobody counted the failed attempts).
+Gliders, are of the world of Cellular Automaton, you have heard Murray Gell-Mann talk about it in context of [Emergence](https://www.youtube.com/watch?v=ONiWmzrmfuY) the Game of Life is a little simulation of playing with Fundamental Principles, and Accidents. Life emerged the same way the gliders do, out of Complexity, Infinity of Time, Fundamental Principles, and Accidents (remember nobody counted the failed attempts).
 
 Here is Stephen Wolfram in his "Computing a theory of everything" TED talk, reminding us to __never pause__ after uttering the words "I invented a new kind of science", ugh.
 
