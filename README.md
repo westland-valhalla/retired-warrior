@@ -1008,7 +1008,7 @@ Also please don't forget about [Projectors](https://www.amazon.com/s/ref=nb_sb_n
 
 #### Part 2: System Breach
 
-She likley stole her ~~daddy's~~ dad's password by using her older brother's [key looger](images/aybabtu.png). To log into her dad's computer she uses the ssh command. ssh is just a program that establishes a secure (encrypted) connection between two computers. She executes ```ssh alex@192.168.1.27``` at [1:27](https://youtu.be/W76o_iG7Y7g?t=87). And begins using the ssh program.
+She likley stole her ~~daddy's~~ dad's password by using her older brother's [key logger](https://www.amazon.com/keylogger/s?k=keylogger). To log into her dad's computer she uses the ssh command. ssh is just a program that establishes a secure (encrypted) connection between two computers. She executes ```ssh alex@192.168.1.27``` at [1:27](https://youtu.be/W76o_iG7Y7g?t=87). And begins using the ssh program.
 
 The remote shell, for convenience sake, looks almost the same as her own local shell. Even though very little changes on her screen she is in a full-screen program now, and once she is authenticated her shell prompt changes to that of the remote system. It goes from ```pi@calebpi ~ $``` to ```[]~$[]```.
 
@@ -1060,6 +1060,8 @@ Espeak command is slightly different, for it gets confused by multiple words, yo
 
 At [3:49](https://youtu.be/W76o_iG7Y7g?t=229) the Little Lady Hacker explains that she will be shutting down her dad's code editor, and writes down the Process ID number ```95251```. Mac users frequently use [Sublime Text](https://www.sublimetext.com/) code editor. She issues the ```kill``` command with the ```-9``` switch, this is a terrible idea, as it basically crashes her dad's code editor and the ```-9``` ensures there is no way to save data. Here is the man page for the kill command [https://linux.die.net/man/1/kill](https://linux.die.net/man/1/kill). Unix programs that are actively running are called processes (as in a program that is processing something) and each process has a number.
 The kill command can be used during development and debugging, in a reboot scenario, or when battery is about to die on a laptop, it has its proper uses. As a joke, it is already bad enough to use the kill command on a process as it sends a TERM[inate] signal. As a programmer you can add a signal handler in your program, and then in case of TERM signal you can for example ask the user to save his data, the TERM signal is an advisory. The -9 sends a KILL signal. There is no handler for the KILL signal, there is no saving work, the process is destroyed by the Operating System, whatever he was working on is lost. She executes ```kill -9 95251``` at [5:26](https://youtu.be/W76o_iG7Y7g?t=326) his code editor disappears instantly. __Yikes!__
+
+[![](images/aybabtu.png)](http://www.catb.org/~esr/jargon/html/A/all-your-base-are-belong-to-us.html)
 
 #### Jargon
 
@@ -1114,7 +1116,7 @@ Let us leap from screens to actual images, and talk about real pixels as they ex
 
 [![Real Pixels](http://img.youtube.com/vi/15aqFQQVBWU/0.jpg)](https://youtu.be/15aqFQQVBWU?t=44)
 
-It would be almost impossible to try to do something to pixels of an image with standard UNIX command line. This is generally achieved by downloading extra programs, namely [ImageMagick](https://en.wikipedia.org/wiki/ImageMagick). There are many [package managers](https://en.wikipedia.org/wiki/Package_manager) that help the user to install programms with a simple command: ```sudo apt-get install imagemagick```
+It would be almost impossible to try to do something to pixels of an image with standard UNIX command line. This is generally achieved by downloading extra programs, namely [ImageMagick](https://en.wikipedia.org/wiki/ImageMagick). There are many [package managers](https://en.wikipedia.org/wiki/Package_manager) that help the user to install programs with a simple command: ```sudo apt-get install imagemagick```
 
 Doing custom work that nobody has ever thought of before is possible by writing new commands. Writing new commands, programs, or apps, is the definition of Programming.
 
