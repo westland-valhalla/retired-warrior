@@ -1025,11 +1025,11 @@ Espeak command is slightly different, for it gets confused by multiple words, yo
 
 To log into her dad's computer she uses the ssh command. ssh is just a program that establishes a secure (encrypted) shell connection between two computers. She executes ```ssh alex@192.168.1.27``` at [1:27](https://youtu.be/W76o_iG7Y7g?t=87). And begins using the ssh program, it looks almost the same as her own shell to be convenient. Even though little changes on her screen she is in a full screen program, and once she is authenticated her shell prompt changes to that of the remote system. It goes from ```pi@calebpi ~ $``` to ```[]~$[]```.
 
-A shell prompt the thing that indicates that you are free to type commands. Her dad's shell prompt is broken, he messed up with whatever was supposed to go in between those square brackets, it maybe that he is using fonts that the Raspberry PI does not have, or some mess like that. My prompt as I write this is ```[user@computer warrior]$``` that means username is user, my computer's network name is computer, and and the directory I am in is warrior.
+A shell prompt is the thing that indicates that you are free to type commands. Her dad's shell prompt is broken, he messed up with whatever was supposed to go in between those square brackets, it maybe that he is using fonts that the Raspberry PI does not have, or some mess like that. My prompt as I write this is ```[user@computer warrior]$``` that means username is user, my computer's network name is computer, and the directory I am in is warrior.
 
 The dollar sign ```$``` indicates that I, alex, and pi are normal users. You can escalate your system privileges to become a system administrator where you can read or delete other user's files, on most systems the dollar sign would then change to the pound sign ```#```, to indicate that care must be taken as you are in special privileges mode, often called [root](http://www.catb.org/~esr/jargon/html/R/root.html).
 
-There is a wee bit of jargon here, but don't worry. ESR is managing a jargon file you can read at http://www.catb.org/~esr/jargon/html/go01.html he has a cool [HOWTO](http://www.catb.org/~esr/faqs/hacker-howto.html) on hackers from which I quote below:
+There is a wee bit of jargon here, but don't worry. ESR is managing a jargon file you can read at [http://www.catb.org/~esr/jargon/html/go01.html](http://www.catb.org/~esr/jargon/html/go01.html) and he has a cool [HOWTO](http://www.catb.org/~esr/faqs/hacker-howto.html) on hackers from which I quote below:
 
 "__What Is a Hacker?__
 
@@ -1037,13 +1037,13 @@ There is a wee bit of jargon here, but don't worry. ESR is managing a jargon fil
 
 *The hacker mind-set is not confined to this software-hacker culture. There are people who apply the hacker attitude to other things, like electronics or music — actually, you can find it at the highest levels of any science or art. Software hackers recognize these kindred spirits elsewhere and may call them ‘hackers’ too — and some claim that the hacker nature is really independent of the particular medium the hacker works in.*
 
-*There is another group of people who loudly call themselves hackers, but aren't. These are people (mainly adolescent males) who get a kick out of breaking into computers and phreaking the phone system. Real hackers call these people ‘crackers’ and want nothing to do with them. Real hackers mostly think crackers are lazy, irresponsible, and not very bright, and object that being able to break security doesn't make you a hacker any more than being able to hotwire cars makes you an automotive engineer. Unfortunately, many journalists and writers have been fooled into using the word ‘hacker’ to describe crackers; this irritates real hackers no end.*
+*There is another group of people who loudly call themselves hackers, but aren't. These are people (mainly adolescent males, and little girls) who get a kick out of breaking into computers and phreaking the phone system. Real hackers call these people ‘crackers’ and want nothing to do with them. Real hackers mostly think crackers are lazy, irresponsible, and not very bright, and object that being able to break security doesn't make you a hacker any more than being able to hotwire cars makes you an automotive engineer. Unfortunately, many journalists and writers have been fooled into using the word ‘hacker’ to describe crackers; this irritates real hackers no end.*
 
 *The basic difference is this: hackers build things, crackers break them."*
 
 ![](images/glider.png)
 
-(This is a glider, a bit of a symbol of hackers, who are like cats, and do not like each other, heards, or stupid symbols. The glider comes from [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)) the little things manufactured by [Gospers glider gun](https://en.wikipedia.org/wiki/Gun_(cellular_automaton)) and walking off towards lower right are gliders in action.
+(This is a glider, a bit of a symbol for hackers, who are like cats, and do not like each other, heards, or stupid symbols. The glider comes from [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) the little things manufactured by [Gospers glider gun](https://en.wikipedia.org/wiki/Gun_(cellular_automaton)) and walking off towards lower right are gliders in action.
 
 ![](images/gliders.gif)
 
