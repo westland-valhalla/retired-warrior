@@ -1043,7 +1043,7 @@ There is a wee bit of jargon here, but don't worry. ESR is managing a jargon fil
 
 ![](images/glider.png)
 
-(This is a glider, a bit of a symbol for hackers, who are like cats, and do not like each other, heards, or stupid symbols. The glider comes from [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) the little things manufactured by [Gospers glider gun](https://en.wikipedia.org/wiki/Gun_(cellular_automaton)) and walking off towards lower right are gliders in action.)
+(This is a glider, a bit of a symbol for hackers, who are like cats, and do not like each other, heards, or stupid little symbols. The glider comes from [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) the little things manufactured by [Gospers glider gun](https://en.wikipedia.org/wiki/Gun_(cellular_automaton)) and walking off towards lower right are gliders in action.)
 
 ![](images/gliders.gif)
 
