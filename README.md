@@ -984,12 +984,45 @@ Abridged version (8 hrs and 44 mins ) read by Matt Damon is here: [A People's Hi
 
 [![Kids hack their Dad's computer on her Raspberry Pi](http://img.youtube.com/vi/W76o_iG7Y7g/0.jpg)](https://www.youtube.com/watch?v=W76o_iG7Y7g)
 
-The $35 [Raspberry Pi](https://www.raspberrypi.org/) is the most handsome in a class of computers called [Single-board computers](https://en.wikipedia.org/wiki/Single-board_computer). They just released version 4, __so make sure you get that one__; and don't forget a monitor. BestBuy does sell the PI, packaged in the [Raspberry Pi 4 Cana Kit](https://www.youtube.com/watch?v=7rcNjgVgc-I). Personally, I think getting the original keyboard and mouse is really cool, I am not a fan of the plastic case and would go for a cool looking [Heat Sink "Case"](https://www.amazon.com/dp/B07VD568FB/ref=twister_B07VD58LGV?_encoding=UTF8&psc=1) and then probably short something out. Good news is that ashens has a two part review of all the popular cases here you go: [Part 1](https://www.youtube.com/watch?v=zpTlB6oju5w) and [Part 2](https://www.youtube.com/watch?v=rYb2IEsfhnE). Heads up ashens is an odd British man that utters odd British phrases.
+(Click image to watch video)
+
+#### Part 1: The Deck
+
+The $35 [Raspberry Pi](https://www.raspberrypi.org/) is the most handsome in a class of computers called [Single-board computers](https://en.wikipedia.org/wiki/Single-board_computer). They just released version 4, __so make sure you get that one__; and don't forget a monitor. BestBuy does sell the PI, packaged in the [Raspberry Pi 4 Cana Kit](https://www.youtube.com/watch?v=7rcNjgVgc-I). Personally, I think getting the original keyboard and mouse is really cool, I am not a fan of the plastic case and would go for a cool looking [Heat Sink "Case"](https://www.amazon.com/dp/B07VD568FB/ref=twister_B07VD58LGV?_encoding=UTF8&psc=1) - and then probably short something out. Good news is that ashens has a two part review of all the popular cases here you go: [Part 1](https://www.youtube.com/watch?v=zpTlB6oju5w) and [Part 2](https://www.youtube.com/watch?v=rYb2IEsfhnE). Heads up, ashens is an odd British man that utters odd British phrases.
 
 [![Raspberry Pi 4](http://img.youtube.com/vi/sajBySPeYH0/0.jpg)](https://www.youtube.com/watch?v=sajBySPeYH0)
+
+(Click image to watch video)
+
 [![What's inside the Raspberry Pi 4 Desktop Kit?](http://img.youtube.com/vi/88WOo4DIElY/0.jpg)](https://www.youtube.com/watch?v=88WOo4DIElY)
 
-Now, when the Little Hacker Lady, logs into her ~~daddy's~~ dad's computer she makes it talk using the __say__ command. A command is a feature of the Operating System, using commands is a management or administrative task, it is not really true programming, but it is OK to call it that. The say command uses [speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis) to convert text to speech. The say command resides on her dad's computer, and thus uses her dad's speaker. She executes the command at [5:10](https://youtu.be/W76o_iG7Y7g?t=310)
+(Click image to watch video)
+
+![](images/portable-monitor.jpg)
+
+I would like to add, that there is a class of monitors called [Portable Monitors](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=+Portable+Monitors) it is still nice to have a desk one, but if you are wondering which one to get; get a portable first (the cheapest one is $99), then you can take it to Starbucks, plug in your PI, keyboard and mouse, and headphones; and [compose some music](https://www.youtube.com/watch?v=3qfa9hGJzoY) with [LMMS](https://lmms.io/) whilst [pondering album art](https://www.youtube.com/watch?v=4mgrY-U9_8E) with [GIMP](https://www.gimp.org/).
+
+Also please don't forget about [Projectors](https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=projectors) as those too are a kind of monitor (the cheap ones are $50 - $75). A projector turns any wall into a monitor.
+
+![](images/screen-projector.jpg)
+
+#### Part 2: System Breach
+
+She likley stole her ~~daddy's~~ dad's password by using her older brother's [key looger](images/aybabtu.png). To log into her dad's computer she uses the ssh command. ssh is just a program that establishes a secure (encrypted) connection between two computers. She executes ```ssh alex@192.168.1.27``` at [1:27](https://youtu.be/W76o_iG7Y7g?t=87). And begins using the ssh program.
+
+The remote shell, for convenience sake, looks almost the same as her own local shell. Even though very little changes on her screen she is in a full-screen program now, and once she is authenticated her shell prompt changes to that of the remote system. It goes from ```pi@calebpi ~ $``` to ```[]~$[]```.
+
+A shell prompt is the thing that indicates that you are free to type commands. Her dad's shell prompt is broken, he messed up with whatever was supposed to go in between those square brackets, it maybe that he is using fonts that the Raspberry PI does not have, or some mess like that. My prompt as I write this is ```[user@computer warrior]$``` that means username is user, my computer's network name is computer, and the directory I am in is warrior.
+
+The dollar sign ```$``` indicates that I, alex, and pi are normal users. You can escalate your system privileges to become a system administrator where you can read or delete other user's files. On most systems the dollar sign would then change to the pound sign ```#``` to indicate that care must be taken as you are in special privileges mode, often called [root](http://www.catb.org/~esr/jargon/html/R/root.html).
+
+#### Part 3: The Warning
+
+Now, when the Little Hacker Lady, logs into her dad's computer she makes it talk using the __say__ command.
+
+A command is a feature of the Operating System, using commands is a management or administrative task, it is not really true programming, but it is OK to call it that.
+
+The say command uses [speech synthesis](https://en.wikipedia.org/wiki/Speech_synthesis) to convert text to speech. The say command resides on her dad's computer, and thus uses her dad's speaker. She executes the command at [5:10](https://youtu.be/W76o_iG7Y7g?t=310)
 
 The command she executes is wonderfully illustrative:
 
@@ -1023,11 +1056,14 @@ espeak "dad watch out"
 
 Espeak command is slightly different, for it gets confused by multiple words, you have to join them together by wrapping them in quotes. A programmer should demand that his program code has good hygiene. eSpeak simply said "I am not just going to read everything that you type at me" whereas the programmer that made the say command said "Let's just assume that whatever they throw at us needs to be converted to speech unless something starts with a hyphen". The say command makes assumptions, whereas espeak is very strict about input.
 
-To log into her dad's computer she uses the ssh command. ssh is just a program that establishes a secure (encrypted) shell connection between two computers. She executes ```ssh alex@192.168.1.27``` at [1:27](https://youtu.be/W76o_iG7Y7g?t=87). And begins using the ssh program, it looks almost the same as her own shell to be convenient. Even though little changes on her screen she is in a full screen program, and once she is authenticated her shell prompt changes to that of the remote system. It goes from ```pi@calebpi ~ $``` to ```[]~$[]```.
+#### Part 4: Denial of Service
 
-A shell prompt is the thing that indicates that you are free to type commands. Her dad's shell prompt is broken, he messed up with whatever was supposed to go in between those square brackets, it maybe that he is using fonts that the Raspberry PI does not have, or some mess like that. My prompt as I write this is ```[user@computer warrior]$``` that means username is user, my computer's network name is computer, and the directory I am in is warrior.
+At [3:49](https://youtu.be/W76o_iG7Y7g?t=229) the Little Lady Hacker explains that she will be shutting down her dad's code editor, and writes down the Process ID number ```95251```. Mac users frequently use [Sublime Text](https://www.sublimetext.com/) code editor. She issues the ```kill``` command with the ```-9``` switch, this is a terrible idea, as it basically crashes her dad's code editor and the ```-9``` ensures there is no way to save data. Here is the man page for the kill command [https://linux.die.net/man/1/kill](https://linux.die.net/man/1/kill). Unix programs that are actively running are called processes (as in a program that is processing something) and each process has a number.
+The kill command can be used during development and debugging, in a reboot scenario, or when battery is about to die on a laptop, it has its proper uses. As a joke, it is already bad enough to use the kill command on a process as it sends a TERM[inate] signal. As a programmer you can add a signal handler in your program, and then in case of TERM signal you can for example ask the user to save his data, the TERM signal is an advisory. The -9 sends a KILL signal. There is no handler for the KILL signal, there is no saving work, the process is destroyed by the Operating System, whatever he was working on is lost. She executes ```kill -9 95251``` at [5:26](https://youtu.be/W76o_iG7Y7g?t=326) his code editor disappears instantly. __Yikes!__
 
-The dollar sign ```$``` indicates that I, alex, and pi are normal users. You can escalate your system privileges to become a system administrator where you can read or delete other user's files, on most systems the dollar sign would then change to the pound sign ```#```, to indicate that care must be taken as you are in special privileges mode, often called [root](http://www.catb.org/~esr/jargon/html/R/root.html).
+[![](images/aybabtu.png)](http://www.catb.org/~esr/jargon/html/A/all-your-base-are-belong-to-us.html)
+
+#### Jargon
 
 There is a wee bit of jargon here, but don't worry. ESR is managing a jargon file you can read at [http://www.catb.org/~esr/jargon/html/go01.html](http://www.catb.org/~esr/jargon/html/go01.html) and he has a cool [HOWTO](http://www.catb.org/~esr/faqs/hacker-howto.html) on hackers from which I quote below:
 
@@ -1047,17 +1083,13 @@ There is a wee bit of jargon here, but don't worry. ESR is managing a jargon fil
 
 ![](images/gliders.gif)
 
-Gliders, are of the world of Cellular Automaton, you have heard Murray Gell-Mann talk about it in context of [Emergence](https://www.youtube.com/watch?v=ONiWmzrmfuY) the Game of Life is a little simulation of playing with Fundamental Principles, and Accidents. Life emerged the same way the gliders do, out of Complexity, Infinity of Time, Fundamental Principles, and Accidents (remember nobody counted the failed attempts).
+Gliders, are of the world of [Cellular Automaton](https://en.wikipedia.org/wiki/Cellular_automaton), you have heard Murray Gell-Mann talk about it in context of [Emergence](https://www.youtube.com/watch?v=ONiWmzrmfuY) the Game of Life is a little simulation of playing with Fundamental Principles, and Accidents. Life emerged the same way the gliders do, out of Complexity, Infinity of Time, Fundamental Principles, and Accidents (remember nobody counted the failed attempts).
 
 Here is Stephen Wolfram in his "Computing a theory of everything" TED talk, reminding us to __never pause__ after uttering the words "I invented a new kind of science", ugh.
 
 [![Computing a theory of everything](http://img.youtube.com/vi/60P7717-XOQ/0.jpg)](https://www.youtube.com/watch?v=60P7717-XOQ)
 
 (Click image to watch video)
-
-At [3:49](https://youtu.be/W76o_iG7Y7g?t=229) the Little Lady Hacker explains that she will be shutting down her dad's code editor, and writes down the Process ID number ```95251```. Mac users frequently use [Sublime Text](https://www.sublimetext.com/) code editor. She issues the ```kill``` command with the ```-9``` switch, this is a terrible idea, as it basically crashes her dad's code editor and the ```-9``` ensures there is no way to save data. Here is the man page for the kill command [https://linux.die.net/man/1/kill](https://linux.die.net/man/1/kill). Unix programs that are actively running are called processes (as in a program that is processing something) and each process has a number.
-The kill command can be used during development and debugging, in a reboot scenario, or when battery is about to die on a laptop, it has its proper uses. As a joke, it is already bad enough to use the kill command on a process as it sends a TERM[inate] signal. As a programmer you can add a signal handler in your program, and then in case of TERM signal you can for example ask the user to save his data, the TERM signal is an advisory. The -9 sends a KILL signal. There is no handler for the KILL signal, there is no saving work, the process is destroyed by the Operating System, whatever he was working on is lost. She executes ```kill -9 95251``` at [5:26](https://youtu.be/W76o_iG7Y7g?t=326) his code editor disappears instantly. __Yikes!__
-
 
 Originally, the beauty of commands was in being predictable, readable, and not causing surprises. UNIX style operating systems, are well thought out. But, people will cram a lot more than they should, and it gets out of control, here is a mild example of mixing some video files with the ffmpeg command: ```ffmpeg -i test1.avi -i test2.avi -vcodec copy -acodec copy -vcodec copy -acodec copy test12.avi -newvideo -newaudio``` which I hate; I have some guesses as to what the ff stands for. You can visit the man page here: [https://linux.die.net/man/1/ffmpeg](https://linux.die.net/man/1/ffmpeg)
 
@@ -1084,22 +1116,28 @@ Let us leap from screens to actual images, and talk about real pixels as they ex
 
 [![Real Pixels](http://img.youtube.com/vi/15aqFQQVBWU/0.jpg)](https://youtu.be/15aqFQQVBWU?t=44)
 
-It would __SUCK!__ to try to do something to those colors with raw command line, it is possible by writing supporting commands such as ```spaghettify``` which would unravel an image into a line of colors, and corresponding ```unspaghettify``` which would ask for width of the original image and reconstitute it. At the center we would have a filter of pixels, and we en'd up running something like this:
+It would be almost impossible to try to do something to pixels of an image with standard UNIX command line. This is generally achieved by downloading extra programs, namely [ImageMagick](https://en.wikipedia.org/wiki/ImageMagick). There are many [package managers](https://en.wikipedia.org/wiki/Package_manager) that help the user to install programms with a simple command: ```sudo apt-get install imagemagick```
+
+Doing custom work that nobody has ever thought of before is possible by writing new commands. Writing new commands, programs, or apps, is the definition of Programming.
+
+To perform unique operations on pixels via commands, one would need to create supporting commands such as ```spaghettify``` which would unravel an image into a line of colors, and corresponding ```unspaghettify``` the problem is that spaghettify and unspaghettify would not be able to communicate directly. If all we send between the two is pixels, then the information about the format of the image, the width and height would not transfer. We would need to tell unspaghettify about how to reconstitute the image:
 
 ```sh
 
 spaghettify image.jpg
 | filter -t darken
-| unspaghettify -w 1024
+| unspaghettify -w 1024 -h 768
 > image-darkened.jpg
 
 ```
 
-Where ```filter -t darken``` would mean use filter of type darken, and ```unspaghettify -w 1024``` would mean that the width of the original image was 1024 pixels.
+Where ```filter -t darken``` would mean use filter of type darken, and ```unspaghettify -w 1024 -h 768``` would mean that the width of the original image was 768x1024 pixels.
 
-But using pipes and redirects is not how one would control an array of little pixels. The best way to do it, is to use a programming language. This way we won't need to suck spaghetti through pipes and remember widths and we can cram a lot more into the clockwork without making a mess.
+Becasue of all those little extras that we have to think of, the UNIX command line is not a perfect candidate for uniquely controlling an array of little pixels in some artistic way. The best way to do it, is to use a programming language and confine everything to a single command.
 
-Here is a JavaScript example of getting at the raw color information of an image, it is taken from a tiny and dusty [node.js](https://nodejs.org) library called [get-image-data](https://www.npmjs.com/package/get-image-data) rather than pipes to pass information around everything is wide open. Rather than being __SMUSHED__ into commands with pages and pages of... manual pages the red green blue, actually contain numbers from 0 to 255, and one can do math with it.
+This way, we won't need to remember widths and heights, or color modes and extended image information, and we can cram a lot more into the clockwork without making a mess. Rather than creating three commands (spaghettify, filter, unspaghettify) we'd end up creating one command.
+
+Here is a JavaScript example of getting at the raw color information of an image, it is taken from a tiny and dusty [node.js](https://nodejs.org) library called [get-image-data](https://www.npmjs.com/package/get-image-data) rather than pipes to pass information around everything is wide open. Rather than being placed into separate commands that we have to keep interchangable and document with pages and pages of... manual pages - the red, green, blue, variables already contain numbers from 0 to 255, and one can do math with it.
 
 ```JavaScript
 
@@ -1116,15 +1154,36 @@ image('./image.jpg', function (err, info) {
     var red = data[i]
     var green = data[i + 1]
     var blue = data[i + 2]
-    var alpha = data[i + 3]
 
-    // do something mathematical with red variable
+    // do something mathematical with the colr variables
+    // here we substract 50 from each of the colors
     red = red - 50;
+    green = green - 50;
+    blue = blue - 50;
+
+    // make sure none of the values are less than zero
+    // if the new value is less than zero, make it zero
+    if(red < 0) red = 0;
+    if(green < 0) green = 0;
+    if(blue < 0) blue = 0;
+
+    // print it out as text (like in the video)
+    console.log(`rgb(${red},${green},${blue})`)
 
   }
 
 })
 
+```
+
+Running this program would print out red, green, blue information about all the pixels in image.jpg, simlar to this:
+
+```
+rgb(225,23,76)
+rgb(0,153,36)
+rgb(235,73,56)
+rgb(72,0,116)
+...
 ```
 
 This is what Dianna means when she talks about puzzles, you got all this color information, and you can mess with it, and then take the numbers and encode then as a jpg, or maybe you can make a movie, where you scramble the pixels on purpose to create what is known as [Glitch Art](https://en.wikipedia.org/wiki/Glitch_art). Just about 100 lines of code, bunch of selfies, and you become an artist.
@@ -1155,7 +1214,7 @@ chroma(64, 224, 208).darken().saturate(2).hex()
 
 ```
 
-The __"BASIC"__ joke that Dianna makes is explained in the video below.
+(The "BASIC" joke that Dianna makes, is a pun about the programming language BASIC, which is explained in the video below.)
 
 Commodore 64 - Introduction to Programming - Level 1
 
