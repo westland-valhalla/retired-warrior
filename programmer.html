@@ -1,0 +1,525 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Notes about growing up.">
+  <meta name="author" content="Westland Valhalla.">
+  <meta name="generator" content="node.js">
+  <title>Warrior - A warrior is she that thrives where’er she be.</title>
+  <link rel="canonical" href="https://westland-valhalla.github.io/warrior/">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom styles for this template -->
+  <link href="css/custom.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <main role="main" class="container">
+
+    <section class="main-content">
+
+      <article>
+
+        <div class="jumbotron py-3 mt-3">
+          <h1 class="display-4">Programmer</h1>
+          <p class="lead"></p>
+        </div>
+
+      </article>
+
+      <article>
+
+
+        <p><a href="https://www.youtube.com/watch?v=W76o_iG7Y7g"><img class="img-fluid" src="http://img.youtube.com/vi/W76o_iG7Y7g/0.jpg" alt="Kids hack their Dad's computer on her Raspberry Pi"></a></p>
+
+        <p>(Click image to watch video)</p>
+      </article>
+
+      <article>
+        <h4 id="part-1-the-deck">Part 1: The Deck</h4>
+
+        <p>The $35 <a href="https://www.raspberrypi.org/">Raspberry Pi</a> is the most handsome in a class of computers called <a href="https://en.wikipedia.org/wiki/Single-board_computer">Single-board computers</a>. They just released version 4,
+          <strong>so make sure you get that one</strong>; and don’t forget a monitor. BestBuy does sell the PI, packaged in the <a href="https://www.youtube.com/watch?v=7rcNjgVgc-I">Raspberry Pi 4 Cana Kit</a>.
+          Personally, I think getting the original keyboard and mouse is really
+          cool, I am not a fan of the plastic case and would go for a cool looking
+          <a href="https://www.amazon.com/dp/B07VD568FB/ref=twister_B07VD58LGV?_encoding=UTF8&amp;psc=1">Heat Sink “Case”</a> - and then probably short something out. Good news is that ashens has a two part review of all the popular cases here you go:
+          <a href="https://www.youtube.com/watch?v=zpTlB6oju5w">Part 1</a> and <a href="https://www.youtube.com/watch?v=rYb2IEsfhnE">Part 2</a>. Heads up, ashens is an odd British man that utters odd British phrases.</p>
+
+        <p><a href="https://www.youtube.com/watch?v=sajBySPeYH0"><img class="img-fluid" src="http://img.youtube.com/vi/sajBySPeYH0/0.jpg" alt="Raspberry Pi 4"></a></p>
+
+        <p>(Click image to watch video)</p>
+
+        <p><a href="https://www.youtube.com/watch?v=88WOo4DIElY"><img class="img-fluid" src="http://img.youtube.com/vi/88WOo4DIElY/0.jpg" alt="What's inside the Raspberry Pi 4 Desktop Kit?"></a></p>
+
+        <p>(Click image to watch video)</p>
+
+        <p><img class="img-fluid" src="images/portable-monitor.jpg" alt=""></p>
+
+        <p>I would like to add, that there is a class of monitors called <a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&amp;field-keywords=+Portable+Monitors">Portable Monitors</a>
+          it is still nice to have a desk one, but if you are wondering which one
+          to get; get a portable first (the cheapest one is $99), then you can
+          take it to Starbucks, plug in your PI, keyboard and mouse, and
+          headphones; and <a href="https://www.youtube.com/watch?v=3qfa9hGJzoY">compose some music</a> with <a href="https://lmms.io/">LMMS</a> whilst <a href="https://www.youtube.com/watch?v=4mgrY-U9_8E">pondering album art</a> with <a
+            href="https://www.gimp.org/">GIMP</a>.</p>
+
+        <p>Also please don’t forget about <a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&amp;field-keywords=projectors">Projectors</a> as those too are a kind of monitor (the cheap ones are $50 - $75). A projector turns any
+          wall
+          into a monitor.</p>
+
+        <p><img class="img-fluid" src="images/screen-projector.jpg" alt=""></p>
+      </article>
+
+      <article>
+        <h4 id="part-2-system-breach">Part 2: System Breach</h4>
+
+        <p>She likley stole her <del>daddy’s</del> dad’s password by using her older brother’s <a href="https://www.amazon.com/keylogger/s?k=keylogger">key logger</a>.
+          To log into her dad’s computer she uses the ssh command. ssh is just a
+          program that establishes a secure (encrypted) connection between two
+          computers. She executes <code class="language-plaintext highlighter-rouge">ssh alex@192.168.1.27</code> at <a href="https://youtu.be/W76o_iG7Y7g?t=87">1:27</a>. And begins using the ssh program.</p>
+
+        <p>The remote shell, for convenience sake, looks almost the same as her
+          own local shell. Even though very little changes on her screen she is in
+          a full-screen program now, and once she is authenticated her shell
+          prompt changes to that of the remote system. It goes from <code class="language-plaintext highlighter-rouge">pi@calebpi ~ $</code> to <code class="language-plaintext highlighter-rouge">[]~$[]</code>.</p>
+
+        <p>A shell prompt is the thing that indicates that you are free to type
+          commands. Her dad’s shell prompt is broken, he messed up with whatever
+          was supposed to go in between those square brackets, it maybe that he is
+          using fonts that the Raspberry PI does not have, or some mess like
+          that. My prompt as I write this is <code class="language-plaintext highlighter-rouge">[user@computer warrior]$</code> that means username is user, my computer’s network name is computer, and the directory I am in is warrior.</p>
+
+        <p>The dollar sign <code class="language-plaintext highlighter-rouge">$</code>
+          indicates that I, alex, and pi are normal users. You can escalate your
+          system privileges to become a system administrator where you can read or
+          delete other user’s files. On most systems the dollar sign would then
+          change to the pound sign <code class="language-plaintext highlighter-rouge">#</code> to indicate that care must be taken as you are in special privileges mode, often called <a href="http://www.catb.org/~esr/jargon/html/R/root.html">root</a>.
+        </p>
+      </article>
+
+      <article>
+        <h4 id="part-3-the-warning">Part 3: The Warning</h4>
+
+        <p>Now, when the Little Hacker Lady, logs into her dad’s computer she makes it talk using the <strong>say</strong> command.</p>
+
+        <p>A command is a feature of the Operating System, using commands is a
+          management or administrative task, it is not really true programming,
+          but it is OK to call it that.</p>
+
+        <p>The say command uses <a href="https://en.wikipedia.org/wiki/Speech_synthesis">speech synthesis</a>
+          to convert text to speech. The say command resides on her dad’s
+          computer, and thus uses her dad’s speaker. She executes the command at <a href="https://youtu.be/W76o_iG7Y7g?t=310">5:10</a></p>
+
+        <p>The command she executes is wonderfully illustrative:</p>
+
+        <div class="language-sh highlighter-rouge">
+          <div class="highlight">
+            <pre class="highlight"><code>
+      say <span class="nt">-v</span> serena dad watch out
+
+      </code></pre>
+          </div>
+        </div>
+
+        <p>You see that <code class="language-plaintext highlighter-rouge">-v</code> that’s a special directive that states when executing the say command use the <code class="language-plaintext highlighter-rouge">v</code>oice of serena, serena is a
+          cute
+          name for a library of sounds, the say command supports multiple voices, serena is one of them.</p>
+
+        <p>How do people know that <code class="language-plaintext highlighter-rouge">-v</code> means voice, and how do they know that serena is one of the voices? <strong>Nobody knows this at first</strong>, before a person executes a command they
+          read
+          about it in a manual. The manual command is called <code class="language-plaintext highlighter-rouge">man</code> and people usually type <code class="language-plaintext highlighter-rouge">man</code> followed by the command-name that they want
+          to learn about. In this case: <code class="language-plaintext highlighter-rouge">man say</code>
+          (meaning bring up the manual page for the say command). The man page
+          will tell you how you can list all the available voices too (<code class="language-plaintext highlighter-rouge">say -v=?</code>), a command like <code class="language-plaintext highlighter-rouge">say</code> can do multiple things based on
+          what
+          you are trying to do. Here is the internet version of a man page for say: <a href="https://ss64.com/osx/say.html">https://ss64.com/osx/say.html</a></p>
+
+        <p>People are not happy with this. Many try to create simplified man pages, here is one example <a href="https://tldr.sh/">https://tldr.sh/</a> but it is always best to go to the source, and just get used to the man command.</p>
+
+        <p>She didn’t need to use the serena voice library, she could have just executed:</p>
+
+        <div class="language-sh highlighter-rouge">
+          <div class="highlight">
+            <pre class="highlight"><code>
+      say dad watch out
+
+      </code></pre>
+          </div>
+        </div>
+
+        <p>And the say command would use the default voice. The say command is mostly available on Macs, Raspberry Pi will likely use the <code class="language-plaintext highlighter-rouge">espeak</code> command.</p>
+
+        <div class="language-sh highlighter-rouge">
+          <div class="highlight">
+            <pre class="highlight"><code>
+      espeak <span class="s2">"dad watch out"</span>
+
+      </code></pre>
+          </div>
+        </div>
+
+        <p>Espeak command is slightly different, for it gets confused by
+          multiple words, you have to join them together by wrapping them in
+          quotes. A programmer should demand that his program code has good
+          hygiene. eSpeak simply said “I am not just going to read everything that
+          you type at me” whereas the programmer that made the say command said
+          “Let’s just assume that whatever they throw at us needs to be converted
+          to speech unless something starts with a hyphen”. The say command makes
+          assumptions, whereas espeak is very strict about input.</p>
+        </article>
+
+        <article>
+        <h4 id="part-4-denial-of-service">Part 4: Denial of Service</h4>
+
+        <p>At <a href="https://youtu.be/W76o_iG7Y7g?t=229">3:49</a> the Little Lady Hacker explains that she will be shutting down her dad’s code editor, and writes down the Process ID number <code
+            class="language-plaintext highlighter-rouge">95251</code>. Mac users frequently use <a href="https://www.sublimetext.com/">Sublime Text</a> code editor. She issues the <code class="language-plaintext highlighter-rouge">kill</code> command
+          with the <code class="language-plaintext highlighter-rouge">-9</code> switch, this is a terrible idea, as it basically crashes her dad’s code editor and the <code class="language-plaintext highlighter-rouge">-9</code> ensures there is no way
+          to
+          save data. Here is the man page for the kill command <a href="https://linux.die.net/man/1/kill">https://linux.die.net/man/1/kill</a>.
+          Unix programs that are actively running are called processes (as in a
+          program that is processing something) and each process has a number.
+          The kill command can be used during development and debugging, in a
+          reboot scenario, or when battery is about to die on a laptop, it has its
+          proper uses. As a joke, it is already bad enough to use the kill
+          command on a process as it sends a TERM[inate] signal. As a programmer
+          you can add a signal handler in your program, and then in case of TERM
+          signal you can for example ask the user to save his data, the TERM
+          signal is an advisory. The -9 sends a KILL signal. There is no handler
+          for the KILL signal, there is no saving work, the process is destroyed
+          by the Operating System, whatever he was working on is lost. She
+          executes <code class="language-plaintext highlighter-rouge">kill -9 95251</code> at <a href="https://youtu.be/W76o_iG7Y7g?t=326">5:26</a> his code editor disappears instantly. <strong>Yikes!</strong></p>
+
+        <p><a href="http://www.catb.org/~esr/jargon/html/A/all-your-base-are-belong-to-us.html"><img class="img-fluid" src="images/aybabtu.png" alt=""></a></p>
+      </article>
+
+      <article>
+        <h4 id="jargon">Jargon</h4>
+
+        <p>There is a wee bit of jargon here, but don’t worry. ESR is managing a jargon file you can read at <a href="http://www.catb.org/~esr/jargon/html/go01.html">http://www.catb.org/~esr/jargon/html/go01.html</a> and he has a cool <a
+            href="http://www.catb.org/~esr/faqs/hacker-howto.html">HOWTO</a> on hackers from which I quote below:</p>
+
+        <p>“<strong>What Is a Hacker?</strong></p>
+
+        <p><em>There is a community, a shared culture, of expert programmers and
+            networking wizards that traces its history back through decades to the
+            first time-sharing minicomputers and the earliest ARPAnet experiments.
+            The members of this culture originated the term ‘hacker’. Hackers built
+            the Internet. Hackers made the Unix operating system what it is today.
+            Hackers make the World Wide Web work. If you are part of this culture,
+            if you have contributed to it and other people in it know who you are
+            and call you a hacker, you’re a hacker.</em></p>
+
+        <p><em>The hacker mind-set is not confined to this software-hacker
+            culture. There are people who apply the hacker attitude to other things,
+            like electronics or music — actually, you can find it at the highest
+            levels of any science or art. Software hackers recognize these kindred
+            spirits elsewhere and may call them ‘hackers’ too — and some claim that
+            the hacker nature is really independent of the particular medium the
+            hacker works in.</em></p>
+
+        <p><em>There is another group of people who loudly call themselves
+            hackers, but aren’t. These are people (mainly adolescent males, and
+            little girls) who get a kick out of breaking into computers and
+            phreaking the phone system. Real hackers call these people ‘crackers’
+            and want nothing to do with them. Real hackers mostly think crackers are
+            lazy, irresponsible, and not very bright, and object that being able to
+            break security doesn’t make you a hacker any more than being able to
+            hotwire cars makes you an automotive engineer. Unfortunately, many
+            journalists and writers have been fooled into using the word ‘hacker’ to
+            describe crackers; this irritates real hackers no end.</em></p>
+
+        <p><em>The basic difference is this: hackers build things, crackers break them.”</em></p>
+      </article>
+
+      <article>
+        <p><img class="img-fluid" src="images/glider.png" alt=""></p>
+
+        <p>(This is a glider, a bit of a symbol for hackers, who are like cats,
+          and do not like each other, heards, or stupid little symbols. The glider
+          comes from <a href="https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life">Conway’s Game of Life</a> the little things manufactured by <a href="https://en.wikipedia.org/wiki/Gun_(cellular_automaton)">Gospers glider gun</a> and walking off
+          towards lower right are gliders in action.)</p>
+
+        <p><img class="img-fluid" src="images/gliders.gif" alt=""></p>
+
+        <p>Gliders, are of the world of <a href="https://en.wikipedia.org/wiki/Cellular_automaton">Cellular Automaton</a>, you have heard Murray Gell-Mann talk about it in context of <a href="https://www.youtube.com/watch?v=ONiWmzrmfuY">Emergence</a>
+          the Game of Life is a little simulation of playing with Fundamental
+          Principles, and Accidents. Life emerged the same way the gliders do, out
+          of Complexity, Infinity of Time, Fundamental Principles, and Accidents
+          (remember nobody counted the failed attempts).</p>
+
+        <p>Here is Stephen Wolfram in his “Computing a theory of everything” TED talk, reminding us to <strong>never pause</strong> after uttering the words “I invented a new kind of science”, ugh.</p>
+
+        <p><a href="https://www.youtube.com/watch?v=60P7717-XOQ"><img class="img-fluid" src="http://img.youtube.com/vi/60P7717-XOQ/0.jpg" alt="Computing a theory of everything"></a></p>
+
+        <p>(Click image to watch video)</p>
+      </article>
+
+      <article>
+        <p>Originally, the beauty of commands was in being predictable,
+          readable, and not causing surprises. UNIX style operating systems, are
+          well thought out. But, people will cram a lot more than they should, and
+          it gets out of control, here is a mild example of mixing some video
+          files with the ffmpeg command: <code class="language-plaintext highlighter-rouge">ffmpeg -i test1.avi -i test2.avi -vcodec copy -acodec copy -vcodec copy -acodec copy test12.avi -newvideo -newaudio</code> which I hate; I have some guesses as
+          to
+          what the ff stands for. You can visit the man page here: <a href="https://linux.die.net/man/1/ffmpeg">https://linux.die.net/man/1/ffmpeg</a></p>
+
+        <p>There is a feature in the command world, that can deal with high
+          complexity, and that is the pipe. Meaning two commands can be connected
+          by a pipe like this: <code class="language-plaintext highlighter-rouge">print "hello world" | uppercase</code> which would result in printing <code class="language-plaintext highlighter-rouge">HELLO WORLD</code> there is also a feature of
+          pipes
+          that creates files and that is the greater than symbol “&gt;” so we could say: <code class="language-plaintext highlighter-rouge">print "hello world" | uppercase &gt; greetings.txt</code> and instead of seeing it on the screen we’d see it in
+          the file named greetings.txt</p>
+
+        <p><a href="https://www.youtube.com/watch?v=tc4ROCJYbm0"><img class="img-fluid" src="http://img.youtube.com/vi/tc4ROCJYbm0/0.jpg" alt="AT&amp;T Archives: The UNIX Operating System"></a></p>
+
+        <p>(Click image to watch video)</p>
+      </article>
+
+      <article>
+        <p>What do programmers actually do?</p>
+
+        <p><a href="https://www.youtube.com/watch?v=g4a7_HH9Wbg"><img class="img-fluid" src="http://img.youtube.com/vi/g4a7_HH9Wbg/0.jpg" alt="What do programmers actually do?"></a></p>
+
+        <p>(Click image to watch video)</p>
+
+        <p>If you look really closely at a screen, especially an older color TV
+          you will see that it is made up of little red green and blue dots like
+          so:</p>
+
+        <p><a href="https://www.youtube.com/watch?v=UdWCUr1FDqU"><img class="img-fluid" src="http://img.youtube.com/vi/UdWCUr1FDqU/0.jpg" alt="Pixels"></a>
+          <a href="https://www.youtube.com/watch?v=DR2dRWfr7m0"><img class="img-fluid" src="http://img.youtube.com/vi/DR2dRWfr7m0/0.jpg" alt="Pixels"></a></p>
+
+        <p>(Click images to watch videos)</p>
+
+        <p>Let us leap from screens to actual images, and talk about real pixels as they exist in an image, and not a monitor.</p>
+
+        <p><a href="https://youtu.be/15aqFQQVBWU?t=44"><img class="img-fluid" src="http://img.youtube.com/vi/15aqFQQVBWU/0.jpg" alt="Real Pixels"></a></p>
+
+        <p>It would be almost impossible to try to do something to pixels of an
+          image with standard UNIX command line. This is generally achieved by
+          downloading extra programs, namely <a href="https://en.wikipedia.org/wiki/ImageMagick">ImageMagick</a>. There are many <a href="https://en.wikipedia.org/wiki/Package_manager">package managers</a> that help the user to install programs with a
+          simple command: <code class="language-plaintext highlighter-rouge">sudo apt-get install imagemagick</code></p>
+
+        <p>Doing custom work that nobody has ever thought of before is possible
+          by writing new commands. Writing new commands, programs, or apps, is the
+          definition of Programming.</p>
+
+        <p>To perform unique operations on pixels via commands, one would need to create supporting commands such as <code class="language-plaintext highlighter-rouge">spaghettify</code> which would unravel an image into a line of colors, and
+          corresponding <code class="language-plaintext highlighter-rouge">unspaghettify</code>
+          the problem is that spaghettify and unspaghettify would not be able to
+          communicate directly. If all we send between the two is pixels, then the
+          information about the format of the image, the width and height would
+          not transfer. We would need to tell unspaghettify about how to
+          reconstitute the image:</p>
+
+        <div class="language-sh highlighter-rouge">
+          <div class="highlight">
+            <pre class="highlight"><code>
+      spaghettify image.jpg
+      | filter <span class="nt">-t</span> darken
+      | unspaghettify <span class="nt">-w</span> 1024 <span class="nt">-h</span> 768
+      <span class="o">&gt;</span> image-darkened.jpg
+
+      </code></pre>
+          </div>
+        </div>
+
+        <p>Where <code class="language-plaintext highlighter-rouge">filter -t darken</code> would mean use filter of type darken, and <code class="language-plaintext highlighter-rouge">unspaghettify -w 1024 -h 768</code> would mean that the width of
+          the
+          original image was 768x1024 pixels.</p>
+
+        <p>Becasue of all those little extras that we have to think of, the UNIX
+          command line is not a perfect candidate for uniquely controlling an
+          array of little pixels in some artistic way. The best way to do it, is
+          to use a programming language and confine everything to a single
+          command.</p>
+
+        <p>This way, we won’t need to remember widths and heights, or color
+          modes and extended image information, and we can cram a lot more into
+          the clockwork without making a mess. Rather than creating three commands
+          (spaghettify, filter, unspaghettify) we’d end up creating one command.</p>
+
+        <p>Here is a JavaScript example of getting at the raw color information of an image, it is taken from a tiny and dusty <a href="https://nodejs.org/">node.js</a> library called <a
+            href="https://www.npmjs.com/package/get-image-data">get-image-data</a>
+          rather than pipes to pass information around everything is wide open.
+          Rather than being placed into separate commands that we have to keep
+          interchangable and document with pages and pages of… manual pages - the
+          red, green, blue, variables already contain numbers from 0 to 255, and
+          one can do math with it.</p>
+
+        <pre><code class="language-JavaScript">
+      var image = require('get-image-data')
+
+      image('./image.jpg', function (err, info) {
+
+      var data = info.data
+      var height = info.height
+      var width = info.width
+
+      for (var i = 0, l = data.length; i &lt; l; i += 4) {
+
+      var red = data[i]
+      var green = data[i + 1]
+      var blue = data[i + 2]
+
+      // do something mathematical with the colr variables
+      // here we substract 50 from each of the colors
+      red = red - 50;
+      green = green - 50;
+      blue = blue - 50;
+
+      // make sure none of the values are less than zero
+      // if the new value is less than zero, make it zero
+      if(red &lt; 0) red = 0;
+      if(green &lt; 0) green = 0;
+      if(blue &lt; 0) blue = 0;
+
+      // print it out as text (like in the video)
+      console.log(`rgb(${red},${green},${blue})`)
+
+      }
+
+      })
+
+      </code></pre>
+
+        <p>Running this program would print out red, green, blue information about all the pixels in image.jpg, simlar to this:</p>
+
+        <div class="language-plaintext highlighter-rouge">
+          <div class="highlight">
+            <pre class="highlight"><code>
+      rgb(225,23,76)
+      rgb(0,153,36)
+      rgb(235,73,56)
+      rgb(72,0,116)
+      ...
+      </code></pre>
+          </div>
+        </div>
+
+        <p>This is what Dianna means when she talks about puzzles, you got all
+          this color information, and you can mess with it, and then take the
+          numbers and encode then as a jpg, or maybe you can make a movie, where
+          you scramble the pixels on purpose to create what is known as <a href="https://en.wikipedia.org/wiki/Glitch_art">Glitch Art</a>. Just about 100 lines of code, bunch of selfies, and you become an artist.</p>
+
+        <p><a href="https://www.youtube.com/watch?v=jtIe416Twpo"><img class="img-fluid" src="http://img.youtube.com/vi/jtIe416Twpo/0.jpg" alt="Glitch Art"></a></p>
+
+        <p>(Click image to watch video)</p>
+
+        <p><a href="https://www.youtube.com/watch?v=2rU2Juual18"><img class="img-fluid" src="http://img.youtube.com/vi/2rU2Juual18/0.jpg" alt="Color Theory"></a></p>
+
+        <p>(Click image to watch video)</p>
+
+        <p>Armed with Color Theory, RGB values, and a library like <a href="https://vis4.net/chromajs/">Chroma.js</a> and you are out on an expedition.</p>
+
+        <p><strong>Please Note:</strong> <a href="https://vis4.net/chromajs/">Chroma.js</a> library has <strong>LIVE CODE EXAMPLES</strong> that you can play with, for example you can change the code in the first example from:</p>
+
+        <pre><code class="language-JavaScript">
+      chroma('pink').darken().saturate(2).hex()
+
+      </code></pre>
+
+        <p>to the <code class="language-plaintext highlighter-rouge">64, 224, 208</code> which is the Turquoise they use in the Pixel explanation video above, and play around with the colors and functions.</p>
+
+        <pre><code class="language-JavaScript">
+      chroma(64, 224, 208).darken().saturate(2).hex()
+
+      </code></pre>
+
+        <p>(The “BASIC” joke that Dianna makes, is a pun about the programming language BASIC, which is explained in the video below.)</p>
+
+        <p>Commodore 64 - Introduction to Programming - Level 1</p>
+
+        <p><a href="https://www.youtube.com/watch?v=h3bDa5z_B1M"><img class="img-fluid" src="http://img.youtube.com/vi/h3bDa5z_B1M/0.jpg" alt="Commodore 64 - Introduction to Programming - Level 1"></a></p>
+        <p>(Click image to watch video)</p>
+      </article>
+
+      <article>
+
+        <p>How I Became a Web Developer in 3 Months, Learn Code with CodeCademy</p>
+
+        <p><a href="https://www.youtube.com/watch?v=ASbijZRU2Uo"><img class="img-fluid" src="http://img.youtube.com/vi/ASbijZRU2Uo/0.jpg" alt="How I Became a Web Developer in 3 Months"></a></p>
+
+        <p>(Click image to watch video)</p>
+
+        <p>How I Learned to Code - and Got a Job at Airbnb!</p>
+
+        <p><a href="https://www.youtube.com/watch?v=kXpWLv2o7hs"><img class="img-fluid" src="http://img.youtube.com/vi/kXpWLv2o7hs/0.jpg" alt="How I Learned to Code - and Got a Job at Airbnb!"></a></p>
+
+        <p>(Click image to watch video)</p>
+
+        <p>Learn to Code in 6 months</p>
+
+        <p><a href="https://www.youtube.com/watch?v=LCls16Tv8UE"><img class="img-fluid" src="http://img.youtube.com/vi/LCls16Tv8UE/0.jpg" alt="Learn to Code in 6 months"></a></p>
+
+        <p>(Click image to watch video)</p>
+      </article>
+
+      <article>
+        <p>Learn JavaScript - Full Course for Beginners</p>
+
+        <p>The reason I mention JavaScript is because it is the most widely used programming language on github. <a href="https://github.com/search?q=stars%3A%3E%3D10000">Searching for projects with more than 10,000 stars</a> shows 409 JavaScript based
+          projects, the next one down is Python with 117.</p>
+
+        <p><a href="https://www.youtube.com/watch?v=PkZNo7MFNFg"><img class="img-fluid" src="http://img.youtube.com/vi/PkZNo7MFNFg/0.jpg" alt="Learn JavaScript - Full Course for Beginners"></a></p>
+
+        <p>(Click image to watch video)</p>
+
+        <p>Learn Node.js - Full Tutorial for Beginners
+          (Node is a powerful way of running JavaScript applications.)</p>
+
+        <p><a href="https://www.youtube.com/watch?v=RLtyhwFtXQA"><img class="img-fluid" src="http://img.youtube.com/vi/RLtyhwFtXQA/0.jpg" alt="Learn Node.js - Full Tutorial for Beginners"></a></p>
+
+        <p>(Click image to watch video)</p>
+
+        <p>Codemania 2013: Amy Palamountain on Backbone and Marionette</p>
+
+        <p><a href="https://www.youtube.com/watch?v=0o2whtCJw8I"><img class="img-fluid" src="http://img.youtube.com/vi/0o2whtCJw8I/0.jpg" alt="Amy Palamountain on Backbone and Marionette"></a></p>
+
+        <p>(Click image to watch video)</p>
+
+        <p>DefCamp 2015 - Pentesting Android Applications</p>
+
+        <p><a href="https://www.youtube.com/watch?v=EF3oi9Ra7IU"><img class="img-fluid" src="http://img.youtube.com/vi/EF3oi9Ra7IU/0.jpg" alt="Pentesting Android Applications"></a></p>
+
+        <p>(Click image to watch video)</p>
+
+        <p>Network Penetration Testing for Beginners</p>
+
+        <p><a href="https://www.youtube.com/watch?v=3Kq1MIfTWCE"><img class="img-fluid" src="http://img.youtube.com/vi/3Kq1MIfTWCE/0.jpg" alt="Network Penetration Testing for Beginners"></a></p>
+
+        <p>(Click image to watch video)</p>
+
+
+      </article>
+
+      <article>
+        <nav aria-label="Page Navigation">
+          <ul class="pagination pagination-lg justify-content-center">
+            <li class="page-item">
+              <a class="page-link" href="superhero.html">Previous</a>
+            </li>
+            <li class="page-item"><a class="page-link" href="index.html">Up</a></li>
+
+            <li class="page-item">
+              <a class="page-link" href="philosopher.html">Next</a>
+            </li>
+          </ul>
+        </nav>
+      </article>
+
+    </section>
+
+  </main><!-- /.container -->
+
+  <script src="js/jquery-3.3.1.slim.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>
