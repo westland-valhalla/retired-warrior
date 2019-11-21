@@ -1,0 +1,29 @@
+{
+  "name": "warrior",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westland-valhalla/warrior.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/westland-valhalla/warrior/issues"
+  },
+  "homepage": "https://github.com/westland-valhalla/warrior#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "fs-extra": "^8.1.0",
+    "lodash": "^4.17.15"
+  }
+}
