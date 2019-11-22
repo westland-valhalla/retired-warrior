@@ -41,6 +41,9 @@ async function renderFiles(configuration){
 
       // let rendered = await patchOldStuff(original);
       let rendered = await renderComponents(original, configuration);
+      rendered = await renderQuotes(rendered, configuration);
+      rendered = await renderPoems(rendered, configuration);
+      rendered = await renderText(rendered, configuration);
 
       //console.log(rendered)
       await fs.writeFile(path.join(configuration.destination, filename), rendered)
@@ -70,12 +73,121 @@ async function patchOldStuff(html){
   return $.root().html();
 }
 
+async function renderQuotes(html, configuration){
+  const $ = cheerio.load(html);
+  $('div.widget.quote').each(function(i, elem) {
+    const quoteAuthor = $(this).data('author');
+    const quoteAuthorUrl = $(this).data('author-url');
+    const quoteSource = $(this).data('source');
+    const quoteSourceUrl = $(this).data('source-url');
+    const quoteText = $(this).html();
+    let widgetHtml = `
+    <div class="card text-white bg-info shadow-lg">
+      <div class="card-body">
+        <blockquote class="blockquote mb-0">
+          <p>${quoteText}</p>
+          <footer class="blockquote-footer"></footer>
+        </blockquote>
+      </div>
+    </div>
+    `;
+    $(this).html(widgetHtml);
+    if(quoteAuthor && quoteAuthorUrl){
+      $('.blockquote-footer', this).append(`<a class="text-white" href="${quoteAuthorUrl}">${quoteAuthor}</a>`)
+    }else if(quoteAuthor && !quoteAuthorUrl){
+      $('.blockquote-footer', this).append(`<span class="text-light">${quoteAuthor}</span>`)
+    }
+    if(quoteSource && quoteSourceUrl){
+      $('.blockquote-footer', this).append(`in <cite title="${quoteSource}"><a class="text-white" href="${quoteSourceUrl}">${quoteSource}</a></cite>`)
+    }else if(quoteSource && !quoteSourceUrl){
+      $('.blockquote-footer', this).append(`in <cite class="text-light" title="${quoteSource}">${quoteSource}</cite>`)
+    }
+  })
+  return $.root().html();
+}
+
+
+async function renderPoems(html, configuration){
+  const $ = cheerio.load(html);
+  $('div.widget.poem').each(function(i, elem) {
+
+    const quoteTitle = $(this).data('title');
+    const quoteTitleUrl = $(this).data('title-url');
+
+    const quoteAuthor = $(this).data('author');
+    const quoteAuthorUrl = $(this).data('author-url');
+
+    const quoteText = $(this).html();
+    let widgetHtml = `
+    <div class="card text-white bg-secondary shadow-lg">
+      <div class="card-body">
+
+        <h3 class="poem-title pb-3">
+
+        </h3>
+
+        <div class="py-2">
+        ${quoteText}
+        </div>
+
+      </div>
+    </div>
+    `;
+    $(this).html(widgetHtml);
+
+    if(quoteTitle && quoteTitleUrl){
+      $('.poem-title', this).append(` <a class="text-white" href="${quoteTitleUrl}">${quoteTitle}</a>`)
+    }else if(quoteTitle && !quoteTitleUrl){
+      $('.poem-title', this).append(` <span class="text-light">${quoteTitle}</span>`)
+    }
+
+    if(quoteAuthor && quoteAuthorUrl){
+      $('.poem-title', this).append(`<small> by <a class="text-light" href="${quoteAuthorUrl}">${quoteAuthor}</a></small>`)
+    }else if(quoteAuthor && !quoteAuthorUrl){
+      $('.poem-title', this).append(`<small class="text-light"> by ${quoteAuthor}</small>`)
+    }
+
+  })
+  return $.root().html();
+}
+async function renderText(html, configuration){
+  const $ = cheerio.load(html);
+  $('div.widget.text').each(function(i, elem) {
+
+    const quoteTitle = $(this).data('title');
+    const quoteText = $(this).html();
+
+    let widgetHtml = `
+    <div class="card text-white bg-primary shadow-lg">
+
+    <div class="card-header">${quoteTitle}</div>
+
+      <div class="card-body">
+        <div class="py-2 lead">
+        ${quoteText}
+        </div>
+      </div>
+    </div>
+    `;
+    $(this).html(widgetHtml);
+
+
+  })
+  return $.root().html();
+}
+
+
+
+
+
+
+
+
 async function renderComponents(html, configuration){
   const $ = cheerio.load(html);
   const thumbnailDownloads = [];
 
   $('div.widget.youtube').each(function(i, elem) {
-
     const youtubeId = $(this).data('id');
     const youtubeTitle = $(this).data('title');
 
@@ -87,7 +199,7 @@ async function renderComponents(html, configuration){
 
 
     const widgetHtml = `
-      <div class="card text-white bg-dark shadow">
+      <div class="card text-white bg-dark shadow-lg">
         <div class="card-header">
           ${youtubeTitle}
         </div>
