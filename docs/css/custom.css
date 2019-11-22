@@ -1,3 +1,22 @@
 article {
   padding-bottom: 4rem;
 }
+
+.card-video { position: relative; }
+
+
+.video-play {
+
+   position: absolute;
+   display: block;
+
+
+   left: 4px;
+   bottom: 4px;
+
+
+
+   pointer-events: none;
+
+
+}

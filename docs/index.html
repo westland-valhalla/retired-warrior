@@ -1,0 +1,104 @@
+<!DOCTYPE html><html lang="en"><head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Notes about growing up.">
+  <meta name="author" content="Westland Valhalla.">
+  <meta name="generator" content="node.js">
+  <title>Warrior - A warrior is she that thrives where&#x2019;er she be.</title>
+  <link rel="canonical" href="https://westland-valhalla.github.io/warrior/">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom styles for this template -->
+  <link href="css/custom.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <main role="main" class="container">
+
+    <section class="main-content">
+
+      <article>
+
+        <h3 class="pt-3">
+          Warrior
+          <small class="text-muted">Table of Contents</small>
+        </h3>
+
+        <hr>
+
+        <ul class="list-unstyled">
+          <li class="p-2"><a href="introduction.html">Introduction</a></li>
+          <li class="p-2"><a href="hunter.html">The Hunter</a></li>
+          <li class="p-2"><a href="adventurer.html">The Adventurer</a></li>
+          <li class="p-2"><a href="warrior.html">The Warrior of Duty and Loyalty</a></li>
+          <li class="p-2"><a href="knight.html">The Knight of Virtue</a></li>
+          <li class="p-2"><a href="gentleman.html">The Lady and The Gentleman</a></li>
+          <li class="p-2"><a href="officer.html">The Officer</a></li>
+          <li class="p-2"><a href="intellectual.html">The Intellectual</a></li>
+          <li class="p-2"><a href="bodybuilder.html">The Bodybuilder</a></li>
+          <li class="p-2"><a href="athlete.html">The Athlete</a></li>
+          <li class="p-2"><a href="humanitarian.html">The Humanitarian</a></li>
+          <li class="p-2"><a href="ultra.html">The Ultra</a></li>
+          <li class="p-2"><a href="superhero.html">The Superhero</a></li>
+          <li class="p-2"><a href="programmer.html">The Programmer</a></li>
+          <li class="p-2"><a href="philosopher.html">The Philosopher</a></li>
+        </ul>
+
+      </article>
+
+      <article>
+
+        <h3 class="pt-3">
+          News
+          <small class="text-muted">notable updates</small>
+        </h3>
+
+        <!-- note use (new Date()).toISOString() to get a timestamp -->
+        <ul class="list-unstyled">
+          <li class="p-2">
+            Working on explaining pipes in <a href="programmer.html">The Programmer</a> section.
+            <time class="updated" itemprop="dateModified" datetime="2019-11-21T13:51:38.985Z"></time>
+          </li>
+          <li class="p-2">
+            Restructuring youtube links in <a href="programmer.html">The Programmer</a> section.
+            <time class="updated" itemprop="dateModified" datetime="2019-11-20T13:51:38.985Z"></time>
+          </li>
+        </ul>
+
+      </article>
+
+    </section>
+
+  </main><!-- /.container -->
+
+  <script src="js/jquery-3.3.1.slim.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/moment-with-locales.min.js"></script>
+
+  <script>
+  jQuery(document).ready(function($){
+
+      var now = moment();
+
+      $('time').each(function(i, e) {
+          var time = moment($(e).attr('datetime'));
+
+          if(now.diff(time, 'days') < 1) {
+            $(e).html('<span class="badge badge-primary mb-2">' + time.from(now) + '</span>');
+          }else if(now.diff(time, 'days') < 5) {
+              $(e).html('<span class="badge badge-info mb-2">' + time.from(now) + '</span>');
+          }else{
+            $(e).html('<span class="badge badge-light mb-2">' + time.format("M/D/YYYY") + '</span>');
+          }
+      });
+
+  });
+  </script>
+
+
+
+</body></html>
