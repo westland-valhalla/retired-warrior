@@ -98,9 +98,9 @@ async function renderQuotes(html, configuration){
       $('.blockquote-footer', this).append(`<span class="text-light">${quoteAuthor}</span>`)
     }
     if(quoteSource && quoteSourceUrl){
-      $('.blockquote-footer', this).append(`in <cite title="${quoteSource}"><a class="text-white" href="${quoteSourceUrl}">${quoteSource}</a></cite>`)
+      $('.blockquote-footer', this).append(` in <cite title="${quoteSource}"><a class="text-white" href="${quoteSourceUrl}">${quoteSource}</a></cite>`)
     }else if(quoteSource && !quoteSourceUrl){
-      $('.blockquote-footer', this).append(`in <cite class="text-light" title="${quoteSource}">${quoteSource}</cite>`)
+      $('.blockquote-footer', this).append(` in <cite class="text-light" title="${quoteSource}">${quoteSource}</cite>`)
     }
   })
   return $.root().html();
@@ -158,9 +158,9 @@ async function renderText(html, configuration){
     const quoteText = $(this).html();
 
     let widgetHtml = `
-    <div class="card text-white bg-primary shadow-lg">
+    <div class="card text-white bg-danger shadow-lg">
 
-    <div class="card-header">${quoteTitle}</div>
+    <div class="card-header lead font-weight-bold">${quoteTitle}</div>
 
       <div class="card-body">
         <div class="py-2 lead">

@@ -20,3 +20,7 @@ article {
 
 
 }
+
+.card.bg-danger.text-white a {
+  color: #ffd700;
+}
