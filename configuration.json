@@ -6,9 +6,13 @@
     {"name":"css", "title":"CSS Dependencies"},
     {"name":"images", "title":"Image Dependencies"},
     {"name":"js", "title":"JavaScript Dependencies"}
+
   ],
 
   "chapters":[
+
+    {"name":"index", "title":"Table of Contents"},
+
     {"name":"introduction", "title":"Introduction"},
     {"name":"hunter", "title":"The Hunter"},
     {"name":"adventurer", "title":"The Adventurer"},
@@ -24,6 +28,7 @@
     {"name":"superhero", "title":"The Superhero"},
     {"name":"programmer", "title":"The Programmer"},
     {"name":"philosopher", "title":"The Philosopher"}
+
   ]
 
 }
