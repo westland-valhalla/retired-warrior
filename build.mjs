@@ -87,7 +87,7 @@ async function renderComponents(html, configuration){
 
 
     const widgetHtml = `
-      <div class="card text-white bg-dark">
+      <div class="card text-white bg-dark shadow">
         <div class="card-header">
           ${youtubeTitle}
         </div>
