@@ -12,8 +12,8 @@ async function main(){
   const configuration = await fs.readJson('./configuration.json');
   console.log(configuration);
 
-  await copyAssets(configuration);
   await renderFiles(configuration);
+  await copyAssets(configuration);
 
 }
 
