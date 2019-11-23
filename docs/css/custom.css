@@ -24,3 +24,6 @@ article {
 .card.bg-danger.text-white a {
   color: #ffd700;
 }
+.card.bg-info.text-white a {
+  color: #b8175d;
+}
