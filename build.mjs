@@ -119,7 +119,7 @@ async function renderPoems(html, configuration){
 
     const quoteText = $(this).html();
     let widgetHtml = `
-    <div class="card text-white bg-secondary shadow-lg">
+    <div class="card text-white bg-success shadow-lg">
       <div class="card-body">
 
         <h3 class="poem-title pb-3">
