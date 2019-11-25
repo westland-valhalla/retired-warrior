@@ -27,6 +27,7 @@
     {"name":"ultra", "title":"The Ultra"},
     {"name":"superhero", "title":"The Superhero"},
     {"name":"programmer", "title":"The Programmer"},
+    {"name":"astronomer", "title":"The Astronomer"},
     {"name":"philosopher", "title":"The Philosopher"}
 
   ]
