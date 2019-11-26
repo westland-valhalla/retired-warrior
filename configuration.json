@@ -14,22 +14,27 @@
     {"name":"index", "title":"Table of Contents"},
 
     {"name":"introduction", "title":"Introduction"},
+
     {"name":"hunter", "title":"The Hunter"},
     {"name":"adventurer", "title":"The Adventurer"},
     {"name":"soldier", "title":"The Soldier"},
+
     {"name":"knight", "title":"The Knight of Virtue"},
-    {"name":"gentleman", "title":"The Lady and The Gentleman"},
+    {"name":"gentleman", "title":"Lady and Gentleman"},
     {"name":"officer", "title":"The Officer"},
+
     {"name":"intellectual", "title":"The Intellectual"},
-    {"name":"bodybuilder", "title":"The Bodybuilder"},
     {"name":"athlete", "title":"The Athlete"},
     {"name":"humanitarian", "title":"The Humanitarian"},
+
     {"name":"ultra", "title":"The Ultra"},
     {"name":"superhero", "title":"The Superhero"},
-    {"name":"hacker", "title":"The Hacker"},
-    {"name":"programmer", "title":"The Programmer"},
     {"name":"astronomer", "title":"The Astronomer"},
-    {"name":"philosopher", "title":"The Philosopher"}
+    {"name":"philosopher", "title":"The Philosopher"},
+
+    {"name":"bodybuilder", "title":"The Bodybuilder"},
+    {"name":"hacker", "title":"The Hacker"},
+    {"name":"programmer", "title":"The Programmer"}
 
   ]
 

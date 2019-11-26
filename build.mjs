@@ -39,11 +39,12 @@ async function renderFiles(configuration){
       const filename = item.name + '.html';
       const original = (await fs.readFile(path.join(configuration.source, filename))).toString()
 
-      // let rendered = await patchOldStuff(original);
+      // let rendered = await patchOldStuff(original, configuration, item);
       let rendered = await renderComponents(original, configuration);
       rendered = await renderQuotes(rendered, configuration);
       rendered = await renderPoems(rendered, configuration);
       rendered = await renderText(rendered, configuration);
+      rendered = await renderNavigation(rendered, configuration, item);
 
       //console.log(rendered)
       await fs.writeFile(path.join(configuration.destination, filename), rendered)
@@ -51,22 +52,91 @@ async function renderFiles(configuration){
 
 }
 
-async function patchOldStuff(html){
+async function patchOldStuff(html, configuration, item){
   const $ = cheerio.load(html);
 
-  $('p > a > img').each(function(i, elem) {
+  // $('p > a > img').each(function(i, elem) {
+  //
+  //   const imageHref = $(this).attr('src');
+  //   const imageAlt = $(this).attr('alt');
+  //   let youtubeId = null;
+  //   const match = imageHref.match(/http:\/\/img\.youtube\.com\/vi\/([a-zA-Z0-9_-]+)\/0.jpg$/)
+  //   if(match){
+  //     youtubeId = match[1];
+  //     $(this).parent().parent().html(`<div class="widget youtube" data-id="${youtubeId}" data-title="${imageAlt}"></div>`)
+  //   }else{
+  //     console.log('Unable to extract id from ', imageHref);
+  //   }
+  //   //console.log(youtubeId, imageHref);
+  //
+  // });
 
-    const imageHref = $(this).attr('src');
-    const imageAlt = $(this).attr('alt');
-    let youtubeId = null;
-    const match = imageHref.match(/http:\/\/img\.youtube\.com\/vi\/([a-zA-Z0-9_-]+)\/0.jpg$/)
-    if(match){
-      youtubeId = match[1];
-      $(this).parent().parent().html(`<div class="widget youtube" data-id="${youtubeId}" data-title="${imageAlt}"></div>`)
-    }else{
-      console.log('Unable to extract id from ', imageHref);
-    }
-    //console.log(youtubeId, imageHref);
+
+  function calculateArrows(item){
+
+    let currentIndex = configuration.chapters.indexOf(item);
+    let previousIndex = currentIndex -1;
+    let nextIndex = currentIndex +1;
+
+    if(previousIndex<0) previousIndex = 0;
+    if(nextIndex>configuration.chapters.length-1)  nextIndex = 0;
+
+    let up = {name:'index', title:'TOC'}
+    let previous = configuration.chapters[0];
+    let next = configuration.chapters[0];
+
+
+
+    previous = configuration.chapters[previousIndex];
+    next = configuration.chapters[nextIndex];
+    // if(previousIndex>=0){
+    // }
+    // if(nextIndex>configuration.chapters.length){
+    // }
+
+    return [previous, up, next]
+  }
+
+  const [previous, up, next] = calculateArrows(item, configuration);
+  let currentIndex = configuration.chapters.indexOf(item);
+
+  console.log(`${configuration.chapters.length}) LOCATION = ${item.name}/${currentIndex} ->  [${previous.name}, ${up.name}, ${next.name}]`);
+
+  $('article > nav').each(function(i, elem) {
+
+  // const newHtml = `
+  //     <nav aria-label="Page Navigation">
+  //       <ul class="pagination pagination-lg justify-content-center">
+  //         <li class="page-item">
+  //           <a class="page-link" href="${previous.name}.html"><img style="width: 1rem; height:1rem;" src="images/arrow-alt-circle-left.svg"></a>
+  //         </li>
+  //         <li class="page-item"><a class="page-link" href="${up.name}.html"><img style="width: 1rem; height:1rem;" src="images/arrow-alt-circle-up.svg"></a></li>
+  //         <li class="page-item">
+  //           <a class="page-link" href="${next.name}.html">${next.title}&nbsp;&raquo;</a>
+  //         </li>
+  //       </ul>
+  //     </nav>
+  // `;
+  // const newHtml = `
+  //     <nav aria-label="Page Navigation">
+  //
+  //       <p class="py-3">
+  //         <a href="${previous.name}.html" class="btn btn-secondary"><img style="width: 1rem; height:1rem;" src="images/arrow-alt-circle-left.svg"> ${previous.title}</a>
+  //         <a href="${up.name}.html" class="btn btn-secondary"><img style="width: 1rem; height:1rem;" src="images/list-alt.svg"> ${up.title}</a>
+  //       </p>
+  //
+  //       <p class="py-3">
+  //         <a href="${next.name}.html" class="btn btn-lg btn-primary  btn-block">${next.title} <img style="width: 1rem; height:1rem;" src="images/arrow-alt-circle-right.svg"></a>
+  //       </p>
+  //
+  //      </nav>
+  // `;
+  const newHtml = `
+      <div class="widget navigation"></div>
+  `;
+
+  //$(this).parent().html(newHtml)
+
 
   });
 
@@ -168,6 +238,59 @@ async function renderText(html, configuration){
         </div>
       </div>
     </div>
+    `;
+    $(this).html(widgetHtml);
+
+
+  })
+  return $.root().html();
+}
+
+
+async function renderNavigation(html, configuration, item){
+  const $ = cheerio.load(html);
+
+
+
+    function calculateArrows(item){
+      let currentIndex = configuration.chapters.indexOf(item);
+      let previousIndex = currentIndex -1;
+      let nextIndex = currentIndex +1;
+      if(previousIndex<0) previousIndex = 0;
+      if(nextIndex>configuration.chapters.length-1)  nextIndex = 0;
+      let up = {name:'index', title:'TOC'}
+      let previous = configuration.chapters[0];
+      let next = configuration.chapters[0];
+      previous = configuration.chapters[previousIndex];
+      next = configuration.chapters[nextIndex];
+       return [previous, up, next]
+    }
+
+    const [previous, up, next] = calculateArrows(item, configuration);
+    let currentIndex = configuration.chapters.indexOf(item);
+
+    //console.log(`${configuration.chapters.length}) LOCATION = ${item.name}/${currentIndex} ->  [${previous.name}, ${up.name}, ${next.name}]`);
+
+
+
+  $('div.widget.navigation').each(function(i, elem) {
+
+    const quoteTitle = $(this).data('title');
+    const quoteText = $(this).html();
+
+    let widgetHtml = `
+        <nav aria-label="Page Navigation">
+
+          <p class="py-3">
+            <a href="${previous.name}.html" class="btn btn-secondary"><img style="width: 1rem; height:1rem;" src="images/arrow-alt-circle-left.svg"> ${previous.title}</a>
+            <a href="${up.name}.html" class="btn btn-secondary"><img style="width: 1rem; height:1rem;" src="images/list-alt.svg"></a>
+          </p>
+
+          <p class="py-3">
+            <a href="${next.name}.html" class="btn btn-lg btn-primary  btn-block">${next.title} <img style="width: 1rem; height:1rem;" src="images/arrow-alt-circle-right.svg"></a>
+          </p>
+
+         </nav>
     `;
     $(this).html(widgetHtml);
 
