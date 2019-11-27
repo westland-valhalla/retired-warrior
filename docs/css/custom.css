@@ -28,3 +28,6 @@ article {
 .card.bg-info.text-white a {
   color: #dfff00;
 }
+.card.bg-warning a {
+  color: #f00;
+}
