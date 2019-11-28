@@ -37,6 +37,7 @@
     {"name":"programmer", "title":"The Programmer"},
 
     {"name":"explorer", "title":"The Explorer"},
+    {"name":"maker", "title":"The Maker"},
     {"name":"sculptor", "title":"The Sculptor"}
 
   ]
