@@ -35,6 +35,7 @@
     {"name":"bodybuilder", "title":"The Bodybuilder"},
     {"name":"hacker", "title":"The Hacker"},
     {"name":"programmer", "title":"The Programmer"},
+    {"name":"musician", "title":"The Musician"},
 
     {"name":"explorer", "title":"The Explorer"},
     {"name":"maker", "title":"The Maker"},

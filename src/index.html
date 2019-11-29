@@ -84,6 +84,11 @@
         <ul class="list-unstyled">
 
           <li class="p-2">
+            A note on <b>Quo Vadis</b> in Damien Mander's <a href="hunter.html">The Hunter</a> and Lucy Hone's <a href="hunter.html">The Superhero</a>
+            <time class="updated" itemprop="dateModified" datetime="2019-11-29T02:52:40.669Z"></time>
+          </li>
+
+          <li class="p-2">
             Added Shurap to <a href="maker.html">The Maker</a>
             <time class="updated" itemprop="dateModified" datetime="2019-11-28T17:04:36.718Z"></time>
           </li>
@@ -267,7 +272,12 @@
           }else if(now.diff(time, 'days') < 5) {
               $(e).html('<span class="badge badge-info mb-2">' + time.from(now) + '</span>');
           }else{
-            $(e).html('<span class="badge badge-light mb-2">' + time.format("M/D/YYYY") + '</span>');
+            if(i<30){
+              $(e).html('<span class="badge badge-light mb-2">' + time.format("M/D/YYYY") + '</span>');
+            }else{
+              $(e).parent().hide()
+            }
+
           }
       });
 

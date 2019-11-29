@@ -281,13 +281,15 @@ async function renderNavigation(html, configuration, item){
     let widgetHtml = `
         <nav aria-label="Page Navigation">
 
-          <p class="py-3">
-            <a href="${previous.name}.html" class="btn btn-secondary"><img style="width: 1rem; height:1rem;" src="images/arrow-alt-circle-left.svg"> ${previous.title}</a>
-            <a href="${up.name}.html" class="btn btn-secondary"><img style="width: 1rem; height:1rem;" src="images/list-alt.svg"></a>
-          </p>
+
 
           <p class="py-3">
             <a href="${next.name}.html" class="btn btn-lg btn-primary  btn-block">${next.title} <img style="width: 1rem; height:1rem;" src="images/arrow-alt-circle-right.svg"></a>
+          </p>
+
+          <p class="py-3">
+            <a href="${previous.name}.html" class="btn btn-secondary"><img style="width: 1rem; height:1rem;" src="images/arrow-alt-circle-left.svg"> ${previous.title}</a>
+            <a href="${up.name}.html" class="btn btn-secondary"><img style="width: 1rem; height:1rem;" src="images/list-alt.svg"></a>
           </p>
 
          </nav>
