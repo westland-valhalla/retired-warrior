@@ -39,6 +39,7 @@
     {"name":"explorer", "title":"The Explorer"},
     {"name":"maker", "title":"The Maker"},
     {"name":"musician", "title":"The Musician"},
+    {"name":"artist", "title":"The Artist"},
 
     {"name":"sculptor", "title":"The Sculptor"}
 
