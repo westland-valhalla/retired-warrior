@@ -44,7 +44,8 @@
 
     {"name":"hacker", "title":"The Hacker"},
     {"name":"programmer", "title":"The Programmer"},
-    {"name":"web-developer", "title":"The Web Developer"}
+    {"name":"web-developer", "title":"The Web Developer"},
+    {"name":"founder", "title":"The Founder"}
 
 
 
