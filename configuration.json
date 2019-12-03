@@ -32,6 +32,7 @@
     {"name":"astronomer", "title":"The Astronomer"},
     {"name":"philosopher", "title":"The Philosopher"},
 
+
     {"name":"explorer", "title":"The Explorer"},
     {"name":"bodybuilder", "title":"The Bodybuilder"},
     {"name":"maker", "title":"The Maker"},
@@ -39,6 +40,7 @@
     {"name":"musician", "title":"The Musician"},
     {"name":"sculptor", "title":"The Sculptor"},
     {"name":"artist", "title":"The Artist"},
+
 
     {"name":"hacker", "title":"The Hacker"},
     {"name":"programmer", "title":"The Programmer"},
