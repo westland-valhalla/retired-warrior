@@ -31,3 +31,14 @@ article {
 .card.bg-warning a {
   color: #f00;
 }
+
+
+
+
+.shadow {
+	box-shadow: 0 .5rem 1rem rgba(17, 2, 36, 0.9) !important;
+}
+
+.text-white {
+  text-shadow: rgba(0,0,0,0.3) 1px 0, rgba(0,0,0,0.2) 0 1px, rgba(255,255,255,0.3) 0 -1px, rgba(0,0,0,0.2) 1px 2px;
+}

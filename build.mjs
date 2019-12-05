@@ -152,7 +152,7 @@ async function renderQuotes(html, configuration){
     const quoteSourceUrl = $(this).data('source-url');
     const quoteText = $(this).html();
     let widgetHtml = `
-    <div class="card text-white bg-info shadow-lg">
+    <div class="card text-white bg-info shadow">
       <div class="card-body">
         <blockquote class="blockquote mb-0">
           <p>${quoteText}</p>
@@ -189,7 +189,7 @@ async function renderPoems(html, configuration){
 
     const quoteText = $(this).html();
     let widgetHtml = `
-    <div class="card text-white bg-success shadow-lg">
+    <div class="card text-white bg-success shadow">
       <div class="card-body">
 
         <h3 class="poem-title pb-3">
@@ -228,7 +228,7 @@ async function renderText(html, configuration){
     const quoteText = $(this).html();
 
     let widgetHtml = `
-    <div class="card text-white bg-danger shadow-lg">
+    <div class="card text-white bg-danger shadow">
 
     <div class="card-header lead font-weight-bold">${quoteTitle}</div>
 
@@ -324,7 +324,7 @@ async function renderComponents(html, configuration){
 
 
     const widgetHtml = `
-      <div class="card text-white bg-dark shadow-lg">
+      <div class="card text-white bg-dark shadow">
         <div class="card-header">
           ${youtubeTitle}
         </div>
