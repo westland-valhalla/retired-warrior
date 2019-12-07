@@ -89,6 +89,13 @@
 
         <ul class="list-unstyled">
 
+
+
+          <li class="p-2">
+            Added the list of mergers and acquisitions by Alphabet (Google) to <a href="founder.html">The Founder</a>.
+            <time class="updated" itemprop="dateModified" datetime="2019-12-07T14:00:07.954Z"></time>
+          </li>
+
           <li class="p-2">
             Fourth Shuffle Dance tutorial in <a href="dancer.html">The Dancer</a>.
             <time class="updated" itemprop="dateModified" datetime="2019-12-07T13:40:22.882Z"></time>
@@ -368,6 +375,7 @@
 
       $('time').each(function(i, e) {
           var time = moment($(e).attr('datetime'));
+          //var day = moment($(e).attr('datetime'), "DD").fromNow()
 
           if(now.diff(time, 'days') < 1) {
             $(e).html('<span class="badge badge-primary mb-2">' + time.from(now) + '</span>');
@@ -381,7 +389,7 @@
 
               // $(e).html('<span class="badge badge-light mb-2">' + time.format("M/D/YYYY") + '</span>');
             }else{
-              $(e).parent().hide()
+              $(e).parent().hide();
             }
 
           }
