@@ -92,6 +92,10 @@
 
 
           <li class="p-2">
+            Added a better Mind Mapping intro to <a href="founder.html">The Founder</a>.
+            <time class="updated" itemprop="dateModified" datetime="2019-12-08T02:59:19.342Z"></time>
+          </li>
+          <li class="p-2">
             Added the list of mergers and acquisitions by Alphabet (Google) to <a href="founder.html">The Founder</a>.
             <time class="updated" itemprop="dateModified" datetime="2019-12-07T14:00:07.954Z"></time>
           </li>
@@ -375,24 +379,39 @@
 
       $('time').each(function(i, e) {
           var time = moment($(e).attr('datetime'));
-          //var day = moment($(e).attr('datetime'), "DD").fromNow()
+
+          var className = 'badge-primary';
 
           if(now.diff(time, 'days') < 1) {
-            $(e).html('<span class="badge badge-primary mb-2">' + time.from(now) + '</span>');
+            className = 'badge-primary';
           }else if(now.diff(time, 'days') < 2) {
-              $(e).html('<span class="badge badge-success mb-2">' + time.from(now) + '</span>');
-          }else if(now.diff(time, 'days') < 5) {
-              $(e).html('<span class="badge badge-info mb-2">' + time.from(now) + '</span>');
+            className = 'badge-success';
+          }else if(now.diff(time, 'days') < 7) {
+            className = 'badge-info';
           }else{
-            if(i<30){
-              $(e).html('<span class="badge badge-secondary mb-2">' + time.from(now) + '</span>');
-
-              // $(e).html('<span class="badge badge-light mb-2">' + time.format("M/D/YYYY") + '</span>');
-            }else{
-              $(e).parent().hide();
-            }
-
+            className = 'badge-secondary';
           }
+
+          var dateText = time.from(now);
+
+          if(now.diff(time, 'days') < 2) {
+            dateText = time.from(now);
+          }else if(now.diff(time, 'days') < 8) {
+            var dayName = time.format("dddd")
+            //dateText = time.from(now) + ' (' + dayName +')';
+            dateText = dayName + ', ' + time.from(now);
+          }
+
+          var htmlString = '<span class="badge ' + className + ' mb-2">' + dateText +'</span>'
+
+
+          if(now.diff(time, 'days') < 30){
+            $(e).html(htmlString);
+          }else{
+            $(e).parent().hide();
+          }
+
+
       });
 
   });
