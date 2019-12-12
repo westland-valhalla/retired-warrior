@@ -1,0 +1,300 @@
+<!DOCTYPE html><html lang="en"><head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Notes about growing up.">
+  <meta name="author" content="Westland Valhalla.">
+  <meta name="generator" content="node.js">
+  <title>Warrior - A warrior is she that thrives where&#x2019;er she be.</title>
+  <link rel="canonical" href="https://westland-valhalla.github.io/warrior/">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom styles for this template -->
+  <link href="css/custom.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <main role="main" class="container">
+
+    <section class="main-content">
+
+      <article>
+        <h1 class="widget title">The Guru</h1>
+      </article>
+
+
+            <article>
+              <div class="widget text" data-title="Recap and Summary">
+                <p>
+                  In The Wizard chapter we learned not to confuse the operating system, with the user interface; as those are two separate kinds of computer programs.
+                </p>
+                <p>
+                  Now we learn that UNIX is an operating system with a user interface classified as the <a href="https://en.wikipedia.org/wiki/Command-line_interface">Command-line interface</a>, and we will aim to separate the two, set UNIX aside, and see what else we can control with a command-line interface.
+                </p>
+              </div>
+            </article>
+
+            <article>
+              <div class="widget text" data-title="The Command-Line Interface (CLI)">
+                <p>
+                  The command-line interface has proven it self to be very useful in context of UNIX, and pretty much every other operating system.
+                </p>
+                <p>
+                  Let us set operating systems aside, and ask some questions about the command-line interface as it relates to you, Dear Reader.
+                </p>
+
+              </div>
+            </article>
+
+            <article>
+              <div class="widget text" data-title="Uniformity of Commands">
+
+                <p>
+                  Once you learn the shape that a command can take, you will be able to use any command on any system.
+                </p>
+                <p>
+                  Let us proceed with an imaginary command "print" that has some extra features.
+                </p>
+              </div>
+            </article>
+
+            <article>
+              <div class="widget text" data-title="Command Documentation">
+                <p>
+                  Most well behaved commands can be executed with the --help argument, or the -h flag to print some helpful documentation.
+                </p>
+                <p>
+                  <code class="text-green">print --help</code>
+                </p>
+                <hr>
+                <p class="small">
+                  Popular commands will come with manual pages that can be read with the man command. In this case we would execute: <code class="text-green">man print</code>
+                </p>
+              </div>
+            </article>
+
+            <article>
+              <div class="widget text" data-title="The Simplest Form">
+                <p>
+                  In the following example there is one argument "hello world".
+                  Without quotes the command would see two arguments "hello" and "world".
+                  Quotes are used to join two or more things together.
+                </p>
+
+                <p>
+                  <code class="text-green">print &quot;hello world&quot;</code>
+                </p>
+              </div>
+            </article>
+
+            <article>
+              <div class="widget text" data-title="The Extended Form">
+                <p>
+                  In the next example we have a Boolean flag "-u" meaning enable underline mode.
+                  To disable the underline mode, you simply remove the -u.
+                  Then we have the extended argument "--format" followed by a directive "capitalize". Supported directives can be found in documentation.
+                </p>
+
+                <p>
+                  <code class="text-green">print -u --format capitalize &quot;hello world&quot;</code>
+                </p>
+
+                <hr>
+                <p>
+                  To make things easier to type, most commands allow short form of extended arguments, so --format can become -f.
+                </p>
+                <p>
+                  <code class="text-green">print -u -f capitalize &quot;hello world&quot;</code>
+                </p>
+                <hr>
+                <p>
+                  Conversely, most one letter arguments/flags have an extended form that begins with two hyphens. Note how -u changed to --underline.
+                </p>
+                <p>
+                  <code class="text-green">print --underline -f capitalize &quot;hello world&quot;</code>
+                </p>
+                <hr>
+                <p>
+                  For clarity and readability, I recommend using extended forms.
+                </p>
+                <p>
+                  <code class="text-green">print --underline --format capitalize &quot;hello world&quot;</code>
+                </p>
+
+              </div>
+            </article>
+
+            <!-- <ul class="list-unstyled">
+              <li>How does the CLI help you?</li>
+              <li>What can it do for you?</li>
+
+              <li>What problem(s) does it solve?</li>
+              <li>And do you really have those problems?</li>
+            </ul> -->
+
+            <article>
+              <div class="widget text" data-title="Why would anyone want to apply a Command-line interface to something?">
+
+                <p>
+                  Because of the uniformity of command syntax.
+                  Once you know how to run one command, you know how to run them all.
+                  You just need to pull up the documentation to see what all the commands are and what arguments they accept.
+                </p>
+
+              </div>
+            </article>
+
+
+            <article>
+              <div class="widget text" data-title="What other complex systems can the Command-line interface be successfully applied to?">
+                <p>
+                  Anything that is a complex system can be controlled with a Command-line interface.
+                </p>
+              </div>
+            </article>
+
+
+            <article>
+              <div class="widget text" data-title="Your Car">
+                <p>
+                  <code class="text-green">lights --highbeams on</code><br>
+                  <code class="text-green">lights --highbeams off</code><br>
+                  <code class="text-green">dashboard --engine-light off</code><br>
+                  <code class="text-green">glovebox --lock passw0rd1</code><br>
+                  <code class="text-green">glovebox --unlock passw0rd1</code><br>
+                </p>
+              </div>
+            </article>
+
+            <article>
+              <div class="widget text" data-title="Your House">
+                <p>
+                  <code class="text-green">lights --off</code><br>
+                  <code class="text-green">stove --off</code><br>
+                  <code class="text-green">thermostat --heat 72</code><br>
+                  <code class="text-green">coffeemaker --on 6AM</code><br>
+                </p>
+              </div>
+            </article>
+
+            <article>
+              <div class="widget text" data-title="Your Office Shenanigans">
+
+                <p>
+                  Please read <a href="https://github.com/NARKOZ/hacker-scripts">github.com/NARKOZ/hacker-scripts</a>
+                  Which "hack" this poor bastard's coffemaker, soon to be ruined romantic life, a particularly needy customer, and alcoholism. Based on a true story, apparently.
+
+                </p>
+
+                <p>
+
+                  Please note how the community of geeks that love this story came together and started re-creating these "hacker" scripts in the programming languages they favor; probably out of sadness.
+                </p>
+
+                <p>
+                  Here is the Node.js Version of <a href="https://github.com/NARKOZ/hacker-scripts/blob/master/nodejs/fucking_coffee.js">fucking_coffee.js</a>.
+                  Note that once the telnet connection is established at line number 22, we begin using the coffeemaker command-line interface: sys brew (line 26), sys pour (line 32).
+                </p>
+
+                <p>
+                  Don't think of the coffeemaker as running UNIX,
+                  just think of it as it being controlled by a command line interface somewhere.
+                </p>
+
+                <p>
+                  Any machine with a button or two is a system with enough complexity to benefit from a command-line interface.
+                </p>
+
+                <p>
+                  Note how you have never programmed a coffeemaker before, and yet you know precisely
+                  - and may even remember for months to come - the commands "sys brew" and "sys pour".
+                </p>
+
+                <p>
+                  <code class="text-green">sys brew</code><br>
+                  <code class="text-green"> sys pour</code><br>
+                </p>
+
+                <p>
+                  It seems sys is a single command that looks at the first text argument. Executing sys -h would probably print:
+                </p>
+
+      <hr>
+<pre class="text-light"><small>
+Coffemaker Help
+----
+-h / --help
+  print this text
+
+-v / --verbose
+  print debugging information
+
+-b / --brew / or simply brew
+  start brewing
+
+-p / --pour / or simply pour
+  start pouring
+
+-r / --reboot / or simply reboot
+  reboot the system
+...</small>
+</pre>
+      <hr>
+<p>
+  Lack of proper etiquette, and using text (brew) instead of arguments (--brew/-b) can be an indication of sys being a script that does not take the time to parse anything it just looks at the first thing after the command name. It is actually difficult to parse arguments (-b/--brew), it takes no effort at all to use raw text (brew).
+</p>
+              </div>
+            </article>
+
+            <article>
+              <div class="card text-white bg-danger">
+                <img src="images/section8.png" class="card-img-top" alt="Smart Coffeemaker">
+                <div class="card-body">
+                  <h5 class="card-title">Smart Coffeemaker</h5>
+                  <p class="card-text lead">
+                    <a href="https://www.mrcoffee.com/wemo-landing-page.html">Mr. Coffee Smart Coffeemaker enabled with WeMo</a> can be controlled
+                    with the bootleg <a href="https://github.com/timonreinhard/wemo-client">node.js client for WeMo</a> found on github.
+                    As a bonus, you can control you entire house, plus the Coffeemaker.
+                  </p>
+                </div>
+
+                <img src="images/wemo-schedule.jpg" class="card-img" alt="">
+
+                <div class="card-body">
+                  <p class="card-text">
+                    I was unable to locate the coffeemaker from the story.
+                    Personally I'd just stick a
+                    <a href="https://www.raspberrypi.org/">Raspberry PI</a>
+                     into a cheap one and make my own sys command (with proper argument parsing).
+                     <hr>
+                    If you are courageous enough to do this, might as well install a small web server,
+                    <a href="https://en.wikipedia.org/wiki/Trojan_Room_coffee_pot">stream the coffeemaker</a>
+                    using the
+                    <a href="https://www.raspberrypi.org/products/camera-module-v2/">camera board module</a>,
+                    and let people brew you one for a small fee of $9.95 while you blog about the experience.
+                  </p>
+                </div>
+
+              </div>
+            </article>
+
+
+      <article>
+      <div class="widget navigation"></div>
+  </article>
+
+    </section>
+
+  </main><!-- /.container -->
+
+  <script src="js/jquery-3.3.1.slim.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+
+
+
+
+
+</body></html>
