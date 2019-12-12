@@ -164,7 +164,6 @@
                 <hr>
                 I recommend you go all out and get the maximum memory 4GB (at the time of writing),
                 along with Raspberry PI branded Keyboard and Mouse, to show everyone that you mean business.
-                <hr>
                 Get two nice monitors as well (you don't have to get the 4K)
               </p>
           </div>
@@ -180,16 +179,105 @@
 
 
       <article>
-        <div class="widget text" data-title="So Cool">
+        <div class="widget text" data-title="A Short Introduction To Commands">
           <p>
-            How cool would it be if you could seed your MP3 player with music from your favorite DJs on YouTube,
-            have the files downloaded, shuffled, and fresh each morning ready for your jog, dance, or workout.
+            A command is a program made easy to execute. In other words by turning a program into a command, the programmer standardizes the execution and customization of the program.
           </p>
           <p>
-            How empowering it is to just open a terminal, type in<br>
+            Usually programs need compilation, or an interpreter, they need some libraries. Often programs may need to be configured somehow, be it a configuration file, or just editing code.
+            Programs may be hard to run, because every program is different.
+          </p>
+          <p>
+            When a programmer decides to turn his program into a command, something wonderful happens.
+            The programmer adds a bunch of stuff to his program to make it into a command, and thus <em>standardizes</em> the way the program is ran and customized.
+          </p>
+        </div>
+        </article>
+
+        <article>
+          <div class="widget text" data-title="Commands At A Glance">
+
+          <p>
+            Here is what a command really looks like:
+          </p>
+
+          <p><code class="text-green">command-name --some-argument value-of-the-argument</code></p>
+          <hr>
+          <p><code class="text-green">gmail --recipient alice@aol.com --subject "I can't even!" --message "I can't freaking believe it, commands are cool, rawr!"</code></p>
+
+        </div>
+        </article>
+
+        <article>
+          <div class="widget text" data-title="Commands Can Do Anything">
+
+          <p>
+            Commands usually come in groups, for example there is a group of commands that manage files and directories,
+            a group of commands that compress files, or download files across the internet.
+          </p>
+
+          </div>
+        </article>
+
+        <article>
+          <div class="widget text" data-title="File Management Commands">
+            <p>
+            Manage files and directories with
+            <a href="http://man7.org/linux/man-pages/man1/touch.1.html">touch</a>,
+            <a href="http://man7.org/linux/man-pages/man1/ls.1.html">ls</a>,
+            <a href="http://man7.org/linux/man-pages/man1/cp.1.html">cp</a>,
+            <a href="http://man7.org/linux/man-pages/man1/mkdir.1.html">mkdir</a>,
+            <a href="http://man7.org/linux/man-pages/man1/rmdir.1.html">rmdir</a>,
+            <a href="http://man7.org/linux/man-pages/man1/mv.1.html">mv</a>,
+            and <a href="http://man7.org/linux/man-pages/man1/rm.1.html">rm</a> to name a few.
+            If you use a file manager with a graphic user interface (GUI), then you don't need to worry about these.
+          </p>
+          </div>
+        </article>
+
+        <article>
+          <div class="widget text" data-title="File Compression Commands">
+            <p>
+            A group of commands for compressing files to save space
+            <a href="https://linux.die.net/man/1/gzip">gzip</a>,
+            <a href="http://man7.org/linux/man-pages/man1/tar.1.html">tar</a>,
+            and <a href="https://linux.die.net/man/1/bzip2">bzip2</a> to name a few.
+            </p>
+          </div>
+        </article>
+
+        <article>
+          <div class="widget text" data-title="File Download Command">
+            <p>
+              Some commands are so good at what they do there is only a couple of them <a href="http://man7.org/linux/man-pages/man1/wget.1.html">wget</a> and <a href="http://man7.org/linux/man-pages/man1/curl.1.html">curl</a> are a good example of that.
+              cURL downloads files really well, it is also very frequently used for debugging or testing web-servers that serve files, it is a very efficient program.
+              wget is awesome at resuming downloads and downloading large files, it actually has a feature that not only downloads a web page, but also all the images and other web pages that are linked to it.
+              <hr>
+              There are also some really eyebrow raising commands like <a href="https://github.com/ytdl-org/youtube-dl/blob/master/README.md">youtube-dl</a> which comes with an --extract-audio argument, meaning, it will make an mp3 out of a video.
+             </p>
+            <p>
+              I don't know what the YouTube's Terms of Service state on the subject of downloading public domain materials and using them as a wake up alarm sound on your phone for example. So don't do this, you don't want to get banned from youtube, because that may mean getting kicked from gmail and their whole ecosystem.
+            </p>
+            <p>
+              But here is what the command would look like if you were a YouTube creator wanting to make a backup of her video(s).
+              <p><code class="text-green">youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=YOUR_VIDEO_ID</code></p>
+            </p>
+            <p>
+               Look how simple and easy to read. Commands can save you from thousands of mouse clicks and hours of annoying, repetitive work.
+               Commands are a beautiful invention.
+               Graphic user interfaces are helpful when learning computers, but eventually they will force you into a lot of clicks.
+            </p>
+          </div>
+        </article>
+
+        <article>
+          <div class="widget text" data-title="Commands Are Friends!">
+            <p>
+            It is so awesome to just open a terminal, type in<br>
             <code class="text-green">gmail alice@aol.com -s "About Cybertruck" -m "So did you get the $69K build?" </code><br>
-            and go have your Irish Breakfast Tea 35 seconds earlier, because you didn't have to wait for the window to open and start sucking memory whilst inspecting its innards.
-          </p>
+            and go have your Irish Breakfast Tea (or an Earl Gray with an extra lump of sugar and an extended pinkie) a whole 35 seconds earlier,
+            because you didn't have to wait for the mail window to open and start sucking memory whilst inspecting its innards.
+            </p>
         </div>
       </article>
 
@@ -213,7 +301,7 @@
                <code class="text-green">ffmpeg -i test1.avi -i test2.avi -vcodec copy -acodec copy -vcodec copy -acodec copy test12.avi -newvideo -newaudio</code>
              </p>
              <p>
-               I have some guesses as to what the ff stands for. You can visit the man page here: <a href="https://linux.die.net/man/1/ffmpeg">https://linux.die.net/man/1/ffmpeg</a>
+               I have some guesses as to what the ff stands for. You can visit the manual page here: <a href="https://linux.die.net/man/1/ffmpeg">https://linux.die.net/man/1/ffmpeg</a>
              </p>
 
         </div>
