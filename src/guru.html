@@ -133,7 +133,7 @@
             </article>
 
             <article>
-              <div class="widget text" data-title="Uniformity of Commands">
+              <div class="widget text" data-title="GUI Preview">
 
                 <p>
                   Compare the command to its GUI version below.
@@ -157,7 +157,7 @@
 
                     <div class="form-group pb-3">
                       <label for="printText">Text To Print</label>
-                      <input id="printText" name="printText" type="text" class="form-control" placeholder="(enter your text here)" value="Hello World" required>
+                      <input id="printText" name="printText" type="text" class="form-control" placeholder="(enter your text here)" value="Ballistic missile threat inbound to Hawaii. Seek immediate shelter. This is not a drill." required>
                       <div class="valid-feedback">
                         Looks good!
                       </div>
@@ -169,8 +169,12 @@
                     <div class="form-check pb-3">
                       <input id="printUnderline" name="printUnderline" class="form-check-input" type="checkbox" value="true">
                       <label class="form-check-label" for="printUnderline">
-                        Activate Underline Mode. Warning enabling the underline mode is dangerous, as it will underline everything you typed in above.
+                        Activate Underline Mode.
+                        This option will underline everything you typed in above.
                       </label>
+                      <div class="alert alert-warning" role="alert">
+                        <strong>Warning</strong> enabling the underline mode is very dangerous and may attack at any time.
+                      </div>
                     </div>
 
                     <div class="form-group pb-3">
@@ -205,6 +209,19 @@
 
 
             </article>
+
+
+
+
+        <article>
+          <div class="widget text" data-title="Command Version">
+
+            <p>
+              <code class="text-green small">print -u -f uppercase &quot;ballistic missile threat inbound to Hawaii. seek immediate shelter. this is not a drill.&quot;</code>
+             </p>
+
+          </div>
+        </article>
 
 
             <!-- <ul class="list-unstyled">
