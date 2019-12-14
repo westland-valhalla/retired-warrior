@@ -157,7 +157,13 @@
 
                     <div class="form-group pb-3">
                       <label for="printText">Text To Print</label>
-                      <input id="printText" name="printText" type="text" class="form-control" placeholder="(enter your text here)" value="Hello World">
+                      <input id="printText" name="printText" type="text" class="form-control" placeholder="(enter your text here)" value="Hello World" required>
+                      <div class="valid-feedback">
+                        Looks good!
+                      </div>
+                      <div class="invalid-feedback">
+                        Please enter text.
+                      </div>
                     </div>
 
                     <div class="form-check pb-3">
@@ -173,6 +179,7 @@
                         <option value="default">Default</option>
                         <option value="uppercase">Uppercase</option>
                         <option value="lowercase">Lowercase</option>
+                        <option value="capitalize">Capitalize</option>
                       </select>
                     </div>
 
@@ -387,6 +394,13 @@ Coffemaker Help
   jQuery(document).ready(function($){
 
 
+    $('#printText').on('change', function() {
+      $('#printText').removeClass('is-invalid');
+    });
+    $('#printText').on('keypress', function() {
+      $('#printText').removeClass('is-invalid');
+    });
+
     $('#printClear').click(function() {
       $('#printScreen').empty();
     });
@@ -398,9 +412,18 @@ Coffemaker Help
         dataObject[n['name']] = n['value'];
       });
 
-      console.log(dataObject);
+      var html = dataObject.printText;
 
-      var html = $('#printText').val();
+      if(!html) {
+        $('#printText').addClass('is-invalid');
+        html = "Error: you did not enter any text to print;"
+        html = "<p class=\"card-text text-danger\">" + html + "</p>";
+        $('#printScreen').append( $(html) );
+        return;
+      }
+
+
+
       html = html.replace(/</g,'')
       html = html.replace(/>/g,'')
 
@@ -408,6 +431,12 @@ Coffemaker Help
         html = html.toUpperCase()
       } else if(dataObject.printFormat == "lowercase"){
         html = html.toLowerCase()
+      } else if(dataObject.printFormat == "capitalize"){
+        var htmls = html.split(" ");
+        htmls = htmls.map(function(str){
+          return str[0].toUpperCase() + str.slice(1);
+        });
+        html = htmls.join(" ");
       }
 
 
