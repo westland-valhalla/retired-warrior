@@ -45,12 +45,12 @@
     {"name":"photographer", "title":"The Photographer"},
 
 
+    {"name":"hacker", "title":"The Hacker"},
     {"name":"wizard", "title":"The Wizard"},
     {"name":"guru", "title":"The Guru"},
-    {"name":"hacker", "title":"The Hacker"},
-
     {"name":"programmer", "title":"The Programmer"},
     {"name":"web-developer", "title":"The Web Developer"},
+
     {"name":"founder", "title":"The Founder"}
 
 
