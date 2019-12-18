@@ -33,6 +33,7 @@
     {"name":"philosopher", "title":"The Philosopher"},
 
 
+    {"name":"skeptic", "title":"The Skeptic"},
     {"name":"explorer", "title":"The Explorer"},
     {"name":"dancer", "title":"The Dancer"},
     {"name":"bodybuilder", "title":"The Bodybuilder"},
@@ -52,7 +53,7 @@
     {"name":"web-developer", "title":"The Web Developer"},
 
     {"name":"visionary", "title":"The Visionary"},
-    
+
     {"name":"founder", "title":"The Founder"}
 
 
