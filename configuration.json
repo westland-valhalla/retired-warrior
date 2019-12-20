@@ -34,11 +34,15 @@
 
 
     {"name":"skeptic", "title":"The Skeptic"},
+    {"name":"scientist", "title":"The Scientist"},
+
+
     {"name":"explorer", "title":"The Explorer"},
+
     {"name":"dancer", "title":"The Dancer"},
     {"name":"bodybuilder", "title":"The Bodybuilder"},
-    {"name":"maker", "title":"The Maker"},
 
+    {"name":"maker", "title":"The Maker"},
     {"name":"musician", "title":"The Musician"},
     {"name":"sculptor", "title":"The Sculptor"},
     {"name":"artist", "title":"The Artist"},
@@ -53,7 +57,6 @@
     {"name":"web-developer", "title":"The Web Developer"},
 
     {"name":"visionary", "title":"The Visionary"},
-
     {"name":"founder", "title":"The Founder"}
 
 
