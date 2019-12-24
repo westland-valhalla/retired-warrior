@@ -45,6 +45,7 @@
 
     {"name":"maker", "title":"The Maker"},
     {"name":"musician", "title":"The Musician"},
+    {"name":"dj", "title":"The DJ"},
     {"name":"sculptor", "title":"The Sculptor"},
     {"name":"artist", "title":"The Artist"},
     {"name":"designer", "title":"The Designer"},
