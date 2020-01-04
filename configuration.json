@@ -43,13 +43,18 @@
     {"name":"dancer", "title":"The Dancer"},
     {"name":"bodybuilder", "title":"The Bodybuilder"},
 
+
     {"name":"maker", "title":"The Maker"},
-    {"name":"musician", "title":"The Musician"},
+
     {"name":"dj", "title":"The DJ"},
+    {"name":"musician", "title":"The Musician"},
+
     {"name":"sculptor", "title":"The Sculptor"},
+    {"name":"photographer", "title":"The Photographer"},
+
     {"name":"artist", "title":"The Artist"},
     {"name":"designer", "title":"The Designer"},
-    {"name":"photographer", "title":"The Photographer"},
+    {"name":"graffitist", "title":"The Graffitist"},
 
 
     {"name":"hacker", "title":"The Hacker"},
