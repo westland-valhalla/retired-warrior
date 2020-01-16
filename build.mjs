@@ -7,6 +7,8 @@ import cheerio from 'cheerio';
 import lodash from 'lodash';
 import chalk from 'chalk';
 
+const youtubeJson = [];
+
 async function main(){
 
   const configuration = await fs.readJson('./configuration.json');
@@ -14,6 +16,8 @@ async function main(){
 
   await renderFiles(configuration);
   await copyAssets(configuration);
+
+  fs.writeJson('youtube.json', youtubeJson);
 
 }
 
@@ -321,7 +325,9 @@ async function renderComponents(html, configuration){
     const saveThumbAs = path.resolve(`${configuration.source}/images/youtube-${youtubeId}.jpg`);
     thumbnailDownloads.push([thumbUrl,saveThumbAs]);
 
-
+    youtubeJson.push({
+        kind:"youtube", title:youtubeTitle, url:`https://www.youtube.com/watch?v=${youtubeId}`, image:thumbUrl
+    })
 
     const widgetHtml = `
       <div class="card text-white bg-dark shadow">
