@@ -326,7 +326,7 @@ async function renderComponents(html, configuration){
     thumbnailDownloads.push([thumbUrl,saveThumbAs]);
 
     youtubeJson.push({
-        kind:"youtube", title:youtubeTitle, url:`https://www.youtube.com/watch?v=${youtubeId}`, image:thumbUrl
+        kind:"youtube", title:youtubeTitle, url:`https://www.youtube.com/watch?v=${youtubeId}`, image:`https://img.youtube.com/vi/${youtubeId}/0.jpg`
     })
 
     const widgetHtml = `
