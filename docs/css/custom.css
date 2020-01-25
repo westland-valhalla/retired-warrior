@@ -1,5 +1,11 @@
 article {
-  padding-bottom: 4rem;
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+
+article > h3 {
+  padding-top: 4rem;
+
 }
 
 .card-video { position: relative; }
@@ -36,7 +42,7 @@ article {
 
 
 .shadow {
-	box-shadow: 0 .5rem 1rem rgba(17, 2, 36, 0.9) !important;
+  box-shadow: 0 .5rem 1rem rgba(17, 2, 36, 0.9) !important;
 }
 
 .text-white {
