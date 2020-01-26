@@ -106,6 +106,10 @@ async function renderComponents(html, configuration){
     return text;
   } // fun
 
+
+
+
+
   $('section.main-content > * ').each(function(i, elem) {
 
     //console.log("%d)", i);
@@ -114,54 +118,88 @@ async function renderComponents(html, configuration){
       // console.log($(elem).children().length);
 
       let ignore = false;
+
       $(elem).children().each(function(i, elem) {
+
         if(ignore) return;
 
         if( elem.name == 'h1' && $(elem).hasClass('title') ) {
           // ignore title
           ignore = true;
+
+        }else if( $(elem).hasClass('card') && $(elem).hasClass('force-skip') ) {
+          ignore = true;
+
         }else if( $(elem).hasClass('widget') && $(elem).hasClass('navigation') ) {
           ignore = true;
 
         }else if( elem.name == 'a' ) {
 
           let packet = {
-    				type: 'link',
-    				href: $(elem).attr('href'),
-    				text: $(elem).html(),
-    			}
+            type: 'link',
+            href: $(elem).attr('href'),
+            text: $(elem).html(),
+          }
+
           //console.log(packet);
           packets.push(packet);
 
         }else if( elem.name.match(/h[0-9]/) ) {
 
           let packet = {
-    				type: 'subtitle',
-    				text: $(elem).html(),
-    			}
+            type: 'subtitle',
+            text: $(elem).html(),
+          }
           //console.log(packet);
           packets.push(packet);
+
+
+
+
 
         }else if( $(elem).hasClass('widget') && $(elem).hasClass('quote') ) {
 
           let text = simpleText(elem);
 
           let packet = {
-    				type: 'quote',
-    				author: $(elem).data('author'),
-    				url: $(elem).data('author-url'),
-    				text
-    			}
+            type: 'quote',
+            author: $(elem).data('author'),
+            url: $(elem).data('author-url'),
+            text
+          }
           //console.log(packet);
           packets.push(packet);
 
         }else if( $(elem).hasClass('widget') && $(elem).hasClass('youtube') ) {
           let packet = {
-    				type: 'youtube',
-    				id: $(elem).data('id'),
-    				title: $(elem).data('title'),
-    			}
+            type: 'youtube',
+            id: $(elem).data('id'),
+            title: $(elem).data('title'),
+          }
           //console.log(packet);
+          packets.push(packet);
+
+        }else if( $(elem).hasClass('widget') && $(elem).hasClass('image') ) {
+          let text = simpleText(elem);
+          let packet = {
+            type: 'image',
+            url: $(elem).attr('image'),
+            title: $(elem).attr('title'),
+            text
+          }
+
+
+          packets.push(packet);
+        }else if( $(elem).hasClass('widget') && $(elem).hasClass('business') ) {
+          let text = simpleText(elem);
+          let packet = {
+            type: 'image',
+            url: $(elem).attr('image'),
+            title: $(elem).attr('title'),
+            text
+          }
+
+
           packets.push(packet);
 
 
@@ -170,10 +208,10 @@ async function renderComponents(html, configuration){
           let text = simpleText(elem);
 
           let packet = {
-    				type: 'text',
-    				title: $(elem).data('title'),
+            type: 'text',
+            title: $(elem).data('title'),
             text
-    			}
+          }
           //console.log(packet);
           packets.push(packet);
 
@@ -182,23 +220,26 @@ async function renderComponents(html, configuration){
           let text = simpleText(elem);
 
           let packet = {
-    				type: 'poem',
-    				title: $(elem).data('title'),
-    				author: $(elem).data('author'),
+            type: 'poem',
+            title: $(elem).data('title'),
+            author: $(elem).data('author'),
             text
-    			}
+          }
           //console.log(packet);
           packets.push(packet);
 
         }else if( $(elem).hasClass('card') ) {
-
+          // class="card
+          console.log('Use of raw cards is discouraged...')
           let packet = {
-    				type: 'card',
+            type: 'card',
             html: $(elem).html()
-    			}
-          //console.log(packet);
+          }
+        //  console.log(packet);
           packets.push(packet);
 
+
+          //process.exit();
 
         }else{
 
@@ -218,7 +259,7 @@ async function renderComponents(html, configuration){
   });
 
 
-  console.log(packets);
+///  console.log(packets);
 
 
   // $('section.main-content > article').each(function(i, elem) {

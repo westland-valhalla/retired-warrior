@@ -47,6 +47,8 @@ async function renderFiles(configuration){
       let rendered = await renderComponents(original, configuration);
       rendered = await renderQuotes(rendered, configuration);
       rendered = await renderPoems(rendered, configuration);
+      rendered = await renderImage(rendered, configuration);
+      rendered = await renderBusiness(rendered, configuration);
       rendered = await renderText(rendered, configuration);
       rendered = await renderNavigation(rendered, configuration, item);
 
@@ -224,6 +226,10 @@ async function renderPoems(html, configuration){
   })
   return $.root().html();
 }
+
+
+
+
 async function renderText(html, configuration){
   const $ = cheerio.load(html);
   $('div.widget.text').each(function(i, elem) {
@@ -241,6 +247,67 @@ async function renderText(html, configuration){
         ${quoteText}
         </div>
       </div>
+    </div>
+    `;
+    $(this).html(widgetHtml);
+
+
+  })
+  return $.root().html();
+}
+
+async function renderImage(html, configuration){
+  const $ = cheerio.load(html);
+  $('div.widget.image').each(function(i, elem) {
+
+    const quoteTitle = $(this).data('title');
+    const quoteImageSrc = $(this).data('image');
+    const quoteText = $(this).html();
+    let textHtml = '';
+
+    if( $(this).html() ){
+      textHtml = `<div class="card-text lead mt-4">${$(this).html()}</div>`;
+    }
+
+    let widgetHtml = `
+    <div class="card text-white bg-danger shadow">
+     <img src="${quoteImageSrc}" class="card-img-top" alt="${quoteTitle}">
+
+      <div class="card-body">
+         <h5 class="card-title mb-0"><strong>${quoteTitle}</strong></h5>
+             ${textHtml}
+       </div>
+
+    </div>
+    `;
+    $(this).html(widgetHtml);
+
+
+  })
+  return $.root().html();
+}
+async function renderBusiness(html, configuration){
+  const $ = cheerio.load(html);
+  $('div.widget.business').each(function(i, elem) {
+
+    const quoteTitle = $(this).data('title');
+    const quoteImageSrc = $(this).data('image');
+    const quoteText = $(this).html();
+    let textHtml = '';
+
+    if( $(this).html() ){
+      textHtml = `<div class="card-text lead mt-4">${$(this).html()}</div>`;
+    }
+
+    let widgetHtml = `
+    <div class="card text-dark bg-warning shadow">
+     <img src="${quoteImageSrc}" class="card-img-top" alt="${quoteTitle}">
+
+      <div class="card-body">
+         <h5 class="card-title mb-0"><strong>${quoteTitle}</strong></h5>
+             ${textHtml}
+       </div>
+
     </div>
     `;
     $(this).html(widgetHtml);
