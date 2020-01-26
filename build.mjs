@@ -295,7 +295,7 @@ async function renderBusiness(html, configuration){
     const quoteText = $(this).html();
     let textHtml = '';
 
-    if( $(this).html() ){
+    if( $(this).html().trim() ){
       textHtml = `<div class="card-text lead mt-4">${$(this).html()}</div>`;
     }
 
