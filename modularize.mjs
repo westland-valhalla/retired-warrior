@@ -79,7 +79,7 @@ async function renderComponents(html, configuration){
 
     if($(elem).children().length){
 
-    $(elem).children().each(function(i, elem) {
+    $(elem).parent().children().each(function(i, elem) {
 
         let string = $(elem).html().trim();
         string = string.replace(/\n/g,' ');
@@ -93,7 +93,7 @@ async function renderComponents(html, configuration){
 
 
 
-        let string = $(elem).html().trim();
+        let string = $(elem).parent().html().trim();
         string = string.replace(/\n/g,' ');
         string = string.replace(/ +/g,' ');
         string = string.replace(/^ +/g,'');
@@ -183,8 +183,8 @@ async function renderComponents(html, configuration){
           let text = simpleText(elem);
           let packet = {
             type: 'image',
-            url: $(elem).attr('image'),
-            title: $(elem).attr('title'),
+            url: $(elem).data('image'),
+            title: $(elem).data('title'),
             text
           }
 
@@ -194,8 +194,8 @@ async function renderComponents(html, configuration){
           let text = simpleText(elem);
           let packet = {
             type: 'image',
-            url: $(elem).attr('image'),
-            title: $(elem).attr('title'),
+            url: $(elem).data('image'),
+            title: $(elem).data('title'),
             text
           }
 
@@ -259,7 +259,7 @@ async function renderComponents(html, configuration){
   });
 
 
-///  console.log(packets);
+   console.log(packets);
 
 
   // $('section.main-content > article').each(function(i, elem) {
