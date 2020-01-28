@@ -24,12 +24,13 @@ main();
 
 
 async function renderFiles(configuration){
+  const book = [];
 
   console.log(chalk.yellow('Rendering Files'))
 
   let index = 0;
   for(const item of configuration.chapters){
-
+    //if (index == 0) return;
 
       const filename = item.name + '.mjs';
 
@@ -39,10 +40,11 @@ async function renderFiles(configuration){
         console.log(chalk.red('POSSIBLE UNCLOSED TAG BR/HR IN ' + item.name));
       }
 
-      if(index > 1 && index < 115) {
+     if(index > 0  ) {
         console.log(`${chalk.green(item.name.toUpperCase())}`);
-        let rendered = await renderComponents(original, configuration);
-      }
+        let data = await renderComponents(original, configuration);
+        book.push({meta:item, data });
+     }
 
       // rendered = await renderQuotes(rendered, configuration);
       // rendered = await renderPoems(rendered, configuration);
@@ -50,8 +52,11 @@ async function renderFiles(configuration){
       // rendered = await renderNavigation(rendered, configuration, item);
 
       // await fs.writeFile(path.join('modules', filename), rendered)
+      await fs.writeJson('book.json', book, {spaces:' '})
       index++
   }
+
+  console.log(book)
 
 }
 
@@ -86,14 +91,15 @@ async function renderComponents(html, configuration){
         string = string.replace(/ +/g,' ');
         string = string.replace(/^ +/g,'');
         string = string.replace(/ +$/g,'');
-        text.push(string);
+        //string = `<${elem.name}>` + string + `</${elem.name}>`;
+        text.push( string);
 
     })
     }else{
 
 
 
-        let string = $(elem).parent().html().trim();
+        let string = $(elem).html().trim();
         string = string.replace(/\n/g,' ');
         string = string.replace(/ +/g,' ');
         string = string.replace(/^ +/g,'');
@@ -103,7 +109,7 @@ async function renderComponents(html, configuration){
     }
 
     //console.log(text);
-    return text;
+    return text.filter(i=>i.trim());
   } // fun
 
 
@@ -127,7 +133,7 @@ async function renderComponents(html, configuration){
           // ignore title
           ignore = true;
 
-        }else if( $(elem).hasClass('card') && $(elem).hasClass('force-skip') ) {
+        }else if(   $(elem).hasClass('force-skip') ) {
           ignore = true;
 
         }else if( $(elem).hasClass('widget') && $(elem).hasClass('navigation') ) {
@@ -137,8 +143,8 @@ async function renderComponents(html, configuration){
 
           let packet = {
             type: 'link',
-            href: $(elem).attr('href'),
-            text: $(elem).html(),
+            url: $(elem).attr('href'),
+            title: $(elem).html(),
           }
 
           //console.log(packet);
@@ -148,7 +154,7 @@ async function renderComponents(html, configuration){
 
           let packet = {
             type: 'subtitle',
-            text: $(elem).html(),
+            title: $(elem).html(),
           }
           //console.log(packet);
           packets.push(packet);
@@ -173,7 +179,7 @@ async function renderComponents(html, configuration){
         }else if( $(elem).hasClass('widget') && $(elem).hasClass('youtube') ) {
           let packet = {
             type: 'youtube',
-            id: $(elem).data('id'),
+            video: $(elem).data('id'),
             title: $(elem).data('title'),
           }
           //console.log(packet);
@@ -183,7 +189,7 @@ async function renderComponents(html, configuration){
           let text = simpleText(elem);
           let packet = {
             type: 'image',
-            url: $(elem).data('image'),
+            url: 'warrior/'+$(elem).data('image'),
             title: $(elem).data('title'),
             text
           }
@@ -193,8 +199,8 @@ async function renderComponents(html, configuration){
         }else if( $(elem).hasClass('widget') && $(elem).hasClass('business') ) {
           let text = simpleText(elem);
           let packet = {
-            type: 'image',
-            url: $(elem).data('image'),
+            type: 'business',
+            url: 'warrior/'+$(elem).data('image'),
             title: $(elem).data('title'),
             text
           }
@@ -259,7 +265,7 @@ async function renderComponents(html, configuration){
   });
 
 
-   console.log(packets);
+   //console.log(packets);
 
 
   // $('section.main-content > article').each(function(i, elem) {
@@ -295,7 +301,7 @@ async function renderComponents(html, configuration){
 
 
 
-
+return packets;
 
 }
 

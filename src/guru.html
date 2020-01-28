@@ -62,9 +62,9 @@
                   Here is what a command really looks like:
                 </p>
 
-                <p><code class="text-green">command-name --some-argument value-of-the-argument</code></p>
+                <p>command-name --some-argument value-of-the-argument</p>
 
-                <p><code class="text-green">gmail --recipient alice@aol.com --subject "I can't even!" --message "I can't freaking believe it, commands are cool, rawr!"</code></p>
+                <p>gmail --recipient alice@aol.com --subject "I can't even!" --message "I can't freaking believe it, commands are cool, rawr!"</p>
 
               </div>
               </article>
@@ -138,12 +138,12 @@
                   <p>
                     Here is what the command would look for a YouTube Creator hoping to make a backup of a particular video.
                   </p>
-                    <p><code class="text-green small">youtube-dl https://www.youtube.com/watch?v=YOUR_VIDEO_ID</code></p>
+                    <p>youtube-dl https://www.youtube.com/watch?v=YOUR_VIDEO_ID</p>
 
                     <p>
                       And here is the code for saving just the audio it self, this is useful for making an audio only version of an adventure video or remixing your content in a song.
                     </p>
-                    <p><code class="text-green small">youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=YOUR_VIDEO_ID</code></p>
+                    <p>youtube-dl --extract-audio --audio-format mp3 https://www.youtube.com/watch?v=YOUR_VIDEO_ID</p>
 
                   <p>
                      Look how simple and easy to read. Commands can save you from thousands of mouse clicks and hours of annoying, repetitive work.
@@ -157,7 +157,7 @@
                 <div class="widget text" data-title="Commands Are Friends!">
                   <p>
                   It is so awesome to just open a terminal, type in
-                  <code class="text-green">gmail alice@aol.com -s "About Cybertruck" -m "So did you get the $69K build?" </code>
+                  gmail alice@aol.com -s "About Cybertruck" -m "So did you get the $69K build?"
                   and go have your Irish Breakfast Tea (or an Earl Gray with an extra lump of sugar and an extended pinkie) a whole 35 seconds earlier,
                   because you didn't have to wait for the mail window to open and start sucking memory whilst inspecting its innards.
                   </p>
@@ -181,7 +181,7 @@
                     files with the ffmpeg command.
                    </p>
                    <p>
-                     <code class="text-green">ffmpeg -i test1.avi -i test2.avi -vcodec copy -acodec copy -vcodec copy -acodec copy test12.avi -newvideo -newaudio</code>
+                     ffmpeg -i test1.avi -i test2.avi -vcodec copy -acodec copy -vcodec copy -acodec copy test12.avi -newvideo -newaudio
                    </p>
                    <p>
                      I have some guesses as to what the ff stands for. You can visit the manual page here: <a href="https://linux.die.net/man/1/ffmpeg">https://linux.die.net/man/1/ffmpeg</a>
@@ -201,7 +201,7 @@
                 </p>
 
                 <p>
-                        <code class="text-green">print &quot;hello world&quot; | uppercase</code>
+                        print &quot;hello world&quot; | uppercase
                 </p>
 
                 <p>
@@ -209,7 +209,7 @@
                 </p>
 
                 <p>
-                  <code class="text-green">HELLO WORLD</code>
+                  HELLO WORLD
                 </p>
 
 
@@ -224,7 +224,7 @@
                 </p>
 
                 <p>
-                <code class="text-green">print &quot;hello world&quot; | uppercase &gt; greetings.txt</code>
+                print &quot;hello world&quot; | uppercase &gt; greetings.txt
                 </p>
 
                 <p>
@@ -282,11 +282,11 @@
                   Most well behaved commands can be executed with the --help argument, or the -h flag to print some helpful documentation.
                 </p>
                 <p>
-                  <code class="text-green">print --help</code>
+                  print --help
                 </p>
 
                 <p class="small">
-                  Popular commands will come with manual pages that can be read with the man command. In this case we would execute: <code class="text-green">man print</code>
+                  Popular commands will come with manual pages that can be read with the man command. In this case we would execute: man print
                 </p>
               </div>
             </article>
@@ -300,7 +300,7 @@
                 </p>
 
                 <p>
-                  <code class="text-green">print &quot;hello world&quot;</code>
+                  print &quot;hello world&quot;
                 </p>
               </div>
             </article>
@@ -314,7 +314,7 @@
                 </p>
 
                 <p>
-                  <code class="text-green">print -u --format capitalize &quot;hello world&quot;</code>
+                  print -u --format capitalize &quot;hello world&quot;
                 </p>
 
 
@@ -322,14 +322,14 @@
                   To make things easier to type, most commands allow short form of extended arguments, so --format can become -f.
                 </p>
                 <p>
-                  <code class="text-green">print -u -f capitalize &quot;hello world&quot;</code>
+                  print -u -f capitalize &quot;hello world&quot;
                 </p>
 
                 <p>
                   Conversely, most one letter arguments/flags have an extended form that begins with two hyphens. Note how -u changed to --underline.
                 </p>
                 <p>
-                  <code class="text-green">print --underline -f capitalize &quot;hello world&quot;</code>
+                  print --underline -f capitalize &quot;hello world&quot;
                 </p>
 
 
@@ -337,14 +337,14 @@
                   For clarity and readability, I recommend using extended forms.
                 </p>
                 <p>
-                  <code class="text-green">print --underline --format capitalize &quot;hello world&quot;</code>
+                  print --underline --format capitalize &quot;hello world&quot;
                 </p>
 
               </div>
             </article>
 
             <article>
-              <div class="widget text" data-title="GUI Preview">
+              <div class="widget text force-skip" data-title="GUI Preview">
 
                 <p>
                   Compare the command to its GUI version below.
@@ -425,10 +425,10 @@
 
 
         <article>
-          <div class="widget text" data-title="Command Version">
+          <div class="widget text force-skip" data-title="Command Version">
 
             <p>
-              <code class="text-green small">print -u -f uppercase &quot;ballistic missile threat inbound to Hawaii. seek immediate shelter. this is not a drill.&quot;</code>
+              print -u -f uppercase &quot;ballistic missile threat inbound to Hawaii. seek immediate shelter. this is not a drill.&quot;
              </p>
 
           </div>
@@ -462,11 +462,11 @@
             <article>
               <div class="widget text" data-title="Your Car">
                 <p>
-                  <div><code class="text-green">lights --highbeams on</code></div>
-                  <div><code class="text-green">lights --highbeams off</code></div>
-                  <div><code class="text-green">dashboard --engine-light off</code></div>
-                  <div><code class="text-green">glovebox --lock passw0rd1</code></div>
-                  <div><code class="text-green">glovebox --unlock passw0rd1</code></div>
+                  <div>lights --highbeams on</div>
+                  <div>lights --highbeams off</div>
+                  <div>dashboard --engine-light off</div>
+                  <div>glovebox --lock passw0rd1</div>
+                  <div>glovebox --unlock passw0rd1</div>
                 </p>
               </div>
             </article>
@@ -474,10 +474,10 @@
             <article>
               <div class="widget text" data-title="Your House">
                 <p>
-                  <div><code class="text-green">lights --off</code></div>
-                  <div><code class="text-green">stove --off</code></div>
-                  <div><code class="text-green">thermostat --heat 72</code></div>
-                  <div><code class="text-green">coffeemaker --on 6AM</code></div>
+                  <div>lights --off</div>
+                  <div>stove --off</div>
+                  <div>thermostat --heat 72</div>
+                  <div>coffeemaker --on 6AM</div>
                 </p>
               </div>
             </article>
@@ -516,8 +516,8 @@
                 </p>
 
                 <p>
-                  <div><code class="text-green">sys brew</code></div>
-                  <div><code class="text-green"> sys pour</code></div>
+                  <div>sys brew</div>
+                  <div> sys pour</div>
                 </p>
 
                 <p>
