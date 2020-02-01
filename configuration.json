@@ -35,6 +35,7 @@
     {"name":"scientist", "title":"The Scientist"},
 
 
+    {"name":"naturalist", "title":"The Naturalist"},
     {"name":"survivalist", "title":"The Survivalist"},
     {"name":"explorer", "title":"The Explorer"},
     {"name":"discoverer", "title":"The Discoverer"},
