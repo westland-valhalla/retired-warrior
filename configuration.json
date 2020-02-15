@@ -68,6 +68,7 @@
     {"name":"web-developer", "title":"The Web Developer"},
 
     {"name":"teacher", "title":"The Teacher"},
+    {"name":"student", "title":"The Student"},
     {"name":"visionary", "title":"The Visionary"},
     {"name":"founder", "title":"The Founder"}
 
