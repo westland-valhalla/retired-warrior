@@ -69,6 +69,8 @@
 
     {"name":"teacher", "title":"The Teacher"},
     {"name":"student", "title":"The Student"},
+    {"name":"genius", "title":"The Genius"},
+
     {"name":"visionary", "title":"The Visionary"},
     {"name":"founder", "title":"The Founder"}
 
