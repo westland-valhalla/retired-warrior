@@ -71,6 +71,8 @@
     {"name":"student", "title":"The Student"},
     {"name":"genius", "title":"The Genius"},
 
+    {"name":"courageous", "title":"The Courageous"},
+
     {"name":"visionary", "title":"The Visionary"},
     {"name":"founder", "title":"The Founder"}
 

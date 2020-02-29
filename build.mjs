@@ -262,24 +262,65 @@ async function renderImage(html, configuration){
 
     const quoteTitle = $(this).data('title');
     const quoteImageSrc = $(this).data('image');
-    const quoteText = $(this).html();
+    let quoteText = $(this).html();
     let textHtml = '';
 
     if( $(this).html() ){
-      textHtml = `<div class="card-text lead mt-4">${$(this).html()}</div>`;
+      textHtml = `<div class="card-text lead mt-4">${$(this).html()}</div>`.trim().replace(/\n$/,'').replace(/^\n/,'');
     }
 
-    let widgetHtml = `
-    <div class="card text-white bg-danger shadow">
-     <img src="${quoteImageSrc}" class="card-img-top" alt="${quoteTitle}">
+    if (textHtml) textHtml = textHtml.trim().replace(/\n$/,'').replace(/^\n/,'');
+    if (quoteText) quoteText = quoteText.trim().replace(/\n$/,'').replace(/^\n/,'');
+
+    let widgetHtml = ``;
+
+
+    // console.log('quoteText',quoteText);
+    // console.log('quoteTitle',quoteTitle);
+    if(quoteTitle&&quoteText){
+      widgetHtml = `
+      <div class="card text-white bg-danger shadow">
+       <img src="${quoteImageSrc}" class="card-img-top" alt="${quoteTitle}">
+
+        <div class="card-body">
+           <h5 class="card-title mb-0"><strong>${quoteTitle}</strong></h5>
+               ${textHtml}
+         </div>
+
+      </div>
+      `;
+
+    } else if(quoteTitle){
+      widgetHtml = `
+      <div class="card text-white bg-danger shadow">
+       <img src="${quoteImageSrc}" class="card-img-top" alt="${quoteTitle}">
 
       <div class="card-body">
-         <h5 class="card-title mb-0"><strong>${quoteTitle}</strong></h5>
+       <h5 class="card-title mb-0"><strong>${quoteTitle}</strong></h5>
+       </div>
+
+      </div>
+      `;
+
+    } else if(quoteText){
+    widgetHtml = `
+    <div class="card text-white bg-danger shadow">
+     <img src="${quoteImageSrc}" class="card-img-top" alt="${quoteTitle}">
+      <div class="card-body">
              ${textHtml}
        </div>
 
     </div>
     `;
+    }else{
+      widgetHtml = `
+      <div class="card text-white bg-danger shadow">
+       <img src="${quoteImageSrc}" class="card-img">
+      </div>
+      `;
+    }
+
+
     $(this).html(widgetHtml);
 
 
