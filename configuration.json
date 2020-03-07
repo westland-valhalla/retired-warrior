@@ -48,6 +48,7 @@
 
 
     {"name":"chef", "title":"The Chef"},
+    {"name":"blacksmith", "title":"The Blacksmith"},
     {"name":"maker", "title":"The Maker"},
 
     {"name":"dj", "title":"The DJ"},
