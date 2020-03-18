@@ -19,10 +19,10 @@ async function main(){
 
   fs.writeJson('youtube.json', youtubeJson);
 
+  console.log(chalk.yellow('\n\t\tTIP: WAIT 24 HOURS BEFORE POSTING NARRATIVES\n\n'));
 }
 
 main();
-
 
 
 
@@ -174,9 +174,9 @@ async function renderQuotes(html, configuration){
       $('.blockquote-footer', this).append(`<span class="text-light">${quoteAuthor}</span>`)
     }
     if(quoteSource && quoteSourceUrl){
-      $('.blockquote-footer', this).append(` in <cite title="${quoteSource}"><a class="text-white" href="${quoteSourceUrl}">${quoteSource}</a></cite>`)
+      $('.blockquote-footer', this).append(`, <cite title="${quoteSource}"><a class="text-white" href="${quoteSourceUrl}">${quoteSource}</a></cite>`)
     }else if(quoteSource && !quoteSourceUrl){
-      $('.blockquote-footer', this).append(` in <cite class="text-light" title="${quoteSource}">${quoteSource}</cite>`)
+      $('.blockquote-footer', this).append(`, <cite class="text-light" title="${quoteSource}">${quoteSource}</cite>`)
     }
   })
   return $.root().html();

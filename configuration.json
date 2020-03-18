@@ -68,8 +68,12 @@
     {"name":"programmer", "title":"The Programmer"},
     {"name":"web-developer", "title":"The Web Developer"},
 
+    {"name":"highschooler", "title":"The Highschooler"},
+
+    {"name":"principal", "title":"The Principal"},
     {"name":"teacher", "title":"The Teacher"},
     {"name":"student", "title":"The Student"},
+    
     {"name":"genius", "title":"The Genius"},
 
     {"name":"courageous", "title":"The Courageous"},
