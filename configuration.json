@@ -54,6 +54,7 @@
     {"name":"dj", "title":"The DJ"},
     {"name":"musician", "title":"The Musician"},
     {"name":"composer", "title":"The Composer"},
+    {"name":"poet", "title":"The Poet"},
 
     {"name":"sculptor", "title":"The Sculptor"},
     {"name":"photographer", "title":"The Photographer"},
