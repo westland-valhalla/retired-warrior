@@ -58,6 +58,7 @@
 
     {"name":"sculptor", "title":"The Sculptor"},
     {"name":"photographer", "title":"The Photographer"},
+    {"name":"filmmaker", "title":"The Filmmaker"},
 
     {"name":"artist", "title":"The Artist"},
     {"name":"designer", "title":"The Designer"},
