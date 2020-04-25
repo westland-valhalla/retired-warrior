@@ -40,6 +40,8 @@
     {"name":"explorer", "title":"The Explorer"},
     {"name":"discoverer", "title":"The Discoverer"},
     {"name":"astronomer", "title":"The Astronomer"},
+    
+    {"name":"mine-explorer", "title":"The Mine Explorer"},
 
     {"name":"dancer", "title":"The Dancer"},
     {"name":"athlete", "title":"The Athlete"},
